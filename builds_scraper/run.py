@@ -19,11 +19,13 @@ import sys
 from pathlib import Path
 
 from .aggregate import Aggregator
+from .build_sample import sample_builds
+from .build_trim import trim_build
 from .character import fetch_character
 from .config import Settings
 from .extract import extract_items, main_skills
 from .http_client import PoeNinjaClient
-from .models import BuildStats
+from .models import BuildsArtifact, BuildStats
 from .roster.base import RosterEntry
 from .roster.poeninja_search import (
     PoeNinjaSearchRoster,
@@ -72,6 +74,42 @@ def _aggregate(roster: list[RosterEntry], character_jsons, snapshot: Snapshot) -
     )
 
 
+def _build_browser_artifact(
+    character_jsons, snapshot: Snapshot, roster_size: int
+) -> BuildsArtifact:
+    """Trim each character into a compact Build, then sample a representative subset."""
+    trimmed = []
+    for data in character_jsons:
+        if not data:
+            continue
+        b = trim_build(data, snapshot.league_slug)
+        if b is not None:
+            trimmed.append(b)
+    sampled = sample_builds(trimmed)
+    return BuildsArtifact(
+        league=snapshot.league_name, league_slug=snapshot.league_slug,
+        snapshot_version=snapshot.version, snapshot_name=snapshot.snapshot_name,
+        scraped_at=_now_iso(), sample_size=len(sampled), roster_size=roster_size,
+        builds=sampled,
+    )
+
+
+def _write_builds_artifact(artifact: BuildsArtifact, settings: Settings) -> Path:
+    settings.ensure_dirs()
+    payload = artifact.model_dump_json(indent=2)
+    versioned = settings.output_dir / f"builds-{artifact.league_slug}-{artifact.snapshot_version}.json"
+    versioned.write_text(payload, encoding="utf-8")
+    # Stable pointer the app fetches (committed by the GitHub Action), separate from the
+    # aggregate latest-<slug>.json so the stats file stays small.
+    latest = settings.published_dir / f"builds-{artifact.league_slug}.json"
+    latest.write_text(payload, encoding="utf-8")
+    logger.info(
+        "wrote %s and %s  (%d builds sampled from %d)",
+        versioned.name, latest.name, artifact.sample_size, artifact.roster_size,
+    )
+    return latest
+
+
 def run(settings: Settings, limit: int, *, dump_raw: bool = False) -> Path:
     settings.ensure_dirs()
     with PoeNinjaClient(settings) as client:
@@ -89,8 +127,12 @@ def run(settings: Settings, limit: int, *, dump_raw: bool = False) -> Path:
                     logger.info("fetched %d/%d", i, len(roster))
                 yield data
 
-        stats = _aggregate(roster, list(_iter()), snapshot)
-    return _write_artifact(stats, settings)
+        chars = list(_iter())
+        stats = _aggregate(roster, chars, snapshot)
+        stats_path = _write_artifact(stats, settings)
+        builds = _build_browser_artifact(chars, snapshot, len(roster))
+    _write_builds_artifact(builds, settings)
+    return stats_path
 
 
 def run_from_cache(settings: Settings) -> Path:
@@ -120,8 +162,12 @@ def run_from_cache(settings: Settings) -> Path:
 
     logger.info("from-cache: %d cache files -> %d distinct characters", len(cache_glob), len(by_char))
     roster = [RosterEntry(account=a, character=c) for (a, c) in by_char]
-    stats = _aggregate(roster, list(by_char.values()), snapshot)
-    return _write_artifact(stats, settings)
+    chars = list(by_char.values())
+    stats = _aggregate(roster, chars, snapshot)
+    stats_path = _write_artifact(stats, settings)
+    builds = _build_browser_artifact(chars, snapshot, len(roster))
+    _write_builds_artifact(builds, settings)
+    return stats_path
 
 
 def run_offline(limit: int) -> int:
