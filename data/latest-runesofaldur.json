@@ -1,9 +1,9 @@
 {
   "league": "Runes of Aldur",
   "league_slug": "runesofaldur",
-  "snapshot_version": "0629-20260714-15430",
+  "snapshot_version": "0727-20260715-19371",
   "snapshot_name": "runes-of-aldur",
-  "scraped_at": "2026-07-14T08:03:14+00:00",
+  "scraped_at": "2026-07-15T08:04:29+00:00",
   "sample_size": 299,
   "roster_size": 299,
   "base_usage": [
@@ -64,11 +64,12 @@
     {
       "base_name": "Shrine Sceptre",
       "slot": "offhand",
-      "usage_count": 103,
-      "usage_pct": 0.3445,
+      "usage_count": 104,
+      "usage_pct": 0.3478,
       "rarity_mix": {
         "unique": 91,
-        "rare": 12
+        "rare": 12,
+        "magic": 1
       },
       "common_skills": []
     },
@@ -438,18 +439,18 @@
       "common_skills": []
     },
     {
-      "base_name": "Quickslip Shoes",
-      "slot": "boots",
-      "usage_count": 16,
-      "usage_pct": 0.0535,
+      "base_name": "Dueling Wand",
+      "slot": "weapon",
+      "usage_count": 17,
+      "usage_pct": 0.0569,
       "rarity_mix": {
-        "rare": 16
+        "rare": 17
       },
       "common_skills": []
     },
     {
-      "base_name": "Dueling Wand",
-      "slot": "weapon",
+      "base_name": "Quickslip Shoes",
+      "slot": "boots",
       "usage_count": 16,
       "usage_pct": 0.0535,
       "rarity_mix": {
@@ -506,6 +507,17 @@
       "usage_pct": 0.0435,
       "rarity_mix": {
         "rare": 13
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Siphoning Wand",
+      "slot": "weapon",
+      "usage_count": 13,
+      "usage_pct": 0.0435,
+      "rarity_mix": {
+        "unique": 10,
+        "rare": 3
       },
       "common_skills": []
     },
@@ -568,17 +580,6 @@
       "usage_pct": 0.0401,
       "rarity_mix": {
         "rare": 12
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Siphoning Wand",
-      "slot": "weapon",
-      "usage_count": 12,
-      "usage_pct": 0.0401,
-      "rarity_mix": {
-        "unique": 9,
-        "rare": 3
       },
       "common_skills": []
     },
@@ -777,16 +778,6 @@
       "common_skills": []
     },
     {
-      "base_name": "Runemastered Runic Fork",
-      "slot": "weapon",
-      "usage_count": 9,
-      "usage_pct": 0.0301,
-      "rarity_mix": {
-        "unique": 9
-      },
-      "common_skills": []
-    },
-    {
       "base_name": "Stoic Sceptre",
       "slot": "weapon",
       "usage_count": 9,
@@ -840,6 +831,16 @@
     {
       "base_name": "Abyssal Signet",
       "slot": "ring",
+      "usage_count": 8,
+      "usage_pct": 0.0268,
+      "rarity_mix": {
+        "unique": 8
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Runemastered Runic Fork",
+      "slot": "weapon",
       "usage_count": 8,
       "usage_pct": 0.0268,
       "rarity_mix": {
@@ -1099,6 +1100,16 @@
       "common_skills": []
     },
     {
+      "base_name": "Evasive Leg",
+      "slot": "incursionlegright",
+      "usage_count": 5,
+      "usage_pct": 0.0167,
+      "rarity_mix": {
+        "normal": 5
+      },
+      "common_skills": []
+    },
+    {
       "base_name": "Visceral Quiver",
       "slot": "offhand",
       "usage_count": 5,
@@ -1333,6 +1344,16 @@
       "common_skills": []
     },
     {
+      "base_name": "Sturdy Leg",
+      "slot": "incursionlegright",
+      "usage_count": 4,
+      "usage_pct": 0.0134,
+      "rarity_mix": {
+        "normal": 4
+      },
+      "common_skills": []
+    },
+    {
       "base_name": "Dragonscale Boots",
       "slot": "boots",
       "usage_count": 4,
@@ -1369,16 +1390,6 @@
       "usage_pct": 0.0134,
       "rarity_mix": {
         "rare": 4
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Evasive Leg",
-      "slot": "incursionlegright",
-      "usage_count": 4,
-      "usage_pct": 0.0134,
-      "rarity_mix": {
-        "normal": 4
       },
       "common_skills": []
     },
@@ -1567,16 +1578,6 @@
       "common_skills": []
     },
     {
-      "base_name": "Restorative Leg",
-      "slot": "incursionlegright",
-      "usage_count": 3,
-      "usage_pct": 0.01,
-      "rarity_mix": {
-        "normal": 3
-      },
-      "common_skills": []
-    },
-    {
       "base_name": "Runeforged Dragonscale Boots",
       "slot": "boots",
       "usage_count": 3,
@@ -1653,16 +1654,6 @@
       "usage_pct": 0.01,
       "rarity_mix": {
         "rare": 3
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Sturdy Leg",
-      "slot": "incursionlegright",
-      "usage_count": 3,
-      "usage_pct": 0.01,
-      "rarity_mix": {
-        "normal": 3
       },
       "common_skills": []
     },
@@ -1744,6 +1735,16 @@
       "usage_pct": 0.01,
       "rarity_mix": {
         "rare": 3
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Caster Arm",
+      "slot": "incursionarmright",
+      "usage_count": 3,
+      "usage_pct": 0.01,
+      "rarity_mix": {
+        "normal": 3
       },
       "common_skills": []
     },
@@ -1844,6 +1845,26 @@
       "usage_pct": 0.01,
       "rarity_mix": {
         "normal": 3
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Commanding Arm",
+      "slot": "incursionarmleft",
+      "usage_count": 3,
+      "usage_pct": 0.01,
+      "rarity_mix": {
+        "normal": 3
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Runeforged Blacksteel Gauntlets",
+      "slot": "gloves",
+      "usage_count": 3,
+      "usage_pct": 0.01,
+      "rarity_mix": {
+        "rare": 3
       },
       "common_skills": []
     },
@@ -2071,16 +2092,6 @@
       "common_skills": []
     },
     {
-      "base_name": "Caster Arm",
-      "slot": "incursionarmright",
-      "usage_count": 2,
-      "usage_pct": 0.0067,
-      "rarity_mix": {
-        "normal": 2
-      },
-      "common_skills": []
-    },
-    {
       "base_name": "Decrepifying Arm",
       "slot": "incursionarmleft",
       "usage_count": 2,
@@ -2161,16 +2172,6 @@
       "common_skills": []
     },
     {
-      "base_name": "Runeforged Massive Mitts",
-      "slot": "gloves",
-      "usage_count": 2,
-      "usage_pct": 0.0067,
-      "rarity_mix": {
-        "rare": 2
-      },
-      "common_skills": []
-    },
-    {
       "base_name": "Runeforged Tasalian Greaves",
       "slot": "boots",
       "usage_count": 2,
@@ -2222,52 +2223,12 @@
       "common_skills": []
     },
     {
-      "base_name": "Caster Arm",
-      "slot": "incursionarmleft",
-      "usage_count": 2,
-      "usage_pct": 0.0067,
-      "rarity_mix": {
-        "normal": 2
-      },
-      "common_skills": []
-    },
-    {
       "base_name": "Guarding Arm",
       "slot": "incursionarmleft",
       "usage_count": 2,
       "usage_pct": 0.0067,
       "rarity_mix": {
         "normal": 2
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Ancient Visor",
-      "slot": "helmet",
-      "usage_count": 2,
-      "usage_pct": 0.0067,
-      "rarity_mix": {
-        "unique": 2
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Warding Quarterstaff",
-      "slot": "weapon",
-      "usage_count": 2,
-      "usage_pct": 0.0067,
-      "rarity_mix": {
-        "unique": 2
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Knight Armour",
-      "slot": "body_armour",
-      "usage_count": 2,
-      "usage_pct": 0.0067,
-      "rarity_mix": {
-        "unique": 2
       },
       "common_skills": []
     },
@@ -2374,18 +2335,8 @@
       "common_skills": []
     },
     {
-      "base_name": "Runeforged Blacksteel Gauntlets",
-      "slot": "gloves",
-      "usage_count": 2,
-      "usage_pct": 0.0067,
-      "rarity_mix": {
-        "rare": 2
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Commanding Arm",
-      "slot": "incursionarmleft",
+      "base_name": "Restorative Leg",
+      "slot": "incursionlegright",
       "usage_count": 2,
       "usage_pct": 0.0067,
       "rarity_mix": {
@@ -2410,6 +2361,36 @@
       "usage_pct": 0.0067,
       "rarity_mix": {
         "rare": 2
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Ancient Visor",
+      "slot": "helmet",
+      "usage_count": 2,
+      "usage_pct": 0.0067,
+      "rarity_mix": {
+        "unique": 2
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Warding Quarterstaff",
+      "slot": "weapon",
+      "usage_count": 2,
+      "usage_pct": 0.0067,
+      "rarity_mix": {
+        "unique": 2
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Knight Armour",
+      "slot": "body_armour",
+      "usage_count": 2,
+      "usage_pct": 0.0067,
+      "rarity_mix": {
+        "unique": 2
       },
       "common_skills": []
     },
@@ -2825,6 +2806,16 @@
       "common_skills": []
     },
     {
+      "base_name": "Runeforged Massive Mitts",
+      "slot": "gloves",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "rarity_mix": {
+        "rare": 1
+      },
+      "common_skills": []
+    },
+    {
       "base_name": "Long Belt",
       "slot": "belt",
       "usage_count": 1,
@@ -3055,16 +3046,6 @@
       "common_skills": []
     },
     {
-      "base_name": "Forking Belt",
-      "slot": "belt",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "rarity_mix": {
-        "rare": 1
-      },
-      "common_skills": []
-    },
-    {
       "base_name": "Vaal Mitts",
       "slot": "gloves",
       "usage_count": 1,
@@ -3255,12 +3236,32 @@
       "common_skills": []
     },
     {
+      "base_name": "Caster Arm",
+      "slot": "incursionarmleft",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "rarity_mix": {
+        "normal": 1
+      },
+      "common_skills": []
+    },
+    {
       "base_name": "Runemastered Veridical Chain",
       "slot": "amulet",
       "usage_count": 1,
       "usage_pct": 0.0033,
       "rarity_mix": {
         "unique": 1
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Forking Belt",
+      "slot": "belt",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "rarity_mix": {
+        "rare": 1
       },
       "common_skills": []
     },
@@ -4370,8 +4371,8 @@
         40.0,
         20.0,
         20.0,
-        40.0,
         20.0,
+        40.0,
         20.0,
         20.0,
         20.0,
@@ -4430,8 +4431,8 @@
         40.0,
         20.0,
         20.0,
-        40.0,
         20.0,
+        40.0,
         20.0,
         20.0,
         20.0,
@@ -4550,13 +4551,13 @@
         40.0,
         18.0,
         20.0,
+        20.0,
         40.0,
         20.0,
         20.0,
         18.0,
         18.0,
         18.0,
-        20.0,
         20.0,
         20.0,
         20.0,
@@ -4622,7 +4623,7 @@
         19.0,
         19.0,
         18.0,
-        18.0,
+        37.0,
         18.0
       ]
     },
@@ -4729,12 +4730,12 @@
         40.0,
         40.0,
         60.0,
+        40.0,
         60.0,
         60.0,
         40.0,
         20.0,
         60.0,
-        40.0,
         40.0,
         40.0,
         40.0,
@@ -4789,12 +4790,12 @@
         40.0,
         40.0,
         60.0,
+        40.0,
         60.0,
         60.0,
         40.0,
         20.0,
         60.0,
-        40.0,
         40.0,
         40.0,
         40.0,
@@ -4907,6 +4908,7 @@
         36.0,
         36.0,
         60.0,
+        40.0,
         60.0,
         60.0,
         40.0,
@@ -4914,7 +4916,6 @@
         40.0,
         36.0,
         18.0,
-        40.0,
         36.0,
         40.0,
         36.0,
@@ -5144,6 +5145,7 @@
         94.0,
         60.0,
         94.0,
+        96.0,
         94.0,
         125.0,
         29.0,
@@ -5151,7 +5153,6 @@
         78.0,
         95.0,
         45.0,
-        96.0,
         121.0,
         92.0,
         124.0,
@@ -5265,12 +5266,12 @@
         36.0,
         89.0,
         26.0,
+        45.0,
         38.0,
         38.0,
         34.0,
         43.0,
         27.0,
-        45.0,
         31.0,
         39.0,
         36.0,
@@ -5486,13 +5487,13 @@
         35.0,
         73.0,
         69.0,
+        72.0,
         69.0,
         65.0,
         72.0,
         73.0,
         73.0,
         64.0,
-        72.0,
         72.0,
         70.0,
         73.0,
@@ -5536,14 +5537,14 @@
         15.0,
         13.0,
         15.0,
-        10.0,
-        15.0,
-        15.0,
-        15.0,
-        10.0,
-        15.0,
-        15.0,
         14.0,
+        10.0,
+        15.0,
+        15.0,
+        15.0,
+        10.0,
+        15.0,
+        15.0,
         15.0,
         15.0,
         12.0,
@@ -5745,12 +5746,12 @@
         33.0,
         144.0,
         36.0,
+        39.0,
         34.0,
         35.0,
         36.0,
         27.0,
         38.0,
-        39.0,
         139.0,
         33.0,
         146.0,
@@ -5900,8 +5901,8 @@
         23.0,
         28.0,
         23.0,
-        34.0,
         35.0,
+        34.0,
         20.0,
         33.0,
         30.0,
@@ -6139,10 +6140,10 @@
         18.0,
         17.0,
         18.0,
+        18.0,
         17.0,
         18.0,
         19.0,
-        18.0,
         18.0,
         18.0,
         17.0,
@@ -6605,12 +6606,12 @@
         104.0,
         94.0,
         108.0,
+        104.0,
         39.0,
         99.0,
         38.0,
         37.0,
         28.0,
-        104.0,
         41.0,
         145.0,
         107.0,
@@ -7075,9 +7076,9 @@
         40.0,
         20.0,
         32.0,
-        20.0,
-        20.0,
         40.0,
+        20.0,
+        20.0,
         20.0,
         64.0,
         20.0,
@@ -7116,9 +7117,9 @@
         40.0,
         20.0,
         32.0,
-        20.0,
-        20.0,
         40.0,
+        20.0,
+        20.0,
         20.0,
         64.0,
         20.0,
@@ -7430,9 +7431,9 @@
         78.0,
         141.0,
         98.0,
+        98.0,
         89.0,
         100.0,
-        98.0,
         98.0,
         116.0,
         100.0,
@@ -7463,10 +7464,10 @@
         93.0,
         39.0,
         42.0,
+        100.0,
         132.0,
         38.0,
         97.0,
-        100.0,
         96.0,
         88.0,
         88.0,
@@ -7680,11 +7681,11 @@
         28.0,
         36.0,
         29.0,
+        36.0,
         45.0,
         38.0,
         7.0,
         42.0,
-        36.0,
         26.0,
         37.0,
         39.0,
@@ -7755,8 +7756,8 @@
         41.0,
         26.0,
         36.0,
-        45.0,
         39.0,
+        45.0,
         45.0,
         45.0,
         45.0,
@@ -7856,10 +7857,10 @@
         10.0,
         12.0,
         8.0,
-        8.0,
         12.0,
         10.0,
         12.0,
+        8.0,
         7.0,
         12.0,
         11.0,
@@ -7896,9 +7897,9 @@
         46.0,
         52.0,
         60.0,
+        60.0,
         59.0,
         58.0,
-        60.0,
         55.0,
         52.0,
         58.0,
@@ -7925,11 +7926,11 @@
         44.0,
         39.0,
         38.0,
+        42.0,
         44.0,
         45.0,
-        40.0,
         35.0,
-        42.0,
+        40.0,
         37.0,
         43.0,
         31.0,
@@ -8042,48 +8043,6 @@
       ]
     },
     {
-      "base_name": "Warmonger Bow",
-      "slot": "weapon",
-      "mod_template": "Bow Attacks fire an additional Arrow",
-      "mod_origin": "rune",
-      "usage_count": 23,
-      "usage_pct": 0.0769,
-      "value_samples": []
-    },
-    {
-      "base_name": "Warmonger Bow",
-      "slot": "weapon",
-      "mod_template": "Bonded: #% increased Projectile Speed",
-      "mod_origin": "rune",
-      "usage_count": 23,
-      "usage_pct": 0.0769,
-      "value_samples": [
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        50.0,
-        20.0,
-        50.0,
-        20.0,
-        50.0,
-        20.0,
-        50.0,
-        50.0,
-        50.0,
-        20.0,
-        20.0,
-        50.0,
-        20.0,
-        20.0,
-        50.0,
-        20.0,
-        20.0,
-        20.0
-      ]
-    },
-    {
       "base_name": "Gold Amulet",
       "slot": "amulet",
       "mod_template": "+# to Spirit",
@@ -8103,9 +8062,9 @@
         48.0,
         50.0,
         45.0,
+        49.0,
         41.0,
         50.0,
-        49.0,
         47.0,
         50.0,
         47.0,
@@ -8145,6 +8104,47 @@
         69.0,
         94.0,
         88.0
+      ]
+    },
+    {
+      "base_name": "Warmonger Bow",
+      "slot": "weapon",
+      "mod_template": "Bow Attacks fire an additional Arrow",
+      "mod_origin": "rune",
+      "usage_count": 22,
+      "usage_pct": 0.0736,
+      "value_samples": []
+    },
+    {
+      "base_name": "Warmonger Bow",
+      "slot": "weapon",
+      "mod_template": "Bonded: #% increased Projectile Speed",
+      "mod_origin": "rune",
+      "usage_count": 22,
+      "usage_pct": 0.0736,
+      "value_samples": [
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        50.0,
+        20.0,
+        50.0,
+        20.0,
+        50.0,
+        20.0,
+        50.0,
+        50.0,
+        50.0,
+        20.0,
+        20.0,
+        50.0,
+        20.0,
+        20.0,
+        50.0,
+        20.0,
+        20.0,
+        20.0
       ]
     },
     {
@@ -8458,10 +8458,10 @@
         47.0,
         56.0,
         60.0,
+        58.0,
         57.0,
         33.0,
         57.0,
-        58.0,
         48.0,
         56.0
       ]
@@ -8640,8 +8640,8 @@
         35.0,
         35.0,
         35.0,
-        35.0,
         30.0,
+        35.0,
         35.0,
         35.0,
         30.0,
@@ -8821,10 +8821,10 @@
         82.0,
         76.0,
         99.0,
-        85.0,
         93.0,
-        65.0,
+        85.0,
         82.0,
+        65.0,
         89.0,
         94.0,
         92.0,
@@ -8973,10 +8973,10 @@
         73.0,
         69.0,
         71.0,
+        70.0,
         63.0,
         67.0,
         59.0,
-        70.0,
         42.0,
         56.0,
         52.0,
@@ -9566,10 +9566,36 @@
         26.0,
         25.0,
         42.0,
-        24.0,
         27.0,
+        24.0,
         16.0,
         27.0
+      ]
+    },
+    {
+      "base_name": "Dueling Wand",
+      "slot": "weapon",
+      "mod_template": "+# to Level of all Spell Skills",
+      "mod_origin": "rune",
+      "usage_count": 16,
+      "usage_pct": 0.0535,
+      "value_samples": [
+        1.0,
+        3.0,
+        3.0,
+        1.0,
+        2.0,
+        2.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        2.0,
+        1.0,
+        3.0,
+        2.0,
+        1.0,
+        1.0
       ]
     },
     {
@@ -9880,26 +9906,53 @@
     {
       "base_name": "Dueling Wand",
       "slot": "weapon",
-      "mod_template": "+# to Level of all Spell Skills",
-      "mod_origin": "rune",
+      "mod_template": "#% increased Cast Speed",
+      "mod_origin": "crafted",
       "usage_count": 15,
       "usage_pct": 0.0502,
       "value_samples": [
-        1.0,
-        3.0,
-        3.0,
-        1.0,
-        2.0,
-        2.0,
-        3.0,
-        3.0,
-        3.0,
-        2.0,
-        1.0,
-        2.0,
-        3.0,
-        1.0,
-        1.0
+        45.0,
+        47.0,
+        26.0,
+        41.0,
+        30.0,
+        47.0,
+        31.0,
+        31.0,
+        46.0,
+        41.0,
+        31.0,
+        47.0,
+        47.0,
+        46.0,
+        43.0,
+        38.0
+      ]
+    },
+    {
+      "base_name": "Dueling Wand",
+      "slot": "weapon",
+      "mod_template": "Gain #% of Elemental Damage as Extra Cold Damage",
+      "mod_origin": "crafted",
+      "usage_count": 15,
+      "usage_pct": 0.0502,
+      "value_samples": [
+        13.0,
+        15.0,
+        11.0,
+        13.0,
+        9.0,
+        14.0,
+        9.0,
+        7.0,
+        15.0,
+        15.0,
+        12.0,
+        14.0,
+        15.0,
+        15.0,
+        16.0,
+        10.0
       ]
     },
     {
@@ -10036,9 +10089,9 @@
         29.0,
         41.0,
         31.0,
+        36.0,
         31.0,
         45.0,
-        36.0,
         40.0,
         36.0,
         34.0,
@@ -10087,8 +10140,8 @@
         31.0,
         41.0,
         35.0,
-        38.0,
         78.0,
+        38.0,
         23.0,
         29.0,
         34.0
@@ -10143,56 +10196,6 @@
       ]
     },
     {
-      "base_name": "Dueling Wand",
-      "slot": "weapon",
-      "mod_template": "#% increased Cast Speed",
-      "mod_origin": "crafted",
-      "usage_count": 14,
-      "usage_pct": 0.0468,
-      "value_samples": [
-        45.0,
-        47.0,
-        26.0,
-        41.0,
-        30.0,
-        47.0,
-        31.0,
-        46.0,
-        41.0,
-        31.0,
-        47.0,
-        47.0,
-        43.0,
-        46.0,
-        38.0
-      ]
-    },
-    {
-      "base_name": "Dueling Wand",
-      "slot": "weapon",
-      "mod_template": "Gain #% of Elemental Damage as Extra Cold Damage",
-      "mod_origin": "crafted",
-      "usage_count": 14,
-      "usage_pct": 0.0468,
-      "value_samples": [
-        13.0,
-        15.0,
-        11.0,
-        13.0,
-        9.0,
-        14.0,
-        9.0,
-        15.0,
-        15.0,
-        12.0,
-        14.0,
-        15.0,
-        16.0,
-        15.0,
-        10.0
-      ]
-    },
-    {
       "base_name": "Soaring Spear",
       "slot": "weapon",
       "mod_template": "Adds # to # Fire Damage",
@@ -10238,6 +10241,54 @@
         18.0,
         18.0,
         15.0
+      ]
+    },
+    {
+      "base_name": "Dueling Wand",
+      "slot": "weapon",
+      "mod_template": "+# to maximum Mana",
+      "mod_origin": "crafted",
+      "usage_count": 14,
+      "usage_pct": 0.0468,
+      "value_samples": [
+        172.0,
+        170.0,
+        171.0,
+        155.0,
+        184.0,
+        160.0,
+        173.0,
+        151.0,
+        164.0,
+        184.0,
+        160.0,
+        170.0,
+        173.0,
+        167.0
+      ]
+    },
+    {
+      "base_name": "Dueling Wand",
+      "slot": "weapon",
+      "mod_template": "+# to Level of all Spell Skills",
+      "mod_origin": "crafted",
+      "usage_count": 14,
+      "usage_pct": 0.0468,
+      "value_samples": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
       ]
     },
     {
@@ -10611,52 +10662,6 @@
       ]
     },
     {
-      "base_name": "Dueling Wand",
-      "slot": "weapon",
-      "mod_template": "+# to maximum Mana",
-      "mod_origin": "crafted",
-      "usage_count": 13,
-      "usage_pct": 0.0435,
-      "value_samples": [
-        172.0,
-        170.0,
-        171.0,
-        155.0,
-        160.0,
-        173.0,
-        151.0,
-        164.0,
-        184.0,
-        170.0,
-        160.0,
-        173.0,
-        167.0
-      ]
-    },
-    {
-      "base_name": "Dueling Wand",
-      "slot": "weapon",
-      "mod_template": "+# to Level of all Spell Skills",
-      "mod_origin": "crafted",
-      "usage_count": 13,
-      "usage_pct": 0.0435,
-      "value_samples": [
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0
-      ]
-    },
-    {
       "base_name": "Daggerfoot Shoes",
       "slot": "boots",
       "mod_template": "Gain Deflection Rating equal to #% of Evasion Rating",
@@ -10715,9 +10720,9 @@
         298.0,
         140.0,
         163.0,
+        155.0,
         182.0,
         100.0,
-        155.0,
         173.0,
         152.0
       ]
@@ -10866,9 +10871,9 @@
         39.0,
         45.0,
         44.0,
-        44.0,
         41.0,
         33.0,
+        44.0,
         33.0,
         44.0,
         42.0,
@@ -10985,6 +10990,28 @@
         4.0,
         4.0,
         4.0
+      ]
+    },
+    {
+      "base_name": "Dueling Wand",
+      "slot": "weapon",
+      "mod_template": "Bonded: Archon recovery period expires #% faster",
+      "mod_origin": "rune",
+      "usage_count": 12,
+      "usage_pct": 0.0401,
+      "value_samples": [
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0
       ]
     },
     {
@@ -11237,8 +11264,8 @@
         124.0,
         136.0,
         118.0,
-        114.0,
         140.0,
+        114.0,
         141.0,
         142.0,
         123.0,
@@ -11649,27 +11676,6 @@
       ]
     },
     {
-      "base_name": "Dueling Wand",
-      "slot": "weapon",
-      "mod_template": "Bonded: Archon recovery period expires #% faster",
-      "mod_origin": "rune",
-      "usage_count": 11,
-      "usage_pct": 0.0368,
-      "value_samples": [
-        30.0,
-        30.0,
-        30.0,
-        30.0,
-        30.0,
-        30.0,
-        30.0,
-        30.0,
-        30.0,
-        30.0,
-        30.0
-      ]
-    },
-    {
       "base_name": "Slipstrike Vest",
       "slot": "body_armour",
       "mod_template": "Gain Deflection Rating equal to #% of Evasion Rating",
@@ -11772,6 +11778,27 @@
         48.0,
         27.0,
         49.0
+      ]
+    },
+    {
+      "base_name": "Dueling Wand",
+      "slot": "weapon",
+      "mod_template": "Bonded: Leeches #% of maximum Life when you Cast a Spell",
+      "mod_origin": "rune",
+      "usage_count": 11,
+      "usage_pct": 0.0368,
+      "value_samples": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
       ]
     },
     {
@@ -12317,26 +12344,6 @@
       ]
     },
     {
-      "base_name": "Dueling Wand",
-      "slot": "weapon",
-      "mod_template": "Bonded: Leeches #% of maximum Life when you Cast a Spell",
-      "mod_origin": "rune",
-      "usage_count": 10,
-      "usage_pct": 0.0334,
-      "value_samples": [
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0
-      ]
-    },
-    {
       "base_name": "Soaring Spear",
       "slot": "weapon",
       "mod_template": "Gain # Life per enemy killed",
@@ -12353,6 +12360,44 @@
         37.0,
         78.0,
         55.0
+      ]
+    },
+    {
+      "base_name": "Warmonger Bow",
+      "slot": "weapon",
+      "mod_template": "#% increased Physical Damage",
+      "mod_origin": "rune",
+      "usage_count": 9,
+      "usage_pct": 0.0301,
+      "value_samples": [
+        40.0,
+        18.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0
+      ]
+    },
+    {
+      "base_name": "Warmonger Bow",
+      "slot": "weapon",
+      "mod_template": "Bonded: #% increased effect of Fully Broken Armour",
+      "mod_origin": "rune",
+      "usage_count": 9,
+      "usage_pct": 0.0301,
+      "value_samples": [
+        40.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0
       ]
     },
     {
@@ -12768,8 +12813,8 @@
         16.0,
         17.0,
         33.0,
-        17.0,
         18.0,
+        17.0,
         17.0,
         25.0,
         17.0
@@ -12980,9 +13025,9 @@
         30.0,
         30.0,
         29.0,
+        30.0,
         28.0,
-        27.0,
-        30.0
+        27.0
       ]
     },
     {
@@ -12998,9 +13043,9 @@
         41.0,
         18.0,
         25.0,
+        18.0,
         23.0,
         41.0,
-        18.0,
         36.0
       ]
     },
@@ -13019,8 +13064,8 @@
         45.0,
         43.0,
         37.0,
-        27.0,
-        43.0
+        43.0,
+        27.0
       ]
     },
     {
@@ -13315,42 +13360,6 @@
       ]
     },
     {
-      "base_name": "Warmonger Bow",
-      "slot": "weapon",
-      "mod_template": "#% increased Physical Damage",
-      "mod_origin": "rune",
-      "usage_count": 8,
-      "usage_pct": 0.0268,
-      "value_samples": [
-        18.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0
-      ]
-    },
-    {
-      "base_name": "Warmonger Bow",
-      "slot": "weapon",
-      "mod_template": "Bonded: #% increased effect of Fully Broken Armour",
-      "mod_origin": "rune",
-      "usage_count": 8,
-      "usage_pct": 0.0268,
-      "value_samples": [
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0
-      ]
-    },
-    {
       "base_name": "Absent Amulet",
       "slot": "amulet",
       "mod_template": "+# to Level of all Projectile Skills",
@@ -13414,8 +13423,8 @@
       "value_samples": [
         85.0,
         37.0,
-        32.0,
         43.0,
+        32.0,
         32.0,
         41.0,
         32.0,
@@ -14356,9 +14365,9 @@
       "value_samples": [
         33.0,
         34.0,
-        25.0,
         37.0,
         32.0,
+        25.0,
         47.0,
         28.0,
         35.0,
@@ -15297,9 +15306,9 @@
         13.0,
         13.0,
         16.0,
+        13.0,
+        13.0,
         11.0,
-        13.0,
-        13.0,
         15.0
       ]
     },
@@ -15392,8 +15401,8 @@
         34.0,
         32.0,
         34.0,
-        34.0,
         32.0,
+        34.0,
         34.0
       ]
     },
@@ -15410,8 +15419,8 @@
         27.0,
         37.0,
         44.0,
-        34.0,
-        44.0
+        44.0,
+        34.0
       ]
     },
     {
@@ -15594,8 +15603,8 @@
       "value_samples": [
         18.0,
         16.0,
-        15.0,
         18.0,
+        15.0,
         18.0,
         15.0,
         17.0
@@ -15903,38 +15912,6 @@
         25.0,
         25.0,
         25.0
-      ]
-    },
-    {
-      "base_name": "Warmonger Bow",
-      "slot": "weapon",
-      "mod_template": "Gain #% of Damage as Extra Damage of all Elements",
-      "mod_origin": "rune",
-      "usage_count": 6,
-      "usage_pct": 0.0201,
-      "value_samples": [
-        5.0,
-        5.0,
-        5.0,
-        5.0,
-        5.0,
-        5.0
-      ]
-    },
-    {
-      "base_name": "Warmonger Bow",
-      "slot": "weapon",
-      "mod_template": "Bonded: #% chance to gain an additional random Charge when you gain a Charge",
-      "mod_origin": "rune",
-      "usage_count": 6,
-      "usage_pct": 0.0201,
-      "value_samples": [
-        8.0,
-        8.0,
-        8.0,
-        8.0,
-        8.0,
-        8.0
       ]
     },
     {
@@ -16878,8 +16855,8 @@
         26.0,
         32.0,
         25.0,
-        39.0,
-        32.0
+        32.0,
+        39.0
       ]
     },
     {
@@ -16906,6 +16883,22 @@
       "usage_count": 6,
       "usage_pct": 0.0201,
       "value_samples": []
+    },
+    {
+      "base_name": "Dueling Wand",
+      "slot": "weapon",
+      "mod_template": "#% increased Critical Hit Chance for Spells",
+      "mod_origin": "explicit",
+      "usage_count": 6,
+      "usage_pct": 0.0201,
+      "value_samples": [
+        57.0,
+        72.0,
+        64.0,
+        70.0,
+        72.0,
+        75.0
+      ]
     },
     {
       "base_name": "Sekhema Sandals",
@@ -17737,21 +17730,6 @@
       ]
     },
     {
-      "base_name": "Gold Ring",
-      "slot": "ring",
-      "mod_template": "+#% to Fire and Chaos Resistances",
-      "mod_origin": "desecrated",
-      "usage_count": 5,
-      "usage_pct": 0.0167,
-      "value_samples": [
-        17.0,
-        18.0,
-        16.0,
-        17.0,
-        17.0
-      ]
-    },
-    {
       "base_name": "Amethyst Ring",
       "slot": "ring",
       "mod_template": "+# to Strength",
@@ -17779,6 +17757,36 @@
         23.0,
         27.0,
         22.0
+      ]
+    },
+    {
+      "base_name": "Warmonger Bow",
+      "slot": "weapon",
+      "mod_template": "Gain #% of Damage as Extra Damage of all Elements",
+      "mod_origin": "rune",
+      "usage_count": 5,
+      "usage_pct": 0.0167,
+      "value_samples": [
+        5.0,
+        5.0,
+        5.0,
+        5.0,
+        5.0
+      ]
+    },
+    {
+      "base_name": "Warmonger Bow",
+      "slot": "weapon",
+      "mod_template": "Bonded: #% chance to gain an additional random Charge when you gain a Charge",
+      "mod_origin": "rune",
+      "usage_count": 5,
+      "usage_pct": 0.0167,
+      "value_samples": [
+        8.0,
+        8.0,
+        8.0,
+        8.0,
+        8.0
       ]
     },
     {
@@ -18301,8 +18309,8 @@
       "value_samples": [
         16.0,
         20.0,
-        19.0,
         20.0,
+        19.0,
         19.0
       ]
     },
@@ -18928,21 +18936,6 @@
       ]
     },
     {
-      "base_name": "Dueling Wand",
-      "slot": "weapon",
-      "mod_template": "#% increased Critical Hit Chance for Spells",
-      "mod_origin": "explicit",
-      "usage_count": 5,
-      "usage_pct": 0.0167,
-      "value_samples": [
-        57.0,
-        72.0,
-        70.0,
-        72.0,
-        75.0
-      ]
-    },
-    {
       "base_name": "Chiming Staff",
       "slot": "weapon",
       "mod_template": "Gain #% of Damage as Extra Fire Damage",
@@ -19454,8 +19447,8 @@
         49.0,
         48.0,
         76.0,
-        51.0,
-        48.0
+        48.0,
+        51.0
       ]
     },
     {
@@ -19854,7 +19847,7 @@
       "usage_count": 4,
       "usage_pct": 0.0134,
       "value_samples": [
-        196.0,
+        199.0,
         153.0,
         170.0,
         150.0
@@ -21336,6 +21329,20 @@
       "usage_count": 4,
       "usage_pct": 0.0134,
       "value_samples": []
+    },
+    {
+      "base_name": "Dueling Wand",
+      "slot": "weapon",
+      "mod_template": "Gain #% of Damage as Extra Cold Damage",
+      "mod_origin": "explicit",
+      "usage_count": 4,
+      "usage_pct": 0.0134,
+      "value_samples": [
+        29.0,
+        30.0,
+        30.0,
+        28.0
+      ]
     },
     {
       "base_name": "Stoic Sceptre",
@@ -23042,6 +23049,20 @@
         23.0,
         23.0,
         23.0
+      ]
+    },
+    {
+      "base_name": "Gold Ring",
+      "slot": "ring",
+      "mod_template": "+#% to Fire and Chaos Resistances",
+      "mod_origin": "desecrated",
+      "usage_count": 4,
+      "usage_pct": 0.0134,
+      "value_samples": [
+        18.0,
+        16.0,
+        17.0,
+        17.0
       ]
     },
     {
@@ -25655,19 +25676,6 @@
     {
       "base_name": "Dueling Wand",
       "slot": "weapon",
-      "mod_template": "Gain #% of Damage as Extra Cold Damage",
-      "mod_origin": "explicit",
-      "usage_count": 3,
-      "usage_pct": 0.01,
-      "value_samples": [
-        29.0,
-        30.0,
-        28.0
-      ]
-    },
-    {
-      "base_name": "Dueling Wand",
-      "slot": "weapon",
       "mod_template": "+# to Level of all Cold Spell Skills",
       "mod_origin": "fractured",
       "usage_count": 3,
@@ -28144,6 +28152,19 @@
       "value_samples": []
     },
     {
+      "base_name": "Dueling Wand",
+      "slot": "weapon",
+      "mod_template": "+# to Level of all Spell Skills",
+      "mod_origin": "fractured",
+      "usage_count": 3,
+      "usage_pct": 0.01,
+      "value_samples": [
+        4.0,
+        4.0,
+        4.0
+      ]
+    },
+    {
       "base_name": "Drakeskin Boots",
       "slot": "boots",
       "mod_template": "+# to Evasion Rating",
@@ -28582,19 +28603,6 @@
       ]
     },
     {
-      "base_name": "Stellar Amulet",
-      "slot": "amulet",
-      "mod_template": "#% increased Rarity of Items found",
-      "mod_origin": "explicit",
-      "usage_count": 3,
-      "usage_pct": 0.01,
-      "value_samples": [
-        16.0,
-        29.0,
-        33.0
-      ]
-    },
-    {
       "base_name": "Sapphire Ring",
       "slot": "ring",
       "mod_template": "Leech #% of Physical Attack Damage as Mana",
@@ -29021,6 +29029,19 @@
         40.0,
         37.0,
         50.0
+      ]
+    },
+    {
+      "base_name": "Stellar Amulet",
+      "slot": "amulet",
+      "mod_template": "#% increased Rarity of Items found",
+      "mod_origin": "explicit",
+      "usage_count": 3,
+      "usage_pct": 0.01,
+      "value_samples": [
+        16.0,
+        29.0,
+        33.0
       ]
     },
     {
@@ -34999,30 +35020,6 @@
       ]
     },
     {
-      "base_name": "Runeforged Massive Mitts",
-      "slot": "gloves",
-      "mod_template": "#% increased Armour",
-      "mod_origin": "explicit",
-      "usage_count": 2,
-      "usage_pct": 0.0067,
-      "value_samples": [
-        42.0,
-        37.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Massive Mitts",
-      "slot": "gloves",
-      "mod_template": "+# to maximum Life",
-      "mod_origin": "explicit",
-      "usage_count": 2,
-      "usage_pct": 0.0067,
-      "value_samples": [
-        191.0,
-        39.0
-      ]
-    },
-    {
       "base_name": "Runeforged Tasalian Greaves",
       "slot": "boots",
       "mod_template": "+#% to Lightning Resistance",
@@ -36363,13 +36360,13 @@
     {
       "base_name": "Dueling Wand",
       "slot": "weapon",
-      "mod_template": "+# to Level of all Spell Skills",
-      "mod_origin": "fractured",
+      "mod_template": "#% increased Spell Damage",
+      "mod_origin": "desecrated",
       "usage_count": 2,
       "usage_pct": 0.0067,
       "value_samples": [
-        4.0,
-        4.0
+        118.0,
+        117.0
       ]
     },
     {
@@ -37021,19 +37018,6 @@
       ]
     },
     {
-      "base_name": "Unset Ring",
-      "slot": "ring",
-      "mod_template": "Adds # to # Cold damage to Attacks",
-      "mod_origin": "explicit",
-      "usage_count": 2,
-      "usage_pct": 0.0067,
-      "value_samples": [
-        24.0,
-        27.0,
-        28.0
-      ]
-    },
-    {
       "base_name": "Runeforged Quickslip Shoes",
       "slot": "boots",
       "mod_template": "+# to Stun Threshold",
@@ -37586,6 +37570,18 @@
       ]
     },
     {
+      "base_name": "Kamasan Tiara",
+      "slot": "helmet",
+      "mod_template": "#% increased Rarity of Items found",
+      "mod_origin": "desecrated",
+      "usage_count": 2,
+      "usage_pct": 0.0067,
+      "value_samples": [
+        19.0,
+        16.0
+      ]
+    },
+    {
       "base_name": "Runeforged Bound Cuffs",
       "slot": "gloves",
       "mod_template": "#% increased Attack Speed",
@@ -37728,6 +37724,19 @@
         26.0,
         34.0,
         25.0
+      ]
+    },
+    {
+      "base_name": "Unset Ring",
+      "slot": "ring",
+      "mod_template": "Adds # to # Cold damage to Attacks",
+      "mod_origin": "explicit",
+      "usage_count": 2,
+      "usage_pct": 0.0067,
+      "value_samples": [
+        27.0,
+        28.0,
+        24.0
       ]
     },
     {
@@ -38391,42 +38400,6 @@
       "value_samples": [
         16.0,
         13.0
-      ]
-    },
-    {
-      "base_name": "Kamasan Tiara",
-      "slot": "helmet",
-      "mod_template": "#% increased Cost Efficiency",
-      "mod_origin": "rune",
-      "usage_count": 2,
-      "usage_pct": 0.0067,
-      "value_samples": [
-        15.0,
-        15.0
-      ]
-    },
-    {
-      "base_name": "Kamasan Tiara",
-      "slot": "helmet",
-      "mod_template": "Bonded: Meta Skills have #% increased Reservation Efficiency",
-      "mod_origin": "rune",
-      "usage_count": 2,
-      "usage_pct": 0.0067,
-      "value_samples": [
-        15.0,
-        15.0
-      ]
-    },
-    {
-      "base_name": "Kamasan Tiara",
-      "slot": "helmet",
-      "mod_template": "#% increased Rarity of Items found",
-      "mod_origin": "desecrated",
-      "usage_count": 2,
-      "usage_pct": 0.0067,
-      "value_samples": [
-        19.0,
-        16.0
       ]
     },
     {
@@ -41619,6 +41592,17 @@
       "usage_pct": 0.0033,
       "value_samples": [
         1.0
+      ]
+    },
+    {
+      "base_name": "Gold Ring",
+      "slot": "ring",
+      "mod_template": "+#% to Chaos Resistance",
+      "mod_origin": "desecrated",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        27.0
       ]
     },
     {
@@ -51800,6 +51784,28 @@
     {
       "base_name": "Runeforged Massive Mitts",
       "slot": "gloves",
+      "mod_template": "#% increased Armour",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        42.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Massive Mitts",
+      "slot": "gloves",
+      "mod_template": "+# to maximum Life",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        191.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Massive Mitts",
+      "slot": "gloves",
       "mod_template": "+# to Level of all Melee Skills",
       "mod_origin": "explicit",
       "usage_count": 1,
@@ -54923,94 +54929,6 @@
       ]
     },
     {
-      "base_name": "Dueling Wand",
-      "slot": "weapon",
-      "mod_template": "#% increased Spell Damage",
-      "mod_origin": "desecrated",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        118.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Massive Mitts",
-      "slot": "gloves",
-      "mod_template": "#% increased Rarity of Items found",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        16.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Massive Mitts",
-      "slot": "gloves",
-      "mod_template": "+#% to Cold Resistance",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        45.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Massive Mitts",
-      "slot": "gloves",
-      "mod_template": "+#% to Lightning Resistance",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        45.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Massive Mitts",
-      "slot": "gloves",
-      "mod_template": "+#% to Chaos Resistance",
-      "mod_origin": "rune",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        22.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Massive Mitts",
-      "slot": "gloves",
-      "mod_template": "+#% of Armour also applies to Fire Damage",
-      "mod_origin": "rune",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        40.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Massive Mitts",
-      "slot": "gloves",
-      "mod_template": "#% increased Runic Ward",
-      "mod_origin": "crafted",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        29.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Massive Mitts",
-      "slot": "gloves",
-      "mod_template": "#% increased Armour",
-      "mod_origin": "desecrated",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        100.0
-      ]
-    },
-    {
       "base_name": "Runeforged Tasalian Greaves",
       "slot": "boots",
       "mod_template": "#% increased Armour",
@@ -55195,6 +55113,125 @@
       "usage_pct": 0.0033,
       "value_samples": [
         30.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Blacksteel Gauntlets",
+      "slot": "gloves",
+      "mod_template": "+#% to Cold Resistance",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        44.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Blacksteel Gauntlets",
+      "slot": "gloves",
+      "mod_template": "+#% to Lightning Resistance",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        43.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Blacksteel Gauntlets",
+      "slot": "gloves",
+      "mod_template": "+#% of Armour also applies to Fire Damage",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        40.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Blacksteel Gauntlets",
+      "slot": "gloves",
+      "mod_template": "#% increased Magnitude of Damaging Ailments you inflict",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        20.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Blacksteel Gauntlets",
+      "slot": "gloves",
+      "mod_template": "Can roll Decay modifiers",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": []
+    },
+    {
+      "base_name": "Runeforged Blacksteel Gauntlets",
+      "slot": "gloves",
+      "mod_template": "Bonded: #% increased Duration of Damaging Ailments on Enemies",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        15.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Blacksteel Gauntlets",
+      "slot": "gloves",
+      "mod_template": "Bonded: #% reduced Effect of Non-Damaging Ailments on you",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        25.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Blacksteel Gauntlets",
+      "slot": "gloves",
+      "mod_template": "#% increased Runic Ward",
+      "mod_origin": "crafted",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        26.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Blacksteel Gauntlets",
+      "slot": "gloves",
+      "mod_template": "#% increased Cast Speed",
+      "mod_origin": "crafted",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        12.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Blacksteel Gauntlets",
+      "slot": "gloves",
+      "mod_template": "#% increased Magnitude of Ailments you inflict",
+      "mod_origin": "fractured",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        32.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Blacksteel Gauntlets",
+      "slot": "gloves",
+      "mod_template": "#% increased Ignite Magnitude",
+      "mod_origin": "desecrated",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        47.0
       ]
     },
     {
@@ -57835,160 +57872,6 @@
       ]
     },
     {
-      "base_name": "Stellar Amulet",
-      "slot": "amulet",
-      "mod_template": "+# to maximum Energy Shield",
-      "mod_origin": "desecrated",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        76.0
-      ]
-    },
-    {
-      "base_name": "Daggerfoot Shoes",
-      "slot": "boots",
-      "mod_template": "#% reduced Shock duration on you",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        45.0
-      ]
-    },
-    {
-      "base_name": "Unset Ring",
-      "slot": "ring",
-      "mod_template": "Adds # to # Lightning damage to Attacks",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        2.0
-      ]
-    },
-    {
-      "base_name": "Unset Ring",
-      "slot": "ring",
-      "mod_template": "#% increased Chaos Damage",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        29.0
-      ]
-    },
-    {
-      "base_name": "Unset Ring",
-      "slot": "ring",
-      "mod_template": "#% increased Mana Regeneration Rate",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        66.0
-      ]
-    },
-    {
-      "base_name": "Unset Ring",
-      "slot": "ring",
-      "mod_template": "#% increased Light Radius",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        15.0
-      ]
-    },
-    {
-      "base_name": "Forking Belt",
-      "slot": "belt",
-      "mod_template": "Adds # to # Lightning damage to Attacks",
-      "mod_origin": "implicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        1.0
-      ]
-    },
-    {
-      "base_name": "Forking Belt",
-      "slot": "belt",
-      "mod_template": "Has # Charm Slot",
-      "mod_origin": "implicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        1.0
-      ]
-    },
-    {
-      "base_name": "Forking Belt",
-      "slot": "belt",
-      "mod_template": "+# to maximum Life",
-      "mod_origin": "desecrated",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        164.0
-      ]
-    },
-    {
-      "base_name": "Forking Belt",
-      "slot": "belt",
-      "mod_template": "#% increased Flask Mana Recovery rate",
-      "mod_origin": "desecrated",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        17.0
-      ]
-    },
-    {
-      "base_name": "Forking Belt",
-      "slot": "belt",
-      "mod_template": "#% increased Charm Effect Duration",
-      "mod_origin": "desecrated",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        4.0
-      ]
-    },
-    {
-      "base_name": "Forking Belt",
-      "slot": "belt",
-      "mod_template": "+#% to Fire Resistance",
-      "mod_origin": "desecrated",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        38.0
-      ]
-    },
-    {
-      "base_name": "Forking Belt",
-      "slot": "belt",
-      "mod_template": "+#% to Cold Resistance",
-      "mod_origin": "desecrated",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        9.0
-      ]
-    },
-    {
-      "base_name": "Forking Belt",
-      "slot": "belt",
-      "mod_template": "+#% to Lightning Resistance",
-      "mod_origin": "desecrated",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        22.0
-      ]
-    },
-    {
       "base_name": "Amethyst Ring",
       "slot": "ring",
       "mod_template": "Leech #% of Physical Attack Damage as Mana",
@@ -60501,6 +60384,35 @@
       "value_samples": [
         8.0
       ]
+    },
+    {
+      "base_name": "Kamasan Tiara",
+      "slot": "helmet",
+      "mod_template": "Pain Attunement",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": []
+    },
+    {
+      "base_name": "Kamasan Tiara",
+      "slot": "helmet",
+      "mod_template": "Bonded: # to # Physical Thorns damage",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        17.0
+      ]
+    },
+    {
+      "base_name": "Gold Amulet",
+      "slot": "amulet",
+      "mod_template": "Allocates Electric Amplification",
+      "mod_origin": "enchant",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": []
     },
     {
       "base_name": "Runeforged Bound Cuffs",
@@ -63144,6 +63056,114 @@
       ]
     },
     {
+      "base_name": "Feathered Raiment",
+      "slot": "body_armour",
+      "mod_template": "+# to Intelligence",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        30.0
+      ]
+    },
+    {
+      "base_name": "Feathered Raiment",
+      "slot": "body_armour",
+      "mod_template": "+#% to Lightning and Chaos Resistances",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        21.0
+      ]
+    },
+    {
+      "base_name": "Feathered Raiment",
+      "slot": "body_armour",
+      "mod_template": "+# to maximum Energy Shield",
+      "mod_origin": "fractured",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        96.0
+      ]
+    },
+    {
+      "base_name": "Absent Amulet",
+      "slot": "amulet",
+      "mod_template": "#% increased maximum Life",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        7.0
+      ]
+    },
+    {
+      "base_name": "Absent Amulet",
+      "slot": "amulet",
+      "mod_template": "Allocates Gem Enthusiast",
+      "mod_origin": "enchant",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": []
+    },
+    {
+      "base_name": "Mnemonic Ring",
+      "slot": "ring",
+      "mod_template": "+# to maximum Mana",
+      "mod_origin": "desecrated",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        222.0
+      ]
+    },
+    {
+      "base_name": "Kamasan Tiara",
+      "slot": "helmet",
+      "mod_template": "#% increased Cost Efficiency",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        15.0
+      ]
+    },
+    {
+      "base_name": "Kamasan Tiara",
+      "slot": "helmet",
+      "mod_template": "Bonded: Meta Skills have #% increased Reservation Efficiency",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        15.0
+      ]
+    },
+    {
+      "base_name": "Kamasan Tiara",
+      "slot": "helmet",
+      "mod_template": "+#% to Cold Resistance",
+      "mod_origin": "fractured",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        40.0
+      ]
+    },
+    {
+      "base_name": "Sekhema Sandals",
+      "slot": "boots",
+      "mod_template": "+#% to Chaos Resistance",
+      "mod_origin": "fractured",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        27.0
+      ]
+    },
+    {
       "base_name": "Gold Ring",
       "slot": "ring",
       "mod_template": "#% increased Cast Speed",
@@ -63479,6 +63499,160 @@
       ]
     },
     {
+      "base_name": "Stellar Amulet",
+      "slot": "amulet",
+      "mod_template": "+# to maximum Energy Shield",
+      "mod_origin": "desecrated",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        76.0
+      ]
+    },
+    {
+      "base_name": "Daggerfoot Shoes",
+      "slot": "boots",
+      "mod_template": "#% reduced Shock duration on you",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        45.0
+      ]
+    },
+    {
+      "base_name": "Unset Ring",
+      "slot": "ring",
+      "mod_template": "Adds # to # Lightning damage to Attacks",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        2.0
+      ]
+    },
+    {
+      "base_name": "Unset Ring",
+      "slot": "ring",
+      "mod_template": "#% increased Chaos Damage",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        29.0
+      ]
+    },
+    {
+      "base_name": "Unset Ring",
+      "slot": "ring",
+      "mod_template": "#% increased Mana Regeneration Rate",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        66.0
+      ]
+    },
+    {
+      "base_name": "Unset Ring",
+      "slot": "ring",
+      "mod_template": "#% increased Light Radius",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        15.0
+      ]
+    },
+    {
+      "base_name": "Forking Belt",
+      "slot": "belt",
+      "mod_template": "Adds # to # Lightning damage to Attacks",
+      "mod_origin": "implicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        1.0
+      ]
+    },
+    {
+      "base_name": "Forking Belt",
+      "slot": "belt",
+      "mod_template": "Has # Charm Slot",
+      "mod_origin": "implicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        1.0
+      ]
+    },
+    {
+      "base_name": "Forking Belt",
+      "slot": "belt",
+      "mod_template": "+# to maximum Life",
+      "mod_origin": "desecrated",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        164.0
+      ]
+    },
+    {
+      "base_name": "Forking Belt",
+      "slot": "belt",
+      "mod_template": "#% increased Flask Mana Recovery rate",
+      "mod_origin": "desecrated",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        17.0
+      ]
+    },
+    {
+      "base_name": "Forking Belt",
+      "slot": "belt",
+      "mod_template": "#% increased Charm Effect Duration",
+      "mod_origin": "desecrated",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        4.0
+      ]
+    },
+    {
+      "base_name": "Forking Belt",
+      "slot": "belt",
+      "mod_template": "+#% to Fire Resistance",
+      "mod_origin": "desecrated",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        38.0
+      ]
+    },
+    {
+      "base_name": "Forking Belt",
+      "slot": "belt",
+      "mod_template": "+#% to Cold Resistance",
+      "mod_origin": "desecrated",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        9.0
+      ]
+    },
+    {
+      "base_name": "Forking Belt",
+      "slot": "belt",
+      "mod_template": "+#% to Lightning Resistance",
+      "mod_origin": "desecrated",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        22.0
+      ]
+    },
+    {
       "base_name": "Lunar Amulet",
       "slot": "amulet",
       "mod_template": "Allocates Thaumaturgic Generator",
@@ -63530,101 +63704,6 @@
       "value_samples": [
         24.0
       ]
-    },
-    {
-      "base_name": "Feathered Raiment",
-      "slot": "body_armour",
-      "mod_template": "+# to Intelligence",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        30.0
-      ]
-    },
-    {
-      "base_name": "Feathered Raiment",
-      "slot": "body_armour",
-      "mod_template": "+#% to Lightning and Chaos Resistances",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        21.0
-      ]
-    },
-    {
-      "base_name": "Feathered Raiment",
-      "slot": "body_armour",
-      "mod_template": "+# to maximum Energy Shield",
-      "mod_origin": "fractured",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        96.0
-      ]
-    },
-    {
-      "base_name": "Absent Amulet",
-      "slot": "amulet",
-      "mod_template": "#% increased maximum Life",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        7.0
-      ]
-    },
-    {
-      "base_name": "Absent Amulet",
-      "slot": "amulet",
-      "mod_template": "Allocates Gem Enthusiast",
-      "mod_origin": "enchant",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": []
-    },
-    {
-      "base_name": "Mnemonic Ring",
-      "slot": "ring",
-      "mod_template": "+# to maximum Mana",
-      "mod_origin": "desecrated",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        222.0
-      ]
-    },
-    {
-      "base_name": "Kamasan Tiara",
-      "slot": "helmet",
-      "mod_template": "+#% to Cold Resistance",
-      "mod_origin": "fractured",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        40.0
-      ]
-    },
-    {
-      "base_name": "Sekhema Sandals",
-      "slot": "boots",
-      "mod_template": "+#% to Chaos Resistance",
-      "mod_origin": "fractured",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        27.0
-      ]
-    },
-    {
-      "base_name": "Gold Amulet",
-      "slot": "amulet",
-      "mod_template": "Allocates Electric Amplification",
-      "mod_origin": "enchant",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": []
     },
     {
       "base_name": "Vile Robe",
