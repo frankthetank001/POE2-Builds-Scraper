@@ -1,9 +1,9 @@
 {
   "league": "Runes of Aldur",
   "league_slug": "runesofaldur",
-  "snapshot_version": "0620-20260718-28703",
+  "snapshot_version": "0724-20260719-48121",
   "snapshot_name": "runes-of-aldur",
-  "scraped_at": "2026-07-18T08:00:50+00:00",
+  "scraped_at": "2026-07-19T08:11:40+00:00",
   "sample_size": 300,
   "roster_size": 300,
   "base_usage": [
@@ -42,10 +42,10 @@
     {
       "base_name": "Gold Ring",
       "slot": "ring",
-      "usage_count": 111,
-      "usage_pct": 0.37,
+      "usage_count": 110,
+      "usage_pct": 0.3667,
       "rarity_mix": {
-        "rare": 95,
+        "rare": 94,
         "unique": 16
       },
       "common_skills": []
@@ -76,10 +76,10 @@
     {
       "base_name": "Gold Amulet",
       "slot": "amulet",
-      "usage_count": 91,
-      "usage_pct": 0.3033,
+      "usage_count": 90,
+      "usage_pct": 0.3,
       "rarity_mix": {
-        "rare": 89,
+        "rare": 88,
         "unique": 2
       },
       "common_skills": []
@@ -187,6 +187,16 @@
       "common_skills": []
     },
     {
+      "base_name": "Absent Amulet",
+      "slot": "amulet",
+      "usage_count": 39,
+      "usage_pct": 0.13,
+      "rarity_mix": {
+        "rare": 39
+      },
+      "common_skills": []
+    },
+    {
       "base_name": "Sapphire Ring",
       "slot": "ring",
       "usage_count": 39,
@@ -195,16 +205,6 @@
         "rare": 32,
         "unique": 6,
         "magic": 1
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Absent Amulet",
-      "slot": "amulet",
-      "usage_count": 38,
-      "usage_pct": 0.1267,
-      "rarity_mix": {
-        "rare": 38
       },
       "common_skills": []
     },
@@ -439,8 +439,8 @@
       "common_skills": []
     },
     {
-      "base_name": "Dueling Wand",
-      "slot": "weapon",
+      "base_name": "Quickslip Shoes",
+      "slot": "boots",
       "usage_count": 17,
       "usage_pct": 0.0567,
       "rarity_mix": {
@@ -449,12 +449,12 @@
       "common_skills": []
     },
     {
-      "base_name": "Quickslip Shoes",
-      "slot": "boots",
-      "usage_count": 16,
-      "usage_pct": 0.0533,
+      "base_name": "Dueling Wand",
+      "slot": "weapon",
+      "usage_count": 17,
+      "usage_pct": 0.0567,
       "rarity_mix": {
-        "rare": 16
+        "rare": 17
       },
       "common_skills": []
     },
@@ -574,17 +574,6 @@
       "common_skills": []
     },
     {
-      "base_name": "Stoic Sceptre",
-      "slot": "offhand",
-      "usage_count": 12,
-      "usage_pct": 0.04,
-      "rarity_mix": {
-        "rare": 8,
-        "unique": 4
-      },
-      "common_skills": []
-    },
-    {
       "base_name": "Sinister Quarterstaff",
       "slot": "weapon",
       "usage_count": 12,
@@ -612,6 +601,17 @@
       "usage_pct": 0.0367,
       "rarity_mix": {
         "rare": 11
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Stoic Sceptre",
+      "slot": "offhand",
+      "usage_count": 11,
+      "usage_pct": 0.0367,
+      "rarity_mix": {
+        "rare": 8,
+        "unique": 3
       },
       "common_skills": []
     },
@@ -869,6 +869,16 @@
       "common_skills": []
     },
     {
+      "base_name": "Refined Breach Ring",
+      "slot": "ring",
+      "usage_count": 7,
+      "usage_pct": 0.0233,
+      "rarity_mix": {
+        "rare": 7
+      },
+      "common_skills": []
+    },
+    {
       "base_name": "Familial Talisman",
       "slot": "weapon",
       "usage_count": 7,
@@ -889,16 +899,6 @@
       "common_skills": []
     },
     {
-      "base_name": "Surefooted Leg",
-      "slot": "incursionlegright",
-      "usage_count": 7,
-      "usage_pct": 0.0233,
-      "rarity_mix": {
-        "normal": 7
-      },
-      "common_skills": []
-    },
-    {
       "base_name": "Gold Circlet",
       "slot": "helmet",
       "usage_count": 7,
@@ -906,16 +906,6 @@
       "rarity_mix": {
         "unique": 6,
         "rare": 1
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Runeforged Quickslip Shoes",
-      "slot": "boots",
-      "usage_count": 7,
-      "usage_pct": 0.0233,
-      "rarity_mix": {
-        "rare": 7
       },
       "common_skills": []
     },
@@ -970,16 +960,6 @@
       "common_skills": []
     },
     {
-      "base_name": "Refined Breach Ring",
-      "slot": "ring",
-      "usage_count": 6,
-      "usage_pct": 0.02,
-      "rarity_mix": {
-        "rare": 6
-      },
-      "common_skills": []
-    },
-    {
       "base_name": "Runeforged Drakeskin Boots",
       "slot": "boots",
       "usage_count": 6,
@@ -1030,12 +1010,32 @@
       "common_skills": []
     },
     {
+      "base_name": "Surefooted Leg",
+      "slot": "incursionlegright",
+      "usage_count": 6,
+      "usage_pct": 0.02,
+      "rarity_mix": {
+        "normal": 6
+      },
+      "common_skills": []
+    },
+    {
       "base_name": "Giant Maul",
       "slot": "weapon",
       "usage_count": 6,
       "usage_pct": 0.02,
       "rarity_mix": {
         "unique": 6
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Runeforged Quickslip Shoes",
+      "slot": "boots",
+      "usage_count": 6,
+      "usage_pct": 0.02,
+      "rarity_mix": {
+        "rare": 6
       },
       "common_skills": []
     },
@@ -1245,6 +1245,16 @@
     },
     {
       "base_name": "Runeforged Sirenscale Gloves",
+      "slot": "gloves",
+      "usage_count": 5,
+      "usage_pct": 0.0167,
+      "rarity_mix": {
+        "rare": 5
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "War Wraps",
       "slot": "gloves",
       "usage_count": 5,
       "usage_pct": 0.0167,
@@ -1517,16 +1527,6 @@
       "common_skills": []
     },
     {
-      "base_name": "War Wraps",
-      "slot": "gloves",
-      "usage_count": 4,
-      "usage_pct": 0.0133,
-      "rarity_mix": {
-        "rare": 4
-      },
-      "common_skills": []
-    },
-    {
       "base_name": "Stalking Bracers",
       "slot": "gloves",
       "usage_count": 4,
@@ -1564,6 +1564,18 @@
       "usage_pct": 0.0133,
       "rarity_mix": {
         "rare": 4
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Rattling Sceptre",
+      "slot": "offhand",
+      "usage_count": 4,
+      "usage_pct": 0.0133,
+      "rarity_mix": {
+        "unique": 1,
+        "rare": 2,
+        "magic": 1
       },
       "common_skills": []
     },
@@ -1620,16 +1632,6 @@
     {
       "base_name": "Linen Belt",
       "slot": "belt",
-      "usage_count": 3,
-      "usage_pct": 0.01,
-      "rarity_mix": {
-        "rare": 3
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Runeforged Vaal Wraps",
-      "slot": "gloves",
       "usage_count": 3,
       "usage_pct": 0.01,
       "rarity_mix": {
@@ -1920,17 +1922,6 @@
       "common_skills": []
     },
     {
-      "base_name": "Rattling Sceptre",
-      "slot": "offhand",
-      "usage_count": 3,
-      "usage_pct": 0.01,
-      "rarity_mix": {
-        "rare": 2,
-        "magic": 1
-      },
-      "common_skills": []
-    },
-    {
       "base_name": "Scale Mail",
       "slot": "body_armour",
       "usage_count": 3,
@@ -1993,6 +1984,16 @@
     {
       "base_name": "Guardian Bow",
       "slot": "weapon",
+      "usage_count": 2,
+      "usage_pct": 0.0067,
+      "rarity_mix": {
+        "rare": 2
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Runeforged Vaal Wraps",
+      "slot": "gloves",
       "usage_count": 2,
       "usage_pct": 0.0067,
       "rarity_mix": {
@@ -4022,8 +4023,8 @@
       "slot": "ring",
       "mod_template": "#% increased Rarity of Items found",
       "mod_origin": "implicit",
-      "usage_count": 96,
-      "usage_pct": 0.32,
+      "usage_count": 95,
+      "usage_pct": 0.3167,
       "value_samples": [
         14.0,
         15.0,
@@ -4070,11 +4071,11 @@
         15.0,
         15.0,
         15.0,
-        15.0,
         14.0,
         15.0,
         8.0,
-        12.0
+        12.0,
+        15.0
       ]
     },
     {
@@ -4082,8 +4083,8 @@
       "slot": "amulet",
       "mod_template": "#% increased Rarity of Items found",
       "mod_origin": "implicit",
-      "usage_count": 89,
-      "usage_pct": 0.2967,
+      "usage_count": 88,
+      "usage_pct": 0.2933,
       "value_samples": [
         19.0,
         20.0,
@@ -4123,7 +4124,6 @@
         14.0,
         21.0,
         20.0,
-        20.0,
         19.0,
         20.0,
         17.0,
@@ -4134,7 +4134,8 @@
         20.0,
         19.0,
         17.0,
-        19.0
+        19.0,
+        20.0
       ]
     },
     {
@@ -4562,8 +4563,8 @@
       "slot": "ring",
       "mod_template": "#% increased Rarity of Items found",
       "mod_origin": "explicit",
-      "usage_count": 62,
-      "usage_pct": 0.2067,
+      "usage_count": 61,
+      "usage_pct": 0.2033,
       "value_samples": [
         19.0,
         17.0,
@@ -4594,7 +4595,6 @@
         19.0,
         18.0,
         35.0,
-        37.0,
         17.0,
         18.0,
         16.0,
@@ -4614,7 +4614,8 @@
         18.0,
         37.0,
         18.0,
-        18.0
+        18.0,
+        17.0
       ]
     },
     {
@@ -5477,8 +5478,8 @@
         35.0,
         73.0,
         69.0,
-        72.0,
         69.0,
+        72.0,
         65.0,
         72.0,
         73.0,
@@ -5633,9 +5634,9 @@
         15.0,
         13.0,
         15.0,
+        15.0,
         14.0,
         10.0,
-        15.0,
         15.0,
         15.0,
         10.0,
@@ -5759,60 +5760,6 @@
       ]
     },
     {
-      "base_name": "Gold Ring",
-      "slot": "ring",
-      "mod_template": "+#% to all Elemental Resistances",
-      "mod_origin": "explicit",
-      "usage_count": 42,
-      "usage_pct": 0.14,
-      "value_samples": [
-        16.0,
-        15.0,
-        14.0,
-        15.0,
-        10.0,
-        15.0,
-        16.0,
-        15.0,
-        18.0,
-        3.0,
-        18.0,
-        19.0,
-        12.0,
-        13.0,
-        19.0,
-        19.0,
-        18.0,
-        15.0,
-        13.0,
-        10.0,
-        16.0,
-        16.0,
-        16.0,
-        19.0,
-        16.0,
-        15.0,
-        16.0,
-        16.0,
-        16.0,
-        13.0,
-        16.0,
-        15.0,
-        14.0,
-        16.0,
-        14.0,
-        12.0,
-        12.0,
-        16.0,
-        19.0,
-        15.0,
-        15.0,
-        13.0,
-        19.0,
-        14.0
-      ]
-    },
-    {
       "base_name": "Ancestral Tiara",
       "slot": "helmet",
       "mod_template": "+# to maximum Mana",
@@ -5844,8 +5791,8 @@
         33.0,
         144.0,
         36.0,
-        39.0,
         34.0,
+        39.0,
         35.0,
         36.0,
         27.0,
@@ -5861,6 +5808,59 @@
         34.0,
         33.0,
         140.0
+      ]
+    },
+    {
+      "base_name": "Gold Ring",
+      "slot": "ring",
+      "mod_template": "+#% to all Elemental Resistances",
+      "mod_origin": "explicit",
+      "usage_count": 41,
+      "usage_pct": 0.1367,
+      "value_samples": [
+        16.0,
+        15.0,
+        14.0,
+        15.0,
+        10.0,
+        15.0,
+        16.0,
+        15.0,
+        18.0,
+        3.0,
+        18.0,
+        19.0,
+        12.0,
+        13.0,
+        19.0,
+        19.0,
+        18.0,
+        15.0,
+        13.0,
+        10.0,
+        16.0,
+        16.0,
+        19.0,
+        16.0,
+        15.0,
+        16.0,
+        16.0,
+        16.0,
+        13.0,
+        16.0,
+        15.0,
+        14.0,
+        16.0,
+        14.0,
+        12.0,
+        12.0,
+        16.0,
+        19.0,
+        15.0,
+        15.0,
+        13.0,
+        19.0,
+        14.0
       ]
     },
     {
@@ -5966,9 +5966,10 @@
       "slot": "amulet",
       "mod_template": "-# Prefix Modifier allowed",
       "mod_origin": "implicit",
-      "usage_count": 38,
-      "usage_pct": 0.1267,
+      "usage_count": 39,
+      "usage_pct": 0.13,
       "value_samples": [
+        1.0,
         1.0,
         1.0,
         1.0,
@@ -6014,9 +6015,10 @@
       "slot": "amulet",
       "mod_template": "-# Suffix Modifier allowed",
       "mod_origin": "implicit",
-      "usage_count": 38,
-      "usage_pct": 0.1267,
+      "usage_count": 39,
+      "usage_pct": 0.13,
       "value_samples": [
+        1.0,
         1.0,
         1.0,
         1.0,
@@ -6254,54 +6256,6 @@
     {
       "base_name": "Gold Amulet",
       "slot": "amulet",
-      "mod_template": "#% increased Rarity of Items found",
-      "mod_origin": "explicit",
-      "usage_count": 38,
-      "usage_pct": 0.1267,
-      "value_samples": [
-        16.0,
-        18.0,
-        18.0,
-        19.0,
-        17.0,
-        18.0,
-        18.0,
-        15.0,
-        18.0,
-        28.0,
-        18.0,
-        19.0,
-        16.0,
-        20.0,
-        35.0,
-        16.0,
-        13.0,
-        18.0,
-        17.0,
-        18.0,
-        17.0,
-        18.0,
-        19.0,
-        18.0,
-        18.0,
-        18.0,
-        17.0,
-        34.0,
-        15.0,
-        19.0,
-        19.0,
-        18.0,
-        17.0,
-        19.0,
-        18.0,
-        19.0,
-        12.0,
-        18.0
-      ]
-    },
-    {
-      "base_name": "Gold Amulet",
-      "slot": "amulet",
       "mod_template": "+# to Level of all Projectile Skills",
       "mod_origin": "explicit",
       "usage_count": 37,
@@ -6391,6 +6345,53 @@
         42.0,
         91.0,
         35.0
+      ]
+    },
+    {
+      "base_name": "Gold Amulet",
+      "slot": "amulet",
+      "mod_template": "#% increased Rarity of Items found",
+      "mod_origin": "explicit",
+      "usage_count": 37,
+      "usage_pct": 0.1233,
+      "value_samples": [
+        16.0,
+        18.0,
+        18.0,
+        19.0,
+        17.0,
+        18.0,
+        18.0,
+        15.0,
+        18.0,
+        28.0,
+        18.0,
+        19.0,
+        16.0,
+        20.0,
+        16.0,
+        13.0,
+        18.0,
+        17.0,
+        18.0,
+        17.0,
+        18.0,
+        19.0,
+        18.0,
+        18.0,
+        18.0,
+        17.0,
+        34.0,
+        15.0,
+        19.0,
+        19.0,
+        18.0,
+        17.0,
+        19.0,
+        18.0,
+        19.0,
+        12.0,
+        18.0
       ]
     },
     {
@@ -6511,8 +6512,8 @@
         34.0,
         31.0,
         26.0,
-        33.0,
         34.0,
+        33.0,
         33.0,
         32.0,
         23.0,
@@ -7048,47 +7049,6 @@
       ]
     },
     {
-      "base_name": "Gold Amulet",
-      "slot": "amulet",
-      "mod_template": "#% increased maximum Energy Shield",
-      "mod_origin": "explicit",
-      "usage_count": 31,
-      "usage_pct": 0.1033,
-      "value_samples": [
-        70.0,
-        70.0,
-        51.0,
-        49.0,
-        52.0,
-        60.0,
-        50.0,
-        54.0,
-        57.0,
-        58.0,
-        40.0,
-        56.0,
-        54.0,
-        60.0,
-        71.0,
-        42.0,
-        34.0,
-        60.0,
-        60.0,
-        47.0,
-        58.0,
-        38.0,
-        47.0,
-        57.0,
-        60.0,
-        44.0,
-        42.0,
-        54.0,
-        42.0,
-        30.0,
-        57.0
-      ]
-    },
-    {
       "base_name": "Sekhema Sandals",
       "slot": "boots",
       "mod_template": "Bonded: +# to maximum Life",
@@ -7168,6 +7128,46 @@
         20.0,
         20.0,
         20.0
+      ]
+    },
+    {
+      "base_name": "Gold Amulet",
+      "slot": "amulet",
+      "mod_template": "#% increased maximum Energy Shield",
+      "mod_origin": "explicit",
+      "usage_count": 30,
+      "usage_pct": 0.1,
+      "value_samples": [
+        70.0,
+        70.0,
+        51.0,
+        49.0,
+        52.0,
+        60.0,
+        50.0,
+        54.0,
+        57.0,
+        58.0,
+        40.0,
+        56.0,
+        54.0,
+        60.0,
+        42.0,
+        34.0,
+        60.0,
+        60.0,
+        47.0,
+        58.0,
+        38.0,
+        47.0,
+        57.0,
+        60.0,
+        44.0,
+        42.0,
+        54.0,
+        42.0,
+        30.0,
+        57.0
       ]
     },
     {
@@ -8142,38 +8142,6 @@
       ]
     },
     {
-      "base_name": "Gold Amulet",
-      "slot": "amulet",
-      "mod_template": "+# to Spirit",
-      "mod_origin": "explicit",
-      "usage_count": 22,
-      "usage_pct": 0.0733,
-      "value_samples": [
-        37.0,
-        47.0,
-        50.0,
-        50.0,
-        50.0,
-        50.0,
-        50.0,
-        50.0,
-        49.0,
-        48.0,
-        50.0,
-        45.0,
-        41.0,
-        50.0,
-        49.0,
-        47.0,
-        50.0,
-        47.0,
-        50.0,
-        46.0,
-        46.0,
-        49.0
-      ]
-    },
-    {
       "base_name": "Daggerfoot Shoes",
       "slot": "boots",
       "mod_template": "#% increased Evasion and Energy Shield",
@@ -8437,6 +8405,37 @@
         16.0,
         15.0,
         18.0
+      ]
+    },
+    {
+      "base_name": "Gold Amulet",
+      "slot": "amulet",
+      "mod_template": "+# to Spirit",
+      "mod_origin": "explicit",
+      "usage_count": 21,
+      "usage_pct": 0.07,
+      "value_samples": [
+        37.0,
+        47.0,
+        50.0,
+        50.0,
+        50.0,
+        50.0,
+        50.0,
+        49.0,
+        48.0,
+        50.0,
+        45.0,
+        41.0,
+        50.0,
+        49.0,
+        47.0,
+        50.0,
+        47.0,
+        50.0,
+        46.0,
+        46.0,
+        49.0
       ]
     },
     {
@@ -8795,8 +8794,8 @@
         17.0,
         16.0,
         16.0,
-        17.0,
         18.0,
+        17.0,
         16.0,
         18.0,
         15.0,
@@ -9182,6 +9181,33 @@
       "value_samples": []
     },
     {
+      "base_name": "Absent Amulet",
+      "slot": "amulet",
+      "mod_template": "+# to Spirit",
+      "mod_origin": "fractured",
+      "usage_count": 17,
+      "usage_pct": 0.0567,
+      "value_samples": [
+        50.0,
+        50.0,
+        45.0,
+        50.0,
+        50.0,
+        50.0,
+        35.0,
+        50.0,
+        50.0,
+        50.0,
+        50.0,
+        50.0,
+        50.0,
+        50.0,
+        50.0,
+        50.0,
+        50.0
+      ]
+    },
+    {
       "base_name": "Prismatic Ring",
       "slot": "ring",
       "mod_template": "Adds # to # Fire damage to Attacks",
@@ -9363,8 +9389,8 @@
         29.0,
         22.0,
         29.0,
-        26.0,
         39.0,
+        26.0,
         32.0,
         30.0,
         25.0,
@@ -9396,32 +9422,6 @@
         35.0,
         35.0,
         30.0
-      ]
-    },
-    {
-      "base_name": "Absent Amulet",
-      "slot": "amulet",
-      "mod_template": "+# to Spirit",
-      "mod_origin": "fractured",
-      "usage_count": 16,
-      "usage_pct": 0.0533,
-      "value_samples": [
-        50.0,
-        50.0,
-        45.0,
-        50.0,
-        50.0,
-        35.0,
-        50.0,
-        50.0,
-        50.0,
-        50.0,
-        50.0,
-        50.0,
-        50.0,
-        50.0,
-        50.0,
-        50.0
       ]
     },
     {
@@ -9582,6 +9582,32 @@
       ]
     },
     {
+      "base_name": "Quickslip Shoes",
+      "slot": "boots",
+      "mod_template": "#% increased Evasion and Energy Shield",
+      "mod_origin": "explicit",
+      "usage_count": 16,
+      "usage_pct": 0.0533,
+      "value_samples": [
+        92.0,
+        84.0,
+        39.0,
+        136.0,
+        100.0,
+        100.0,
+        135.0,
+        100.0,
+        91.0,
+        40.0,
+        103.0,
+        83.0,
+        98.0,
+        96.0,
+        100.0,
+        58.0
+      ]
+    },
+    {
       "base_name": "Ancestral Tiara",
       "slot": "helmet",
       "mod_template": "+#% to Chaos Resistance",
@@ -9660,32 +9686,6 @@
       ]
     },
     {
-      "base_name": "Gold Amulet",
-      "slot": "amulet",
-      "mod_template": "+# to Level of all Projectile Skills",
-      "mod_origin": "fractured",
-      "usage_count": 16,
-      "usage_pct": 0.0533,
-      "value_samples": [
-        3.0,
-        3.0,
-        3.0,
-        3.0,
-        3.0,
-        3.0,
-        3.0,
-        3.0,
-        3.0,
-        3.0,
-        3.0,
-        3.0,
-        3.0,
-        3.0,
-        3.0,
-        3.0
-      ]
-    },
-    {
       "base_name": "Ancestral Tiara",
       "slot": "helmet",
       "mod_template": "#% increased Rarity of Items found",
@@ -9708,6 +9708,31 @@
         17.0,
         16.0,
         15.0
+      ]
+    },
+    {
+      "base_name": "Absent Amulet",
+      "slot": "amulet",
+      "mod_template": "#% increased Global Armour, Evasion and Energy Shield",
+      "mod_origin": "crafted",
+      "usage_count": 15,
+      "usage_pct": 0.05,
+      "value_samples": [
+        42.0,
+        30.0,
+        32.0,
+        43.0,
+        30.0,
+        42.0,
+        29.0,
+        42.0,
+        42.0,
+        29.0,
+        37.0,
+        42.0,
+        37.0,
+        35.0,
+        36.0
       ]
     },
     {
@@ -9888,31 +9913,6 @@
       ]
     },
     {
-      "base_name": "Quickslip Shoes",
-      "slot": "boots",
-      "mod_template": "#% increased Evasion and Energy Shield",
-      "mod_origin": "explicit",
-      "usage_count": 15,
-      "usage_pct": 0.05,
-      "value_samples": [
-        92.0,
-        84.0,
-        39.0,
-        136.0,
-        100.0,
-        135.0,
-        100.0,
-        91.0,
-        40.0,
-        103.0,
-        83.0,
-        98.0,
-        96.0,
-        100.0,
-        58.0
-      ]
-    },
-    {
       "base_name": "Dueling Wand",
       "slot": "weapon",
       "mod_template": "#% increased Cast Speed",
@@ -9967,6 +9967,31 @@
     {
       "base_name": "Gold Amulet",
       "slot": "amulet",
+      "mod_template": "+# to Level of all Projectile Skills",
+      "mod_origin": "fractured",
+      "usage_count": 15,
+      "usage_pct": 0.05,
+      "value_samples": [
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0
+      ]
+    },
+    {
+      "base_name": "Gold Amulet",
+      "slot": "amulet",
       "mod_template": "+# to Spirit",
       "mod_origin": "fractured",
       "usage_count": 14,
@@ -10010,30 +10035,6 @@
         10.0,
         10.0,
         10.0
-      ]
-    },
-    {
-      "base_name": "Absent Amulet",
-      "slot": "amulet",
-      "mod_template": "#% increased Global Armour, Evasion and Energy Shield",
-      "mod_origin": "crafted",
-      "usage_count": 14,
-      "usage_pct": 0.0467,
-      "value_samples": [
-        42.0,
-        30.0,
-        32.0,
-        30.0,
-        42.0,
-        29.0,
-        42.0,
-        42.0,
-        29.0,
-        37.0,
-        42.0,
-        37.0,
-        35.0,
-        36.0
       ]
     },
     {
@@ -12488,6 +12489,25 @@
       ]
     },
     {
+      "base_name": "Absent Amulet",
+      "slot": "amulet",
+      "mod_template": "+# to Level of all Projectile Skills",
+      "mod_origin": "explicit",
+      "usage_count": 9,
+      "usage_pct": 0.03,
+      "value_samples": [
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        2.0,
+        3.0,
+        3.0
+      ]
+    },
+    {
       "base_name": "Slipstrike Vest",
       "slot": "body_armour",
       "mod_template": "+# to Evasion Rating",
@@ -13213,6 +13233,44 @@
       ]
     },
     {
+      "base_name": "Quickslip Shoes",
+      "slot": "boots",
+      "mod_template": "+# to Evasion Rating",
+      "mod_origin": "explicit",
+      "usage_count": 9,
+      "usage_pct": 0.03,
+      "value_samples": [
+        64.0,
+        72.0,
+        77.0,
+        78.0,
+        68.0,
+        66.0,
+        70.0,
+        64.0,
+        70.0
+      ]
+    },
+    {
+      "base_name": "Quickslip Shoes",
+      "slot": "boots",
+      "mod_template": "+# to maximum Energy Shield",
+      "mod_origin": "explicit",
+      "usage_count": 9,
+      "usage_pct": 0.03,
+      "value_samples": [
+        20.0,
+        24.0,
+        22.0,
+        23.0,
+        23.0,
+        24.0,
+        24.0,
+        20.0,
+        23.0
+      ]
+    },
+    {
       "base_name": "Sekhema Sandals",
       "slot": "boots",
       "mod_template": "+# to Stun Threshold",
@@ -13366,24 +13424,6 @@
         18.0,
         95.0,
         70.0
-      ]
-    },
-    {
-      "base_name": "Absent Amulet",
-      "slot": "amulet",
-      "mod_template": "+# to Level of all Projectile Skills",
-      "mod_origin": "explicit",
-      "usage_count": 8,
-      "usage_pct": 0.0267,
-      "value_samples": [
-        3.0,
-        3.0,
-        3.0,
-        3.0,
-        3.0,
-        2.0,
-        3.0,
-        3.0
       ]
     },
     {
@@ -14546,42 +14586,6 @@
       ]
     },
     {
-      "base_name": "Quickslip Shoes",
-      "slot": "boots",
-      "mod_template": "+# to Evasion Rating",
-      "mod_origin": "explicit",
-      "usage_count": 8,
-      "usage_pct": 0.0267,
-      "value_samples": [
-        64.0,
-        77.0,
-        78.0,
-        68.0,
-        66.0,
-        70.0,
-        64.0,
-        70.0
-      ]
-    },
-    {
-      "base_name": "Quickslip Shoes",
-      "slot": "boots",
-      "mod_template": "+# to maximum Energy Shield",
-      "mod_origin": "explicit",
-      "usage_count": 8,
-      "usage_pct": 0.0267,
-      "value_samples": [
-        20.0,
-        22.0,
-        23.0,
-        23.0,
-        24.0,
-        24.0,
-        20.0,
-        23.0
-      ]
-    },
-    {
       "base_name": "Akoyan Spear",
       "slot": "weapon",
       "mod_template": "#% increased Physical Damage",
@@ -14631,6 +14635,23 @@
         20.0,
         64.0,
         20.0
+      ]
+    },
+    {
+      "base_name": "Refined Breach Ring",
+      "slot": "ring",
+      "mod_template": "+#% to Maximum Quality",
+      "mod_origin": "implicit",
+      "usage_count": 7,
+      "usage_pct": 0.0233,
+      "value_samples": [
+        25.0,
+        25.0,
+        25.0,
+        25.0,
+        25.0,
+        25.0,
+        25.0
       ]
     },
     {
@@ -15938,22 +15959,6 @@
       ]
     },
     {
-      "base_name": "Refined Breach Ring",
-      "slot": "ring",
-      "mod_template": "+#% to Maximum Quality",
-      "mod_origin": "implicit",
-      "usage_count": 6,
-      "usage_pct": 0.02,
-      "value_samples": [
-        25.0,
-        25.0,
-        25.0,
-        25.0,
-        25.0,
-        25.0
-      ]
-    },
-    {
       "base_name": "Warmonger Bow",
       "slot": "weapon",
       "mod_template": "#% increased Physical Damage",
@@ -16716,22 +16721,6 @@
       ]
     },
     {
-      "base_name": "Runeforged Quickslip Shoes",
-      "slot": "boots",
-      "mod_template": "#% increased Evasion and Energy Shield",
-      "mod_origin": "explicit",
-      "usage_count": 6,
-      "usage_pct": 0.02,
-      "value_samples": [
-        81.0,
-        111.0,
-        99.0,
-        94.0,
-        100.0,
-        32.0
-      ]
-    },
-    {
       "base_name": "Solar Amulet",
       "slot": "amulet",
       "mod_template": "+# to maximum Life",
@@ -16825,6 +16814,38 @@
         39.0,
         39.0,
         39.0
+      ]
+    },
+    {
+      "base_name": "Quickslip Shoes",
+      "slot": "boots",
+      "mod_template": "+#% to Lightning Resistance",
+      "mod_origin": "explicit",
+      "usage_count": 6,
+      "usage_pct": 0.02,
+      "value_samples": [
+        29.0,
+        45.0,
+        39.0,
+        45.0,
+        45.0,
+        44.0
+      ]
+    },
+    {
+      "base_name": "Quickslip Shoes",
+      "slot": "boots",
+      "mod_template": "Bonded: #% increased Cooldown Recovery Rate",
+      "mod_origin": "rune",
+      "usage_count": 6,
+      "usage_pct": 0.02,
+      "value_samples": [
+        16.0,
+        32.0,
+        10.0,
+        10.0,
+        10.0,
+        10.0
       ]
     },
     {
@@ -17397,6 +17418,22 @@
       ]
     },
     {
+      "base_name": "Quickslip Shoes",
+      "slot": "boots",
+      "mod_template": "#% increased Movement Speed",
+      "mod_origin": "desecrated",
+      "usage_count": 6,
+      "usage_pct": 0.02,
+      "value_samples": [
+        30.0,
+        35.0,
+        35.0,
+        35.0,
+        25.0,
+        30.0
+      ]
+    },
+    {
       "base_name": "Leyline Focus",
       "slot": "offhand",
       "mod_template": "+# to maximum Energy Shield",
@@ -17700,21 +17737,6 @@
       ]
     },
     {
-      "base_name": "Gold Amulet",
-      "slot": "amulet",
-      "mod_template": "#% increased Critical Hit Chance",
-      "mod_origin": "desecrated",
-      "usage_count": 5,
-      "usage_pct": 0.0167,
-      "value_samples": [
-        35.0,
-        29.0,
-        38.0,
-        33.0,
-        37.0
-      ]
-    },
-    {
       "base_name": "Daggerfoot Shoes",
       "slot": "boots",
       "mod_template": "#% increased effect of Socketed Augment Items",
@@ -17727,22 +17749,6 @@
         60.0,
         60.0,
         60.0
-      ]
-    },
-    {
-      "base_name": "Gold Ring",
-      "slot": "ring",
-      "mod_template": "Adds # to # Cold damage to Attacks",
-      "mod_origin": "fractured",
-      "usage_count": 5,
-      "usage_pct": 0.0167,
-      "value_samples": [
-        36.0,
-        33.0,
-        30.0,
-        32.0,
-        29.0,
-        32.0
       ]
     },
     {
@@ -18568,6 +18574,21 @@
     {
       "base_name": "Runeforged Quickslip Shoes",
       "slot": "boots",
+      "mod_template": "#% increased Evasion and Energy Shield",
+      "mod_origin": "explicit",
+      "usage_count": 5,
+      "usage_pct": 0.0167,
+      "value_samples": [
+        81.0,
+        111.0,
+        94.0,
+        100.0,
+        32.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Quickslip Shoes",
+      "slot": "boots",
       "mod_template": "Bonded: +# to maximum Life",
       "mod_origin": "rune",
       "usage_count": 5,
@@ -18799,36 +18820,6 @@
         9.72,
         9.2,
         9.51
-      ]
-    },
-    {
-      "base_name": "Quickslip Shoes",
-      "slot": "boots",
-      "mod_template": "+#% to Lightning Resistance",
-      "mod_origin": "explicit",
-      "usage_count": 5,
-      "usage_pct": 0.0167,
-      "value_samples": [
-        29.0,
-        45.0,
-        39.0,
-        45.0,
-        44.0
-      ]
-    },
-    {
-      "base_name": "Quickslip Shoes",
-      "slot": "boots",
-      "mod_template": "Bonded: #% increased Cooldown Recovery Rate",
-      "mod_origin": "rune",
-      "usage_count": 5,
-      "usage_pct": 0.0167,
-      "value_samples": [
-        16.0,
-        32.0,
-        10.0,
-        10.0,
-        10.0
       ]
     },
     {
@@ -19075,6 +19066,21 @@
         56.0,
         44.0,
         58.0
+      ]
+    },
+    {
+      "base_name": "Quickslip Shoes",
+      "slot": "boots",
+      "mod_template": "#% increased Movement Speed",
+      "mod_origin": "rune",
+      "usage_count": 5,
+      "usage_pct": 0.0167,
+      "value_samples": [
+        8.0,
+        5.0,
+        5.0,
+        5.0,
+        5.0
       ]
     },
     {
@@ -19333,21 +19339,6 @@
       ]
     },
     {
-      "base_name": "Runeforged Quickslip Shoes",
-      "slot": "boots",
-      "mod_template": "Gain Deflection Rating equal to #% of Evasion Rating",
-      "mod_origin": "explicit",
-      "usage_count": 5,
-      "usage_pct": 0.0167,
-      "value_samples": [
-        23.0,
-        22.0,
-        16.0,
-        22.0,
-        20.0
-      ]
-    },
-    {
       "base_name": "Obliterator Bow",
       "slot": "weapon",
       "mod_template": "Adds # to # Cold Damage",
@@ -19468,21 +19459,6 @@
       ]
     },
     {
-      "base_name": "Quickslip Shoes",
-      "slot": "boots",
-      "mod_template": "#% increased Movement Speed",
-      "mod_origin": "desecrated",
-      "usage_count": 5,
-      "usage_pct": 0.0167,
-      "value_samples": [
-        30.0,
-        35.0,
-        35.0,
-        25.0,
-        30.0
-      ]
-    },
-    {
       "base_name": "Runeforged Stalking Bracers",
       "slot": "gloves",
       "mod_template": "Adds # to # Lightning damage to Attacks",
@@ -19530,6 +19506,21 @@
     {
       "base_name": "Refined Breach Ring",
       "slot": "ring",
+      "mod_template": "Adds # to # Cold damage to Attacks",
+      "mod_origin": "explicit",
+      "usage_count": 5,
+      "usage_pct": 0.0167,
+      "value_samples": [
+        36.0,
+        42.0,
+        38.0,
+        39.0,
+        39.0
+      ]
+    },
+    {
+      "base_name": "Refined Breach Ring",
+      "slot": "ring",
       "mod_template": "Adds # to # Lightning damage to Attacks",
       "mod_origin": "fractured",
       "usage_count": 5,
@@ -19570,21 +19561,6 @@
         195.0,
         159.0,
         179.0
-      ]
-    },
-    {
-      "base_name": "Gold Ring",
-      "slot": "ring",
-      "mod_template": "Adds # to # Physical Damage to Attacks",
-      "mod_origin": "desecrated",
-      "usage_count": 5,
-      "usage_pct": 0.0167,
-      "value_samples": [
-        23.0,
-        15.0,
-        14.0,
-        7.0,
-        23.0
       ]
     },
     {
@@ -19826,6 +19802,34 @@
       ]
     },
     {
+      "base_name": "Gold Amulet",
+      "slot": "amulet",
+      "mod_template": "#% increased Critical Hit Chance",
+      "mod_origin": "desecrated",
+      "usage_count": 4,
+      "usage_pct": 0.0133,
+      "value_samples": [
+        35.0,
+        29.0,
+        33.0,
+        37.0
+      ]
+    },
+    {
+      "base_name": "Refined Breach Ring",
+      "slot": "ring",
+      "mod_template": "#% increased Attack Speed",
+      "mod_origin": "crafted",
+      "usage_count": 4,
+      "usage_pct": 0.0133,
+      "value_samples": [
+        15.0,
+        15.0,
+        15.0,
+        14.0
+      ]
+    },
+    {
       "base_name": "Warmonger Bow",
       "slot": "weapon",
       "mod_template": "+# to Accuracy Rating",
@@ -19865,6 +19869,21 @@
         25.0,
         25.0,
         29.0
+      ]
+    },
+    {
+      "base_name": "Gold Ring",
+      "slot": "ring",
+      "mod_template": "Adds # to # Cold damage to Attacks",
+      "mod_origin": "fractured",
+      "usage_count": 4,
+      "usage_pct": 0.0133,
+      "value_samples": [
+        36.0,
+        33.0,
+        32.0,
+        29.0,
+        32.0
       ]
     },
     {
@@ -21294,6 +21313,20 @@
       ]
     },
     {
+      "base_name": "Absent Amulet",
+      "slot": "amulet",
+      "mod_template": "#% increased Spell Damage",
+      "mod_origin": "explicit",
+      "usage_count": 4,
+      "usage_pct": 0.0133,
+      "value_samples": [
+        42.0,
+        42.0,
+        42.0,
+        45.0
+      ]
+    },
+    {
       "base_name": "Runeforged Sacrificial Regalia",
       "slot": "body_armour",
       "mod_template": "+# to Level of all Corrupted Skill Gems",
@@ -21572,20 +21605,6 @@
         16.0,
         19.0,
         13.0
-      ]
-    },
-    {
-      "base_name": "Quickslip Shoes",
-      "slot": "boots",
-      "mod_template": "#% increased Movement Speed",
-      "mod_origin": "rune",
-      "usage_count": 4,
-      "usage_pct": 0.0133,
-      "value_samples": [
-        8.0,
-        5.0,
-        5.0,
-        5.0
       ]
     },
     {
@@ -22179,6 +22198,20 @@
       ]
     },
     {
+      "base_name": "Runeforged Quickslip Shoes",
+      "slot": "boots",
+      "mod_template": "Gain Deflection Rating equal to #% of Evasion Rating",
+      "mod_origin": "explicit",
+      "usage_count": 4,
+      "usage_pct": 0.0133,
+      "value_samples": [
+        23.0,
+        16.0,
+        22.0,
+        20.0
+      ]
+    },
+    {
       "base_name": "Pearlescent Amulet",
       "slot": "amulet",
       "mod_template": "+# to maximum Energy Shield",
@@ -22372,6 +22405,43 @@
         6.0,
         6.0,
         6.0
+      ]
+    },
+    {
+      "base_name": "War Wraps",
+      "slot": "gloves",
+      "mod_template": "Can roll Marksman modifiers",
+      "mod_origin": "rune",
+      "usage_count": 4,
+      "usage_pct": 0.0133,
+      "value_samples": []
+    },
+    {
+      "base_name": "War Wraps",
+      "slot": "gloves",
+      "mod_template": "Bonded: #% increased Projectile Damage",
+      "mod_origin": "rune",
+      "usage_count": 4,
+      "usage_pct": 0.0133,
+      "value_samples": [
+        20.0,
+        20.0,
+        20.0,
+        20.0
+      ]
+    },
+    {
+      "base_name": "War Wraps",
+      "slot": "gloves",
+      "mod_template": "#% increased Critical Damage Bonus",
+      "mod_origin": "crafted",
+      "usage_count": 4,
+      "usage_pct": 0.0133,
+      "value_samples": [
+        26.0,
+        29.0,
+        25.0,
+        27.0
       ]
     },
     {
@@ -22629,20 +22699,6 @@
     {
       "base_name": "Refined Breach Ring",
       "slot": "ring",
-      "mod_template": "Adds # to # Cold damage to Attacks",
-      "mod_origin": "explicit",
-      "usage_count": 4,
-      "usage_pct": 0.0133,
-      "value_samples": [
-        36.0,
-        38.0,
-        39.0,
-        39.0
-      ]
-    },
-    {
-      "base_name": "Refined Breach Ring",
-      "slot": "ring",
       "mod_template": "+#% to all Elemental Resistances",
       "mod_origin": "explicit",
       "usage_count": 4,
@@ -22793,20 +22849,6 @@
         103.0,
         91.0,
         92.0
-      ]
-    },
-    {
-      "base_name": "Absent Amulet",
-      "slot": "amulet",
-      "mod_template": "#% increased Rarity of Items found",
-      "mod_origin": "explicit",
-      "usage_count": 4,
-      "usage_pct": 0.0133,
-      "value_samples": [
-        18.0,
-        19.0,
-        17.0,
-        18.0
       ]
     },
     {
@@ -23327,6 +23369,20 @@
       ]
     },
     {
+      "base_name": "Gold Ring",
+      "slot": "ring",
+      "mod_template": "Adds # to # Physical Damage to Attacks",
+      "mod_origin": "desecrated",
+      "usage_count": 4,
+      "usage_pct": 0.0133,
+      "value_samples": [
+        15.0,
+        14.0,
+        7.0,
+        23.0
+      ]
+    },
+    {
       "base_name": "Shrine Sceptre",
       "slot": "offhand",
       "mod_template": "Allies in your Presence deal #% increased Damage",
@@ -23502,19 +23558,6 @@
       ]
     },
     {
-      "base_name": "Refined Breach Ring",
-      "slot": "ring",
-      "mod_template": "#% increased Attack Speed",
-      "mod_origin": "crafted",
-      "usage_count": 3,
-      "usage_pct": 0.01,
-      "value_samples": [
-        15.0,
-        15.0,
-        14.0
-      ]
-    },
-    {
       "base_name": "Daggerfoot Shoes",
       "slot": "boots",
       "mod_template": "#% increased Movement Speed when on Low Life",
@@ -23525,19 +23568,6 @@
         16.0,
         16.0,
         16.0
-      ]
-    },
-    {
-      "base_name": "Gold Ring",
-      "slot": "ring",
-      "mod_template": "#% increased Attack Speed",
-      "mod_origin": "crafted",
-      "usage_count": 3,
-      "usage_pct": 0.01,
-      "value_samples": [
-        13.0,
-        12.0,
-        12.0
       ]
     },
     {
@@ -23668,6 +23698,19 @@
         20.0,
         20.0,
         20.0
+      ]
+    },
+    {
+      "base_name": "Absent Amulet",
+      "slot": "amulet",
+      "mod_template": "#% increased Critical Hit Chance",
+      "mod_origin": "desecrated",
+      "usage_count": 3,
+      "usage_pct": 0.01,
+      "value_samples": [
+        37.0,
+        34.0,
+        38.0
       ]
     },
     {
@@ -25527,19 +25570,6 @@
     {
       "base_name": "Absent Amulet",
       "slot": "amulet",
-      "mod_template": "#% increased Spell Damage",
-      "mod_origin": "explicit",
-      "usage_count": 3,
-      "usage_pct": 0.01,
-      "value_samples": [
-        42.0,
-        42.0,
-        45.0
-      ]
-    },
-    {
-      "base_name": "Absent Amulet",
-      "slot": "amulet",
       "mod_template": "+# to maximum Mana",
       "mod_origin": "fractured",
       "usage_count": 3,
@@ -27224,32 +27254,6 @@
       ]
     },
     {
-      "base_name": "Runeforged Quickslip Shoes",
-      "slot": "boots",
-      "mod_template": "+# to Evasion Rating",
-      "mod_origin": "explicit",
-      "usage_count": 3,
-      "usage_pct": 0.01,
-      "value_samples": [
-        71.0,
-        77.0,
-        69.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Quickslip Shoes",
-      "slot": "boots",
-      "mod_template": "+# to maximum Energy Shield",
-      "mod_origin": "explicit",
-      "usage_count": 3,
-      "usage_pct": 0.01,
-      "value_samples": [
-        25.0,
-        22.0,
-        22.0
-      ]
-    },
-    {
       "base_name": "Pearlescent Amulet",
       "slot": "amulet",
       "mod_template": "#% increased maximum Energy Shield",
@@ -27435,36 +27439,14 @@
     {
       "base_name": "War Wraps",
       "slot": "gloves",
-      "mod_template": "Can roll Marksman modifiers",
-      "mod_origin": "rune",
-      "usage_count": 3,
-      "usage_pct": 0.01,
-      "value_samples": []
-    },
-    {
-      "base_name": "War Wraps",
-      "slot": "gloves",
-      "mod_template": "Bonded: #% increased Projectile Damage",
-      "mod_origin": "rune",
+      "mod_template": "Adds # to # Cold damage to Attacks",
+      "mod_origin": "explicit",
       "usage_count": 3,
       "usage_pct": 0.01,
       "value_samples": [
         20.0,
-        20.0,
-        20.0
-      ]
-    },
-    {
-      "base_name": "War Wraps",
-      "slot": "gloves",
-      "mod_template": "#% increased Critical Damage Bonus",
-      "mod_origin": "crafted",
-      "usage_count": 3,
-      "usage_pct": 0.01,
-      "value_samples": [
-        26.0,
-        25.0,
-        27.0
+        21.0,
+        24.0
       ]
     },
     {
@@ -28399,6 +28381,19 @@
         60.0,
         60.0,
         32.0
+      ]
+    },
+    {
+      "base_name": "Absent Amulet",
+      "slot": "amulet",
+      "mod_template": "#% increased Rarity of Items found",
+      "mod_origin": "explicit",
+      "usage_count": 3,
+      "usage_pct": 0.01,
+      "value_samples": [
+        18.0,
+        17.0,
+        18.0
       ]
     },
     {
@@ -29687,6 +29682,18 @@
     {
       "base_name": "Refined Breach Ring",
       "slot": "ring",
+      "mod_template": "#% increased Rarity of Items found",
+      "mod_origin": "explicit",
+      "usage_count": 2,
+      "usage_pct": 0.0067,
+      "value_samples": [
+        15.0,
+        16.0
+      ]
+    },
+    {
+      "base_name": "Refined Breach Ring",
+      "slot": "ring",
       "mod_template": "+#% to all Elemental Resistances",
       "mod_origin": "desecrated",
       "usage_count": 2,
@@ -29742,6 +29749,18 @@
       "value_samples": [
         17.0,
         16.0
+      ]
+    },
+    {
+      "base_name": "Gold Ring",
+      "slot": "ring",
+      "mod_template": "#% increased Attack Speed",
+      "mod_origin": "crafted",
+      "usage_count": 2,
+      "usage_pct": 0.0067,
+      "value_samples": [
+        13.0,
+        12.0
       ]
     },
     {
@@ -29917,18 +29936,6 @@
       "usage_count": 2,
       "usage_pct": 0.0067,
       "value_samples": []
-    },
-    {
-      "base_name": "Absent Amulet",
-      "slot": "amulet",
-      "mod_template": "#% increased Critical Hit Chance",
-      "mod_origin": "desecrated",
-      "usage_count": 2,
-      "usage_pct": 0.0067,
-      "value_samples": [
-        37.0,
-        38.0
-      ]
     },
     {
       "base_name": "Elegant Wraps",
@@ -32778,6 +32785,18 @@
       ]
     },
     {
+      "base_name": "Quickslip Shoes",
+      "slot": "boots",
+      "mod_template": "+# to Spirit",
+      "mod_origin": "crafted",
+      "usage_count": 2,
+      "usage_pct": 0.0067,
+      "value_samples": [
+        13.0,
+        15.0
+      ]
+    },
+    {
       "base_name": "Fists of Stone",
       "slot": "gloves",
       "mod_template": "Destroys all Augment Sockets on the item to create a Jewel Socket",
@@ -32916,18 +32935,6 @@
       "value_samples": [
         18.0,
         24.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Vaal Wraps",
-      "slot": "gloves",
-      "mod_template": "Adds # to # Cold damage to Attacks",
-      "mod_origin": "explicit",
-      "usage_count": 2,
-      "usage_pct": 0.0067,
-      "value_samples": [
-        22.0,
-        23.0
       ]
     },
     {
@@ -34613,6 +34620,30 @@
     {
       "base_name": "Runeforged Quickslip Shoes",
       "slot": "boots",
+      "mod_template": "+# to Evasion Rating",
+      "mod_origin": "explicit",
+      "usage_count": 2,
+      "usage_pct": 0.0067,
+      "value_samples": [
+        71.0,
+        69.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Quickslip Shoes",
+      "slot": "boots",
+      "mod_template": "+# to maximum Energy Shield",
+      "mod_origin": "explicit",
+      "usage_count": 2,
+      "usage_pct": 0.0067,
+      "value_samples": [
+        25.0,
+        22.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Quickslip Shoes",
+      "slot": "boots",
       "mod_template": "+# to Stun Threshold",
       "mod_origin": "explicit",
       "usage_count": 2,
@@ -35189,18 +35220,6 @@
       "usage_pct": 0.0067,
       "value_samples": [
         17.0,
-        24.0
-      ]
-    },
-    {
-      "base_name": "War Wraps",
-      "slot": "gloves",
-      "mod_template": "Adds # to # Cold damage to Attacks",
-      "mod_origin": "explicit",
-      "usage_count": 2,
-      "usage_pct": 0.0067,
-      "value_samples": [
-        20.0,
         24.0
       ]
     },
@@ -36438,49 +36457,28 @@
       ]
     },
     {
-      "base_name": "Runeforged Quickslip Shoes",
+      "base_name": "Quickslip Shoes",
       "slot": "boots",
-      "mod_template": "+#% to Lightning Resistance",
+      "mod_template": "Gain Deflection Rating equal to #% of Evasion Rating",
+      "mod_origin": "fractured",
+      "usage_count": 2,
+      "usage_pct": 0.0067,
+      "value_samples": [
+        23.0,
+        21.0
+      ]
+    },
+    {
+      "base_name": "Refined Breach Ring",
+      "slot": "ring",
+      "mod_template": "Adds # to # Physical Damage to Attacks",
       "mod_origin": "explicit",
       "usage_count": 2,
       "usage_pct": 0.0067,
       "value_samples": [
-        45.0,
-        36.0
+        29.0,
+        33.0
       ]
-    },
-    {
-      "base_name": "Runeforged Quickslip Shoes",
-      "slot": "boots",
-      "mod_template": "#% increased Rarity of Items found",
-      "mod_origin": "crafted",
-      "usage_count": 2,
-      "usage_pct": 0.0067,
-      "value_samples": [
-        18.0,
-        16.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Quickslip Shoes",
-      "slot": "boots",
-      "mod_template": "#% increased Movement Speed",
-      "mod_origin": "desecrated",
-      "usage_count": 2,
-      "usage_pct": 0.0067,
-      "value_samples": [
-        35.0,
-        35.0
-      ]
-    },
-    {
-      "base_name": "Gold Amulet",
-      "slot": "amulet",
-      "mod_template": "Allocates Wrapped Quiver",
-      "mod_origin": "enchant",
-      "usage_count": 2,
-      "usage_pct": 0.0067,
-      "value_samples": []
     },
     {
       "base_name": "Sleek Jacket",
@@ -36492,6 +36490,30 @@
       "value_samples": [
         109.0,
         109.0
+      ]
+    },
+    {
+      "base_name": "War Wraps",
+      "slot": "gloves",
+      "mod_template": "#% increased Projectile Speed",
+      "mod_origin": "explicit",
+      "usage_count": 2,
+      "usage_pct": 0.0067,
+      "value_samples": [
+        40.0,
+        24.0
+      ]
+    },
+    {
+      "base_name": "War Wraps",
+      "slot": "gloves",
+      "mod_template": "+# to Level of all Projectile Skills",
+      "mod_origin": "fractured",
+      "usage_count": 2,
+      "usage_pct": 0.0067,
+      "value_samples": [
+        2.0,
+        2.0
       ]
     },
     {
@@ -38603,54 +38625,6 @@
       ]
     },
     {
-      "base_name": "Kamasan Tiara",
-      "slot": "helmet",
-      "mod_template": "#% increased Rarity of Items found",
-      "mod_origin": "desecrated",
-      "usage_count": 2,
-      "usage_pct": 0.0067,
-      "value_samples": [
-        19.0,
-        16.0
-      ]
-    },
-    {
-      "base_name": "Lunar Amulet",
-      "slot": "amulet",
-      "mod_template": "+# to all Attributes",
-      "mod_origin": "explicit",
-      "usage_count": 2,
-      "usage_pct": 0.0067,
-      "value_samples": [
-        19.0,
-        20.0
-      ]
-    },
-    {
-      "base_name": "Lunar Amulet",
-      "slot": "amulet",
-      "mod_template": "#% of Damage taken Recouped as Mana",
-      "mod_origin": "explicit",
-      "usage_count": 2,
-      "usage_pct": 0.0067,
-      "value_samples": [
-        14.0,
-        14.0
-      ]
-    },
-    {
-      "base_name": "Lunar Amulet",
-      "slot": "amulet",
-      "mod_template": "Aura Skills have #% increased Magnitudes",
-      "mod_origin": "desecrated",
-      "usage_count": 2,
-      "usage_pct": 0.0067,
-      "value_samples": [
-        16.0,
-        13.0
-      ]
-    },
-    {
       "base_name": "Akoyan Spear",
       "slot": "weapon",
       "mod_template": "+# to Level of all Projectile Skills",
@@ -38717,6 +38691,54 @@
       "value_samples": [
         25.0,
         26.0
+      ]
+    },
+    {
+      "base_name": "Kamasan Tiara",
+      "slot": "helmet",
+      "mod_template": "#% increased Rarity of Items found",
+      "mod_origin": "desecrated",
+      "usage_count": 2,
+      "usage_pct": 0.0067,
+      "value_samples": [
+        19.0,
+        16.0
+      ]
+    },
+    {
+      "base_name": "Lunar Amulet",
+      "slot": "amulet",
+      "mod_template": "+# to all Attributes",
+      "mod_origin": "explicit",
+      "usage_count": 2,
+      "usage_pct": 0.0067,
+      "value_samples": [
+        19.0,
+        20.0
+      ]
+    },
+    {
+      "base_name": "Lunar Amulet",
+      "slot": "amulet",
+      "mod_template": "#% of Damage taken Recouped as Mana",
+      "mod_origin": "explicit",
+      "usage_count": 2,
+      "usage_pct": 0.0067,
+      "value_samples": [
+        14.0,
+        14.0
+      ]
+    },
+    {
+      "base_name": "Lunar Amulet",
+      "slot": "amulet",
+      "mod_template": "Aura Skills have #% increased Magnitudes",
+      "mod_origin": "desecrated",
+      "usage_count": 2,
+      "usage_pct": 0.0067,
+      "value_samples": [
+        16.0,
+        13.0
       ]
     },
     {
@@ -41621,17 +41643,6 @@
       "usage_pct": 0.0033,
       "value_samples": [
         5.0
-      ]
-    },
-    {
-      "base_name": "Refined Breach Ring",
-      "slot": "ring",
-      "mod_template": "#% increased Rarity of Items found",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        15.0
       ]
     },
     {
@@ -47070,17 +47081,6 @@
       ]
     },
     {
-      "base_name": "Quickslip Shoes",
-      "slot": "boots",
-      "mod_template": "+# to Spirit",
-      "mod_origin": "crafted",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        13.0
-      ]
-    },
-    {
       "base_name": "Fists of Stone",
       "slot": "gloves",
       "mod_template": "+# to Level of all Melee Skills",
@@ -47320,6 +47320,17 @@
       "usage_pct": 0.0033,
       "value_samples": [
         29.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Vaal Wraps",
+      "slot": "gloves",
+      "mod_template": "Adds # to # Cold damage to Attacks",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        22.0
       ]
     },
     {
@@ -55460,20 +55471,9 @@
       ]
     },
     {
-      "base_name": "Runeforged Quickslip Shoes",
+      "base_name": "Quickslip Shoes",
       "slot": "boots",
-      "mod_template": "#% increased Movement Speed",
-      "mod_origin": "rune",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        5.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Quickslip Shoes",
-      "slot": "boots",
-      "mod_template": "#% increased Movement Speed while Sprinting",
+      "mod_template": "#% increased Deflection Rating while moving",
       "mod_origin": "rune",
       "usage_count": 1,
       "usage_pct": 0.0033,
@@ -55482,54 +55482,21 @@
       ]
     },
     {
-      "base_name": "Runeforged Quickslip Shoes",
+      "base_name": "Quickslip Shoes",
       "slot": "boots",
-      "mod_template": "Bonded: #% increased Stun Recovery",
+      "mod_template": "Bonded: Prevent +#% of Damage from Deflected Hits",
       "mod_origin": "rune",
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": [
-        50.0
+        3.0
       ]
     },
     {
-      "base_name": "Runeforged Quickslip Shoes",
+      "base_name": "Quickslip Shoes",
       "slot": "boots",
-      "mod_template": "Bonded: #% increased Cooldown Recovery Rate",
-      "mod_origin": "rune",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        10.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Vaal Wraps",
-      "slot": "gloves",
-      "mod_template": "#% increased Projectile Speed",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        39.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Vaal Wraps",
-      "slot": "gloves",
-      "mod_template": "#% increased Projectile Damage",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        39.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Vaal Wraps",
-      "slot": "gloves",
-      "mod_template": "Gain #% of Damage as Extra Damage of a random Element per Rune Socketed in Equipped Items",
-      "mod_origin": "rune",
+      "mod_template": "+#% to Maximum Lightning Resistance",
+      "mod_origin": "enchant",
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": [
@@ -55537,67 +55504,36 @@
       ]
     },
     {
-      "base_name": "Runeforged Vaal Wraps",
-      "slot": "gloves",
-      "mod_template": "Can roll Marksman modifiers",
-      "mod_origin": "rune",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": []
-    },
-    {
-      "base_name": "Runeforged Vaal Wraps",
-      "slot": "gloves",
-      "mod_template": "Bonded: #% increased Elemental Damage",
-      "mod_origin": "rune",
+      "base_name": "Quickslip Shoes",
+      "slot": "boots",
+      "mod_template": "#% reduced Slowing Potency of Debuffs on You",
+      "mod_origin": "enchant",
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": [
-        20.0
+        25.0
       ]
     },
     {
-      "base_name": "Runeforged Vaal Wraps",
-      "slot": "gloves",
-      "mod_template": "Bonded: #% increased Projectile Damage",
-      "mod_origin": "rune",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        20.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Vaal Wraps",
-      "slot": "gloves",
-      "mod_template": "#% increased Critical Damage Bonus",
-      "mod_origin": "crafted",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        28.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Vaal Wraps",
-      "slot": "gloves",
-      "mod_template": "+# to Level of all Projectile Skills",
+      "base_name": "Refined Breach Ring",
+      "slot": "ring",
+      "mod_template": "+#% to all Elemental Resistances",
       "mod_origin": "fractured",
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": [
-        2.0
+        16.0
       ]
     },
     {
-      "base_name": "Runeforged Vaal Wraps",
-      "slot": "gloves",
-      "mod_template": "#% increased Attack Speed",
+      "base_name": "Refined Breach Ring",
+      "slot": "ring",
+      "mod_template": "Adds # to # Lightning damage to Attacks",
       "mod_origin": "desecrated",
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": [
-        16.0
+        5.0
       ]
     },
     {
@@ -55682,6 +55618,59 @@
       "slot": "body_armour",
       "mod_template": "Allocates Kite Runner",
       "mod_origin": "crafted",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": []
+    },
+    {
+      "base_name": "War Wraps",
+      "slot": "gloves",
+      "mod_template": "#% increased Attack Speed",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        15.0
+      ]
+    },
+    {
+      "base_name": "War Wraps",
+      "slot": "gloves",
+      "mod_template": "#% increased Attack Speed",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        8.0
+      ]
+    },
+    {
+      "base_name": "War Wraps",
+      "slot": "gloves",
+      "mod_template": "Bonded: #% reduced Slowing Potency of Debuffs on You",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        20.0
+      ]
+    },
+    {
+      "base_name": "War Wraps",
+      "slot": "gloves",
+      "mod_template": "Adds # to # Lightning damage to Attacks",
+      "mod_origin": "desecrated",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        1.0
+      ]
+    },
+    {
+      "base_name": "Absent Amulet",
+      "slot": "amulet",
+      "mod_template": "Allocates Tenfold Attacks",
+      "mod_origin": "enchant",
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": []
@@ -58425,6 +58414,17 @@
     {
       "base_name": "Runeforged Quickslip Shoes",
       "slot": "boots",
+      "mod_template": "+#% to Lightning Resistance",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        36.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Quickslip Shoes",
+      "slot": "boots",
       "mod_template": "#% increased Movement Speed when on Low Life",
       "mod_origin": "rune",
       "usage_count": 1,
@@ -58942,17 +58942,6 @@
       "usage_pct": 0.0033,
       "value_samples": [
         39.0
-      ]
-    },
-    {
-      "base_name": "Refined Breach Ring",
-      "slot": "ring",
-      "mod_template": "Adds # to # Physical Damage to Attacks",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        33.0
       ]
     },
     {
@@ -61629,6 +61618,15 @@
       ]
     },
     {
+      "base_name": "Gold Amulet",
+      "slot": "amulet",
+      "mod_template": "Allocates Wrapped Quiver",
+      "mod_origin": "enchant",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": []
+    },
+    {
       "base_name": "Runeforged Polished Bracers",
       "slot": "gloves",
       "mod_template": "Adds # to # Lightning damage to Attacks",
@@ -63480,17 +63478,6 @@
       ]
     },
     {
-      "base_name": "Quickslip Shoes",
-      "slot": "boots",
-      "mod_template": "Gain Deflection Rating equal to #% of Evasion Rating",
-      "mod_origin": "fractured",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        21.0
-      ]
-    },
-    {
       "base_name": "Runeforged Fists of Stone",
       "slot": "gloves",
       "mod_template": "#% increased Area of Effect for Attacks",
@@ -63620,6 +63607,127 @@
       "usage_pct": 0.0033,
       "value_samples": [
         8.5
+      ]
+    },
+    {
+      "base_name": "Solar Amulet",
+      "slot": "amulet",
+      "mod_template": "+#% to Quality of all Skills",
+      "mod_origin": "desecrated",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        5.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Barbed Bracers",
+      "slot": "gloves",
+      "mod_template": "#% increased Attack Speed",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        16.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Barbed Bracers",
+      "slot": "gloves",
+      "mod_template": "#% increased Projectile Speed",
+      "mod_origin": "desecrated",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        30.0
+      ]
+    },
+    {
+      "base_name": "Ruby Ring",
+      "slot": "ring",
+      "mod_template": "Adds # to # Physical Damage to Attacks",
+      "mod_origin": "desecrated",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        24.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Daggerfoot Shoes",
+      "slot": "boots",
+      "mod_template": "+# to Dexterity",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        15.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Daggerfoot Shoes",
+      "slot": "boots",
+      "mod_template": "Gain Onslaught for # seconds when your Marks Activate",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        4.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Daggerfoot Shoes",
+      "slot": "boots",
+      "mod_template": "Bonded: Buffs on you expire #% slower",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        10.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Daggerfoot Shoes",
+      "slot": "boots",
+      "mod_template": "#% increased Rarity of Items found",
+      "mod_origin": "crafted",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        18.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Daggerfoot Shoes",
+      "slot": "boots",
+      "mod_template": "#% increased Evasion and Energy Shield",
+      "mod_origin": "fractured",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        100.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Daggerfoot Shoes",
+      "slot": "boots",
+      "mod_template": "+# to Evasion Rating",
+      "mod_origin": "desecrated",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        71.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Daggerfoot Shoes",
+      "slot": "boots",
+      "mod_template": "+# to maximum Energy Shield",
+      "mod_origin": "desecrated",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        23.0
       ]
     },
     {
@@ -63921,127 +64029,6 @@
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": []
-    },
-    {
-      "base_name": "Solar Amulet",
-      "slot": "amulet",
-      "mod_template": "+#% to Quality of all Skills",
-      "mod_origin": "desecrated",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        5.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Barbed Bracers",
-      "slot": "gloves",
-      "mod_template": "#% increased Attack Speed",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        16.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Barbed Bracers",
-      "slot": "gloves",
-      "mod_template": "#% increased Projectile Speed",
-      "mod_origin": "desecrated",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        30.0
-      ]
-    },
-    {
-      "base_name": "Ruby Ring",
-      "slot": "ring",
-      "mod_template": "Adds # to # Physical Damage to Attacks",
-      "mod_origin": "desecrated",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        24.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Daggerfoot Shoes",
-      "slot": "boots",
-      "mod_template": "+# to Dexterity",
-      "mod_origin": "rune",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        15.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Daggerfoot Shoes",
-      "slot": "boots",
-      "mod_template": "Gain Onslaught for # seconds when your Marks Activate",
-      "mod_origin": "rune",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        4.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Daggerfoot Shoes",
-      "slot": "boots",
-      "mod_template": "Bonded: Buffs on you expire #% slower",
-      "mod_origin": "rune",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        10.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Daggerfoot Shoes",
-      "slot": "boots",
-      "mod_template": "#% increased Rarity of Items found",
-      "mod_origin": "crafted",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        18.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Daggerfoot Shoes",
-      "slot": "boots",
-      "mod_template": "#% increased Evasion and Energy Shield",
-      "mod_origin": "fractured",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        100.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Daggerfoot Shoes",
-      "slot": "boots",
-      "mod_template": "+# to Evasion Rating",
-      "mod_origin": "desecrated",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        71.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Daggerfoot Shoes",
-      "slot": "boots",
-      "mod_template": "+# to maximum Energy Shield",
-      "mod_origin": "desecrated",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        23.0
-      ]
     },
     {
       "base_name": "Runeforged Luxurious Slippers",
@@ -65416,6 +65403,17 @@
       "usage_pct": 0.0033,
       "value_samples": [
         21.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Quickslip Shoes",
+      "slot": "boots",
+      "mod_template": "#% increased Rarity of Items found",
+      "mod_origin": "crafted",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        16.0
       ]
     },
     {
@@ -76965,6 +76963,17 @@
     {
       "base_name": "Runeforged Quickslip Shoes",
       "slot": "boots",
+      "mod_template": "#% increased Movement Speed",
+      "mod_origin": "desecrated",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        35.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Quickslip Shoes",
+      "slot": "boots",
       "mod_template": "+# to maximum Life",
       "mod_origin": "desecrated",
       "usage_count": 1,
@@ -81878,17 +81887,6 @@
     {
       "base_name": "War Wraps",
       "slot": "gloves",
-      "mod_template": "#% increased Projectile Speed",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        24.0
-      ]
-    },
-    {
-      "base_name": "War Wraps",
-      "slot": "gloves",
       "mod_template": "#% increased Magnitude of Non-Damaging Ailments you inflict",
       "mod_origin": "rune",
       "usage_count": 1,
@@ -81906,17 +81904,6 @@
       "usage_pct": 0.0033,
       "value_samples": [
         15.0
-      ]
-    },
-    {
-      "base_name": "War Wraps",
-      "slot": "gloves",
-      "mod_template": "+# to Level of all Projectile Skills",
-      "mod_origin": "fractured",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        2.0
       ]
     },
     {
