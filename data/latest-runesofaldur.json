@@ -1,9 +1,9 @@
 {
   "league": "Runes of Aldur",
   "league_slug": "runesofaldur",
-  "snapshot_version": "0726-20260721-02942",
+  "snapshot_version": "0624-20260722-27457",
   "snapshot_name": "runes-of-aldur",
-  "scraped_at": "2026-07-21T08:14:22+00:00",
+  "scraped_at": "2026-07-22T08:14:57+00:00",
   "sample_size": 300,
   "roster_size": 300,
   "base_usage": [
@@ -616,16 +616,6 @@
       "common_skills": []
     },
     {
-      "base_name": "Luxurious Slippers",
-      "slot": "boots",
-      "usage_count": 11,
-      "usage_pct": 0.0367,
-      "rarity_mix": {
-        "rare": 11
-      },
-      "common_skills": []
-    },
-    {
       "base_name": "Polished Bracers",
       "slot": "gloves",
       "usage_count": 11,
@@ -678,6 +668,16 @@
     },
     {
       "base_name": "Charmed Shoes",
+      "slot": "boots",
+      "usage_count": 10,
+      "usage_pct": 0.0333,
+      "rarity_mix": {
+        "rare": 10
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Luxurious Slippers",
       "slot": "boots",
       "usage_count": 10,
       "usage_pct": 0.0333,
@@ -3029,6 +3029,16 @@
     {
       "base_name": "Runemastered Layered Gauntlets",
       "slot": "gloves",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "rarity_mix": {
+        "unique": 1
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Runemastered Silk Slippers",
+      "slot": "boots",
       "usage_count": 1,
       "usage_pct": 0.0033,
       "rarity_mix": {
@@ -7444,80 +7454,6 @@
       ]
     },
     {
-      "base_name": "Tasalian Focus",
-      "slot": "offhand",
-      "mod_template": "Bonded: +# to maximum Life",
-      "mod_origin": "rune",
-      "usage_count": 27,
-      "usage_pct": 0.09,
-      "value_samples": [
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        40.0,
-        20.0,
-        20.0,
-        40.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        40.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        40.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0
-      ]
-    },
-    {
-      "base_name": "Tasalian Focus",
-      "slot": "offhand",
-      "mod_template": "Bonded: +# to maximum Mana",
-      "mod_origin": "rune",
-      "usage_count": 27,
-      "usage_pct": 0.09,
-      "value_samples": [
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        40.0,
-        20.0,
-        20.0,
-        40.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        40.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        40.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0
-      ]
-    },
-    {
       "base_name": "Sirenscale Gloves",
       "slot": "gloves",
       "mod_template": "#% increased Energy Shield",
@@ -7626,6 +7562,78 @@
         82.0,
         79.0,
         57.0
+      ]
+    },
+    {
+      "base_name": "Tasalian Focus",
+      "slot": "offhand",
+      "mod_template": "Bonded: +# to maximum Life",
+      "mod_origin": "rune",
+      "usage_count": 26,
+      "usage_pct": 0.0867,
+      "value_samples": [
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        40.0,
+        20.0,
+        20.0,
+        40.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        40.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        40.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0
+      ]
+    },
+    {
+      "base_name": "Tasalian Focus",
+      "slot": "offhand",
+      "mod_template": "Bonded: +# to maximum Mana",
+      "mod_origin": "rune",
+      "usage_count": 26,
+      "usage_pct": 0.0867,
+      "value_samples": [
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        40.0,
+        20.0,
+        20.0,
+        40.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        40.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        40.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0
       ]
     },
     {
@@ -8565,37 +8573,6 @@
       ]
     },
     {
-      "base_name": "Tasalian Focus",
-      "slot": "offhand",
-      "mod_template": "#% increased Armour, Evasion and Energy Shield",
-      "mod_origin": "rune",
-      "usage_count": 21,
-      "usage_pct": 0.07,
-      "value_samples": [
-        18.0,
-        20.0,
-        18.0,
-        40.0,
-        20.0,
-        18.0,
-        40.0,
-        20.0,
-        18.0,
-        20.0,
-        18.0,
-        18.0,
-        40.0,
-        18.0,
-        20.0,
-        18.0,
-        18.0,
-        18.0,
-        40.0,
-        18.0,
-        18.0
-      ]
-    },
-    {
       "base_name": "Obliterator Bow",
       "slot": "weapon",
       "mod_template": "#% reduced Projectile Range",
@@ -8806,6 +8783,36 @@
         16.0,
         17.0,
         16.0
+      ]
+    },
+    {
+      "base_name": "Tasalian Focus",
+      "slot": "offhand",
+      "mod_template": "#% increased Armour, Evasion and Energy Shield",
+      "mod_origin": "rune",
+      "usage_count": 20,
+      "usage_pct": 0.0667,
+      "value_samples": [
+        18.0,
+        20.0,
+        18.0,
+        40.0,
+        20.0,
+        18.0,
+        40.0,
+        18.0,
+        20.0,
+        18.0,
+        18.0,
+        40.0,
+        18.0,
+        20.0,
+        18.0,
+        18.0,
+        18.0,
+        40.0,
+        18.0,
+        18.0
       ]
     },
     {
@@ -16619,22 +16626,6 @@
     {
       "base_name": "Luxurious Slippers",
       "slot": "boots",
-      "mod_template": "#% increased Movement Speed",
-      "mod_origin": "explicit",
-      "usage_count": 6,
-      "usage_pct": 0.02,
-      "value_samples": [
-        35.0,
-        25.0,
-        35.0,
-        35.0,
-        35.0,
-        35.0
-      ]
-    },
-    {
-      "base_name": "Luxurious Slippers",
-      "slot": "boots",
       "mod_template": "Bonded: #% increased Cooldown Recovery Rate",
       "mod_origin": "rune",
       "usage_count": 6,
@@ -18508,15 +18499,15 @@
     {
       "base_name": "Luxurious Slippers",
       "slot": "boots",
-      "mod_template": "#% increased Energy Shield",
+      "mod_template": "#% increased Movement Speed",
       "mod_origin": "explicit",
       "usage_count": 5,
       "usage_pct": 0.0167,
       "value_samples": [
-        84.0,
-        23.0,
-        76.0,
-        39.0,
+        35.0,
+        25.0,
+        35.0,
+        35.0,
         35.0
       ]
     },
@@ -18533,21 +18524,6 @@
         5.0,
         5.0,
         5.0
-      ]
-    },
-    {
-      "base_name": "Luxurious Slippers",
-      "slot": "boots",
-      "mod_template": "+# to maximum Energy Shield",
-      "mod_origin": "desecrated",
-      "usage_count": 5,
-      "usage_pct": 0.0167,
-      "value_samples": [
-        54.0,
-        49.0,
-        51.0,
-        43.0,
-        44.0
       ]
     },
     {
@@ -19477,6 +19453,36 @@
       ]
     },
     {
+      "base_name": "Tasalian Focus",
+      "slot": "offhand",
+      "mod_template": "#% increased Area of Effect of Curses",
+      "mod_origin": "rune",
+      "usage_count": 5,
+      "usage_pct": 0.0167,
+      "value_samples": [
+        40.0,
+        40.0,
+        40.0,
+        40.0,
+        40.0
+      ]
+    },
+    {
+      "base_name": "Tasalian Focus",
+      "slot": "offhand",
+      "mod_template": "Bonded: #% faster Curse Activation",
+      "mod_origin": "rune",
+      "usage_count": 5,
+      "usage_pct": 0.0167,
+      "value_samples": [
+        15.0,
+        15.0,
+        15.0,
+        15.0,
+        15.0
+      ]
+    },
+    {
       "base_name": "Runeforged Stalking Bracers",
       "slot": "gloves",
       "mod_template": "Adds # to # Lightning damage to Attacks",
@@ -19530,7 +19536,7 @@
       "usage_pct": 0.0167,
       "value_samples": [
         16.0,
-        16.0,
+        15.0,
         16.0,
         16.0,
         16.0
@@ -20946,29 +20952,29 @@
     {
       "base_name": "Luxurious Slippers",
       "slot": "boots",
-      "mod_template": "+#% to Cold Resistance",
+      "mod_template": "#% increased Energy Shield",
       "mod_origin": "explicit",
       "usage_count": 4,
       "usage_pct": 0.0133,
       "value_samples": [
-        45.0,
-        32.0,
-        43.0,
-        36.0
+        84.0,
+        23.0,
+        39.0,
+        35.0
       ]
     },
     {
       "base_name": "Luxurious Slippers",
       "slot": "boots",
-      "mod_template": "+#% to Lightning Resistance",
-      "mod_origin": "explicit",
+      "mod_template": "+# to maximum Energy Shield",
+      "mod_origin": "desecrated",
       "usage_count": 4,
       "usage_pct": 0.0133,
       "value_samples": [
-        37.0,
-        38.0,
-        29.0,
-        32.0
+        54.0,
+        49.0,
+        43.0,
+        44.0
       ]
     },
     {
@@ -22552,34 +22558,6 @@
       ]
     },
     {
-      "base_name": "Tasalian Focus",
-      "slot": "offhand",
-      "mod_template": "#% increased Area of Effect of Curses",
-      "mod_origin": "rune",
-      "usage_count": 4,
-      "usage_pct": 0.0133,
-      "value_samples": [
-        40.0,
-        40.0,
-        40.0,
-        40.0
-      ]
-    },
-    {
-      "base_name": "Tasalian Focus",
-      "slot": "offhand",
-      "mod_template": "Bonded: #% faster Curse Activation",
-      "mod_origin": "rune",
-      "usage_count": 4,
-      "usage_pct": 0.0133,
-      "value_samples": [
-        15.0,
-        15.0,
-        15.0,
-        15.0
-      ]
-    },
-    {
       "base_name": "Rattling Sceptre",
       "slot": "weapon",
       "mod_template": "Minions deal #% increased Damage with Command Skills",
@@ -23007,20 +22985,6 @@
         28.0,
         31.0,
         135.0
-      ]
-    },
-    {
-      "base_name": "Luxurious Slippers",
-      "slot": "boots",
-      "mod_template": "+#% to Fire Resistance",
-      "mod_origin": "explicit",
-      "usage_count": 4,
-      "usage_pct": 0.0133,
-      "value_samples": [
-        35.0,
-        43.0,
-        38.0,
-        36.0
       ]
     },
     {
@@ -24981,6 +24945,32 @@
         22.0,
         28.0,
         30.0
+      ]
+    },
+    {
+      "base_name": "Luxurious Slippers",
+      "slot": "boots",
+      "mod_template": "+#% to Cold Resistance",
+      "mod_origin": "explicit",
+      "usage_count": 3,
+      "usage_pct": 0.01,
+      "value_samples": [
+        45.0,
+        32.0,
+        36.0
+      ]
+    },
+    {
+      "base_name": "Luxurious Slippers",
+      "slot": "boots",
+      "mod_template": "+#% to Lightning Resistance",
+      "mod_origin": "explicit",
+      "usage_count": 3,
+      "usage_pct": 0.01,
+      "value_samples": [
+        37.0,
+        38.0,
+        32.0
       ]
     },
     {
@@ -29430,6 +29420,19 @@
       ]
     },
     {
+      "base_name": "Luxurious Slippers",
+      "slot": "boots",
+      "mod_template": "+#% to Fire Resistance",
+      "mod_origin": "explicit",
+      "usage_count": 3,
+      "usage_pct": 0.01,
+      "value_samples": [
+        43.0,
+        38.0,
+        36.0
+      ]
+    },
+    {
       "base_name": "Quickslip Shoes",
       "slot": "boots",
       "mod_template": "Gain Deflection Rating equal to #% of Evasion Rating",
@@ -31374,18 +31377,6 @@
       "value_samples": [
         164.0,
         178.0
-      ]
-    },
-    {
-      "base_name": "Luxurious Slippers",
-      "slot": "boots",
-      "mod_template": "#% increased Movement Speed when on Low Life",
-      "mod_origin": "rune",
-      "usage_count": 2,
-      "usage_pct": 0.0067,
-      "value_samples": [
-        16.0,
-        10.0
       ]
     },
     {
@@ -36547,7 +36538,7 @@
       "usage_count": 2,
       "usage_pct": 0.0067,
       "value_samples": [
-        22.0,
+        29.0,
         33.0
       ]
     },
@@ -45005,6 +44996,17 @@
       "usage_pct": 0.0033,
       "value_samples": [
         33.0
+      ]
+    },
+    {
+      "base_name": "Luxurious Slippers",
+      "slot": "boots",
+      "mod_template": "#% increased Movement Speed when on Low Life",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        16.0
       ]
     },
     {
@@ -55582,7 +55584,7 @@
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": [
-        33.0
+        32.0
       ]
     },
     {
@@ -55593,7 +55595,7 @@
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": [
-        3.0
+        6.0
       ]
     },
     {
@@ -57658,17 +57660,6 @@
       "usage_pct": 0.0033,
       "value_samples": [
         36.0
-      ]
-    },
-    {
-      "base_name": "Luxurious Slippers",
-      "slot": "boots",
-      "mod_template": "+#% to Cold Resistance",
-      "mod_origin": "enchant",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        25.0
       ]
     },
     {
