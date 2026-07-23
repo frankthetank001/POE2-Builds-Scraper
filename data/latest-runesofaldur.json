@@ -1,9 +1,9 @@
 {
   "league": "Runes of Aldur",
   "league_slug": "runesofaldur",
-  "snapshot_version": "0624-20260722-27457",
+  "snapshot_version": "0726-20260723-13308",
   "snapshot_name": "runes-of-aldur",
-  "scraped_at": "2026-07-22T08:14:57+00:00",
+  "scraped_at": "2026-07-23T08:12:58+00:00",
   "sample_size": 300,
   "roster_size": 300,
   "base_usage": [
@@ -87,10 +87,10 @@
     {
       "base_name": "Ring",
       "slot": "ring",
-      "usage_count": 73,
-      "usage_pct": 0.2433,
+      "usage_count": 72,
+      "usage_pct": 0.24,
       "rarity_mix": {
-        "unique": 73
+        "unique": 72
       },
       "common_skills": []
     },
@@ -511,6 +511,16 @@
       "common_skills": []
     },
     {
+      "base_name": "Combat Arm",
+      "slot": "incursionarmleft",
+      "usage_count": 13,
+      "usage_pct": 0.0433,
+      "rarity_mix": {
+        "normal": 13
+      },
+      "common_skills": []
+    },
+    {
       "base_name": "Lapis Amulet",
       "slot": "amulet",
       "usage_count": 13,
@@ -550,16 +560,6 @@
       "rarity_mix": {
         "unique": 5,
         "rare": 7
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Combat Arm",
-      "slot": "incursionarmleft",
-      "usage_count": 12,
-      "usage_pct": 0.04,
-      "rarity_mix": {
-        "normal": 12
       },
       "common_skills": []
     },
@@ -622,16 +622,6 @@
       "usage_pct": 0.0367,
       "rarity_mix": {
         "rare": 11
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Combat Arm",
-      "slot": "incursionarmright",
-      "usage_count": 10,
-      "usage_pct": 0.0333,
-      "rarity_mix": {
-        "normal": 10
       },
       "common_skills": []
     },
@@ -718,6 +708,16 @@
       "common_skills": []
     },
     {
+      "base_name": "Combat Arm",
+      "slot": "incursionarmright",
+      "usage_count": 9,
+      "usage_pct": 0.03,
+      "rarity_mix": {
+        "normal": 9
+      },
+      "common_skills": []
+    },
+    {
       "base_name": "Bound Sandals",
       "slot": "boots",
       "usage_count": 9,
@@ -748,16 +748,6 @@
       "common_skills": []
     },
     {
-      "base_name": "Evasive Leg",
-      "slot": "incursionlegleft",
-      "usage_count": 9,
-      "usage_pct": 0.03,
-      "rarity_mix": {
-        "normal": 9
-      },
-      "common_skills": []
-    },
-    {
       "base_name": "Mnemonic Ring",
       "slot": "ring",
       "usage_count": 9,
@@ -774,6 +764,26 @@
       "usage_pct": 0.03,
       "rarity_mix": {
         "rare": 9
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Surefooted Leg",
+      "slot": "incursionlegleft",
+      "usage_count": 8,
+      "usage_pct": 0.0267,
+      "rarity_mix": {
+        "normal": 8
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Evasive Leg",
+      "slot": "incursionlegleft",
+      "usage_count": 8,
+      "usage_pct": 0.0267,
+      "rarity_mix": {
+        "normal": 8
       },
       "common_skills": []
     },
@@ -804,17 +814,6 @@
       "usage_pct": 0.0267,
       "rarity_mix": {
         "unique": 8
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Pauascale Gloves",
-      "slot": "gloves",
-      "usage_count": 8,
-      "usage_pct": 0.0267,
-      "rarity_mix": {
-        "unique": 7,
-        "rare": 1
       },
       "common_skills": []
     },
@@ -910,6 +909,16 @@
       "common_skills": []
     },
     {
+      "base_name": "Pauascale Gloves",
+      "slot": "gloves",
+      "usage_count": 7,
+      "usage_pct": 0.0233,
+      "rarity_mix": {
+        "unique": 7
+      },
+      "common_skills": []
+    },
+    {
       "base_name": "Runeforged Sekhema Sandals",
       "slot": "boots",
       "usage_count": 7,
@@ -940,18 +949,8 @@
       "common_skills": []
     },
     {
-      "base_name": "Surefooted Leg",
-      "slot": "incursionlegleft",
-      "usage_count": 6,
-      "usage_pct": 0.02,
-      "rarity_mix": {
-        "normal": 6
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Deflective Arm",
-      "slot": "incursionarmleft",
+      "base_name": "Evasive Leg",
+      "slot": "incursionlegright",
       "usage_count": 6,
       "usage_pct": 0.02,
       "rarity_mix": {
@@ -1010,8 +1009,8 @@
       "common_skills": []
     },
     {
-      "base_name": "Surefooted Leg",
-      "slot": "incursionlegright",
+      "base_name": "Deflective Arm",
+      "slot": "incursionarmright",
       "usage_count": 6,
       "usage_pct": 0.02,
       "rarity_mix": {
@@ -1070,16 +1069,6 @@
       "common_skills": []
     },
     {
-      "base_name": "Sprinters Leg",
-      "slot": "incursionlegleft",
-      "usage_count": 6,
-      "usage_pct": 0.02,
-      "rarity_mix": {
-        "normal": 6
-      },
-      "common_skills": []
-    },
-    {
       "base_name": "Gold Gloves",
       "slot": "gloves",
       "usage_count": 6,
@@ -1120,8 +1109,8 @@
       "common_skills": []
     },
     {
-      "base_name": "Evasive Leg",
-      "slot": "incursionlegright",
+      "base_name": "Deflective Arm",
+      "slot": "incursionarmleft",
       "usage_count": 5,
       "usage_pct": 0.0167,
       "rarity_mix": {
@@ -1137,6 +1126,16 @@
       "rarity_mix": {
         "rare": 4,
         "magic": 1
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Runeforged Secured Wraps",
+      "slot": "gloves",
+      "usage_count": 5,
+      "usage_pct": 0.0167,
+      "rarity_mix": {
+        "rare": 5
       },
       "common_skills": []
     },
@@ -1172,8 +1171,8 @@
       "common_skills": []
     },
     {
-      "base_name": "Deflective Arm",
-      "slot": "incursionarmright",
+      "base_name": "Surefooted Leg",
+      "slot": "incursionlegright",
       "usage_count": 5,
       "usage_pct": 0.0167,
       "rarity_mix": {
@@ -1189,16 +1188,6 @@
       "rarity_mix": {
         "rare": 4,
         "unique": 1
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Calm Leg",
-      "slot": "incursionlegright",
-      "usage_count": 5,
-      "usage_pct": 0.0167,
-      "rarity_mix": {
-        "normal": 5
       },
       "common_skills": []
     },
@@ -1254,6 +1243,16 @@
       "common_skills": []
     },
     {
+      "base_name": "Sprinters Leg",
+      "slot": "incursionlegleft",
+      "usage_count": 5,
+      "usage_pct": 0.0167,
+      "rarity_mix": {
+        "normal": 5
+      },
+      "common_skills": []
+    },
+    {
       "base_name": "War Wraps",
       "slot": "gloves",
       "usage_count": 5,
@@ -1270,16 +1269,6 @@
       "usage_pct": 0.0167,
       "rarity_mix": {
         "rare": 5
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Runeforged Secured Wraps",
-      "slot": "gloves",
-      "usage_count": 4,
-      "usage_pct": 0.0133,
-      "rarity_mix": {
-        "rare": 4
       },
       "common_skills": []
     },
@@ -1384,6 +1373,16 @@
       "common_skills": []
     },
     {
+      "base_name": "Calm Leg",
+      "slot": "incursionlegright",
+      "usage_count": 4,
+      "usage_pct": 0.0133,
+      "rarity_mix": {
+        "normal": 4
+      },
+      "common_skills": []
+    },
+    {
       "base_name": "Imperial Greathelm",
       "slot": "helmet",
       "usage_count": 4,
@@ -1472,16 +1471,6 @@
       "rarity_mix": {
         "unique": 3,
         "rare": 1
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Caster Arm",
-      "slot": "incursionarmright",
-      "usage_count": 4,
-      "usage_pct": 0.0133,
-      "rarity_mix": {
-        "normal": 4
       },
       "common_skills": []
     },
@@ -1576,6 +1565,16 @@
         "unique": 1,
         "rare": 2,
         "magic": 1
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Sprinters Leg",
+      "slot": "incursionlegright",
+      "usage_count": 4,
+      "usage_pct": 0.0133,
+      "rarity_mix": {
+        "normal": 4
       },
       "common_skills": []
     },
@@ -1741,8 +1740,8 @@
       "common_skills": []
     },
     {
-      "base_name": "Decrepifying Arm",
-      "slot": "incursionarmleft",
+      "base_name": "Caster Arm",
+      "slot": "incursionarmright",
       "usage_count": 3,
       "usage_pct": 0.01,
       "rarity_mix": {
@@ -1908,16 +1907,6 @@
       "usage_pct": 0.01,
       "rarity_mix": {
         "rare": 3
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Sprinters Leg",
-      "slot": "incursionlegright",
-      "usage_count": 3,
-      "usage_pct": 0.01,
-      "rarity_mix": {
-        "normal": 3
       },
       "common_skills": []
     },
@@ -2109,6 +2098,16 @@
       "usage_pct": 0.0067,
       "rarity_mix": {
         "rare": 2
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Decrepifying Arm",
+      "slot": "incursionarmleft",
+      "usage_count": 2,
+      "usage_pct": 0.0067,
+      "rarity_mix": {
+        "normal": 2
       },
       "common_skills": []
     },
@@ -3257,6 +3256,16 @@
       "common_skills": []
     },
     {
+      "base_name": "Silk Slippers",
+      "slot": "boots",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "rarity_mix": {
+        "unique": 1
+      },
+      "common_skills": []
+    },
+    {
       "base_name": "Forking Belt",
       "slot": "belt",
       "usage_count": 1,
@@ -3269,16 +3278,6 @@
     {
       "base_name": "Crucible Tower Shield",
       "slot": "offhand",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "rarity_mix": {
-        "unique": 1
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Silk Slippers",
-      "slot": "boots",
       "usage_count": 1,
       "usage_pct": 0.0033,
       "rarity_mix": {
@@ -3973,8 +3972,8 @@
       "slot": "helmet",
       "mod_template": "#% increased Energy Shield",
       "mod_origin": "explicit",
-      "usage_count": 108,
-      "usage_pct": 0.36,
+      "usage_count": 107,
+      "usage_pct": 0.3567,
       "value_samples": [
         142.0,
         90.0,
@@ -4018,14 +4017,14 @@
         40.0,
         40.0,
         39.0,
-        99.0,
         88.0,
         142.0,
         93.0,
         84.0,
         39.0,
         140.0,
-        72.0
+        72.0,
+        96.0
       ]
     },
     {
@@ -4153,8 +4152,8 @@
       "slot": "helmet",
       "mod_template": "+# to maximum Energy Shield",
       "mod_origin": "explicit",
-      "usage_count": 73,
-      "usage_pct": 0.2433,
+      "usage_count": 74,
+      "usage_pct": 0.2467,
       "value_samples": [
         67.0,
         73.0,
@@ -4183,6 +4182,7 @@
         65.0,
         64.0,
         70.0,
+        71.0,
         73.0,
         60.0,
         45.0,
@@ -4204,8 +4204,7 @@
         70.0,
         72.0,
         71.0,
-        66.0,
-        58.0
+        66.0
       ]
     },
     {
@@ -4373,8 +4372,8 @@
         20.0,
         20.0,
         20.0,
-        40.0,
         20.0,
+        40.0,
         20.0,
         20.0,
         20.0,
@@ -4433,8 +4432,8 @@
         20.0,
         20.0,
         20.0,
-        40.0,
         20.0,
+        40.0,
         20.0,
         20.0,
         20.0,
@@ -4553,8 +4552,8 @@
         18.0,
         20.0,
         20.0,
-        40.0,
         20.0,
+        40.0,
         20.0,
         18.0,
         18.0,
@@ -5025,8 +5024,8 @@
         38.0,
         44.0,
         41.0,
-        37.0,
         34.0,
+        37.0,
         35.0,
         40.0,
         42.0,
@@ -5180,6 +5179,62 @@
     {
       "base_name": "Ancestral Tiara",
       "slot": "helmet",
+      "mod_template": "+#% to Fire Resistance",
+      "mod_origin": "explicit",
+      "usage_count": 46,
+      "usage_pct": 0.1533,
+      "value_samples": [
+        37.0,
+        29.0,
+        39.0,
+        42.0,
+        46.0,
+        37.0,
+        43.0,
+        39.0,
+        39.0,
+        70.0,
+        34.0,
+        38.0,
+        38.0,
+        32.0,
+        40.0,
+        45.0,
+        39.0,
+        88.0,
+        25.0,
+        31.0,
+        29.0,
+        40.0,
+        45.0,
+        45.0,
+        36.0,
+        89.0,
+        26.0,
+        45.0,
+        38.0,
+        38.0,
+        34.0,
+        43.0,
+        27.0,
+        31.0,
+        39.0,
+        36.0,
+        40.0,
+        41.0,
+        36.0,
+        44.0,
+        40.0,
+        44.0,
+        28.0,
+        35.0,
+        45.0,
+        32.0
+      ]
+    },
+    {
+      "base_name": "Ancestral Tiara",
+      "slot": "helmet",
       "mod_template": "#% increased Energy Shield",
       "mod_origin": "desecrated",
       "usage_count": 46,
@@ -5231,61 +5286,6 @@
         39.0,
         97.0,
         97.0
-      ]
-    },
-    {
-      "base_name": "Ancestral Tiara",
-      "slot": "helmet",
-      "mod_template": "+#% to Fire Resistance",
-      "mod_origin": "explicit",
-      "usage_count": 45,
-      "usage_pct": 0.15,
-      "value_samples": [
-        37.0,
-        29.0,
-        39.0,
-        42.0,
-        46.0,
-        37.0,
-        43.0,
-        39.0,
-        39.0,
-        70.0,
-        34.0,
-        38.0,
-        38.0,
-        32.0,
-        40.0,
-        39.0,
-        88.0,
-        25.0,
-        31.0,
-        29.0,
-        40.0,
-        45.0,
-        45.0,
-        36.0,
-        89.0,
-        26.0,
-        45.0,
-        38.0,
-        38.0,
-        34.0,
-        43.0,
-        27.0,
-        31.0,
-        39.0,
-        36.0,
-        40.0,
-        41.0,
-        36.0,
-        44.0,
-        40.0,
-        44.0,
-        28.0,
-        35.0,
-        45.0,
-        32.0
       ]
     },
     {
@@ -5341,61 +5341,6 @@
         39.0,
         102.0,
         95.0
-      ]
-    },
-    {
-      "base_name": "Ancestral Tiara",
-      "slot": "helmet",
-      "mod_template": "#% increased Rarity of Items found",
-      "mod_origin": "explicit",
-      "usage_count": 45,
-      "usage_pct": 0.15,
-      "value_samples": [
-        35.0,
-        18.0,
-        18.0,
-        14.0,
-        37.0,
-        18.0,
-        17.0,
-        17.0,
-        16.0,
-        17.0,
-        34.0,
-        16.0,
-        18.0,
-        15.0,
-        18.0,
-        18.0,
-        16.0,
-        17.0,
-        16.0,
-        19.0,
-        16.0,
-        18.0,
-        18.0,
-        16.0,
-        35.0,
-        18.0,
-        18.0,
-        18.0,
-        16.0,
-        18.0,
-        18.0,
-        18.0,
-        18.0,
-        17.0,
-        18.0,
-        16.0,
-        19.0,
-        15.0,
-        17.0,
-        35.0,
-        18.0,
-        15.0,
-        17.0,
-        18.0,
-        16.0
       ]
     },
     {
@@ -5455,55 +5400,55 @@
     {
       "base_name": "Ancestral Tiara",
       "slot": "helmet",
-      "mod_template": "+# to maximum Energy Shield",
-      "mod_origin": "desecrated",
+      "mod_template": "#% increased Rarity of Items found",
+      "mod_origin": "explicit",
       "usage_count": 44,
       "usage_pct": 0.1467,
       "value_samples": [
-        73.0,
-        56.0,
-        69.0,
-        72.0,
-        72.0,
-        73.0,
-        68.0,
-        68.0,
-        73.0,
-        67.0,
-        68.0,
-        72.0,
-        73.0,
-        70.0,
-        73.0,
-        73.0,
-        42.0,
-        72.0,
-        70.0,
-        72.0,
-        73.0,
-        72.0,
-        70.0,
-        72.0,
-        72.0,
         35.0,
-        73.0,
-        69.0,
-        69.0,
-        72.0,
-        65.0,
-        72.0,
-        73.0,
-        73.0,
-        64.0,
-        72.0,
-        70.0,
-        73.0,
-        61.0,
-        71.0,
-        72.0,
-        73.0,
-        53.0,
-        65.0
+        18.0,
+        18.0,
+        14.0,
+        37.0,
+        18.0,
+        17.0,
+        17.0,
+        16.0,
+        17.0,
+        34.0,
+        16.0,
+        18.0,
+        15.0,
+        18.0,
+        18.0,
+        16.0,
+        17.0,
+        16.0,
+        16.0,
+        18.0,
+        18.0,
+        16.0,
+        35.0,
+        18.0,
+        18.0,
+        18.0,
+        16.0,
+        18.0,
+        18.0,
+        18.0,
+        18.0,
+        17.0,
+        18.0,
+        16.0,
+        19.0,
+        15.0,
+        17.0,
+        35.0,
+        18.0,
+        15.0,
+        17.0,
+        18.0,
+        16.0
       ]
     },
     {
@@ -5610,6 +5555,59 @@
         8.0,
         8.0,
         8.0
+      ]
+    },
+    {
+      "base_name": "Ancestral Tiara",
+      "slot": "helmet",
+      "mod_template": "+# to maximum Energy Shield",
+      "mod_origin": "desecrated",
+      "usage_count": 43,
+      "usage_pct": 0.1433,
+      "value_samples": [
+        73.0,
+        56.0,
+        69.0,
+        72.0,
+        72.0,
+        73.0,
+        68.0,
+        68.0,
+        73.0,
+        67.0,
+        68.0,
+        72.0,
+        73.0,
+        70.0,
+        73.0,
+        73.0,
+        42.0,
+        70.0,
+        72.0,
+        73.0,
+        72.0,
+        70.0,
+        72.0,
+        72.0,
+        35.0,
+        73.0,
+        69.0,
+        69.0,
+        72.0,
+        72.0,
+        65.0,
+        73.0,
+        73.0,
+        64.0,
+        72.0,
+        70.0,
+        73.0,
+        61.0,
+        71.0,
+        72.0,
+        73.0,
+        53.0,
+        65.0
       ]
     },
     {
@@ -5802,8 +5800,8 @@
         144.0,
         36.0,
         34.0,
-        39.0,
         35.0,
+        39.0,
         36.0,
         27.0,
         38.0,
@@ -6142,7 +6140,7 @@
         40.0,
         40.0,
         60.0,
-        40.0,
+        60.0,
         40.0,
         60.0,
         60.0,
@@ -6190,7 +6188,7 @@
         40.0,
         40.0,
         60.0,
-        40.0,
+        60.0,
         40.0,
         60.0,
         60.0,
@@ -6238,7 +6236,7 @@
         40.0,
         40.0,
         60.0,
-        40.0,
+        60.0,
         40.0,
         60.0,
         60.0,
@@ -6380,7 +6378,7 @@
         136.0,
         129.0,
         98.0,
-        110.0,
+        109.0,
         139.0,
         104.0,
         138.0,
@@ -6497,51 +6495,6 @@
       ]
     },
     {
-      "base_name": "Ancestral Tiara",
-      "slot": "helmet",
-      "mod_template": "#% increased Critical Hit Chance",
-      "mod_origin": "explicit",
-      "usage_count": 35,
-      "usage_pct": 0.1167,
-      "value_samples": [
-        32.0,
-        33.0,
-        28.0,
-        29.0,
-        34.0,
-        26.0,
-        31.0,
-        34.0,
-        34.0,
-        30.0,
-        34.0,
-        27.0,
-        29.0,
-        34.0,
-        34.0,
-        34.0,
-        34.0,
-        31.0,
-        26.0,
-        34.0,
-        33.0,
-        33.0,
-        32.0,
-        23.0,
-        33.0,
-        32.0,
-        33.0,
-        28.0,
-        33.0,
-        27.0,
-        29.0,
-        31.0,
-        27.0,
-        32.0,
-        32.0
-      ]
-    },
-    {
       "base_name": "Breach Ring",
       "slot": "ring",
       "mod_template": "+#% to Maximum Quality",
@@ -6585,6 +6538,50 @@
         20.0,
         20.0,
         20.0
+      ]
+    },
+    {
+      "base_name": "Ancestral Tiara",
+      "slot": "helmet",
+      "mod_template": "#% increased Critical Hit Chance",
+      "mod_origin": "explicit",
+      "usage_count": 34,
+      "usage_pct": 0.1133,
+      "value_samples": [
+        32.0,
+        33.0,
+        28.0,
+        29.0,
+        34.0,
+        26.0,
+        31.0,
+        34.0,
+        34.0,
+        30.0,
+        34.0,
+        27.0,
+        29.0,
+        34.0,
+        34.0,
+        34.0,
+        31.0,
+        26.0,
+        34.0,
+        33.0,
+        33.0,
+        32.0,
+        23.0,
+        33.0,
+        32.0,
+        33.0,
+        28.0,
+        33.0,
+        27.0,
+        29.0,
+        31.0,
+        27.0,
+        32.0,
+        32.0
       ]
     },
     {
@@ -6697,7 +6694,7 @@
         49.0,
         41.0,
         147.0,
-        160.0,
+        159.0,
         158.0,
         46.0,
         158.0,
@@ -6740,7 +6737,7 @@
         13.0,
         14.0,
         47.0,
-        46.0,
+        45.0,
         47.0,
         15.0,
         52.0,
@@ -8767,7 +8764,7 @@
         16.0,
         17.0,
         18.0,
-        17.0,
+        18.0,
         18.0,
         17.0,
         16.0,
@@ -9765,8 +9762,8 @@
         15.0,
         15.0,
         16.0,
-        15.0,
         18.0,
+        15.0,
         17.0,
         16.0,
         15.0
@@ -12369,6 +12366,26 @@
       ]
     },
     {
+      "base_name": "Ancestral Tiara",
+      "slot": "helmet",
+      "mod_template": "#% increased Energy Shield",
+      "mod_origin": "fractured",
+      "usage_count": 10,
+      "usage_pct": 0.0333,
+      "value_samples": [
+        97.0,
+        40.0,
+        39.0,
+        100.0,
+        92.0,
+        100.0,
+        98.0,
+        94.0,
+        39.0,
+        98.0
+      ]
+    },
+    {
       "base_name": "Soaring Spear",
       "slot": "weapon",
       "mod_template": "Gain # Mana per enemy killed",
@@ -13112,25 +13129,6 @@
         37.0,
         43.0,
         27.0
-      ]
-    },
-    {
-      "base_name": "Ancestral Tiara",
-      "slot": "helmet",
-      "mod_template": "#% increased Energy Shield",
-      "mod_origin": "fractured",
-      "usage_count": 9,
-      "usage_pct": 0.03,
-      "value_samples": [
-        97.0,
-        40.0,
-        39.0,
-        92.0,
-        100.0,
-        98.0,
-        94.0,
-        39.0,
-        98.0
       ]
     },
     {
@@ -14667,6 +14665,7 @@
         25.0,
         25.0,
         25.0,
+        25.0,
         25.0
       ]
     },
@@ -15509,7 +15508,7 @@
       "value_samples": [
         30.0,
         31.0,
-        31.0,
+        33.0,
         30.0,
         28.0,
         30.0,
@@ -15716,8 +15715,8 @@
         264.0,
         235.0,
         247.0,
-        246.0,
-        245.0
+        245.0,
+        246.0
       ]
     },
     {
@@ -15733,8 +15732,8 @@
         24.0,
         22.0,
         23.0,
-        22.0,
-        19.0
+        19.0,
+        22.0
       ]
     },
     {
@@ -19530,16 +19529,16 @@
     {
       "base_name": "Refined Breach Ring",
       "slot": "ring",
-      "mod_template": "+#% to all Elemental Resistances",
+      "mod_template": "Adds # to # Cold damage to Attacks",
       "mod_origin": "explicit",
       "usage_count": 5,
       "usage_pct": 0.0167,
       "value_samples": [
-        16.0,
-        15.0,
-        16.0,
-        16.0,
-        16.0
+        36.0,
+        40.0,
+        38.0,
+        39.0,
+        39.0
       ]
     },
     {
@@ -19613,8 +19612,8 @@
         160.0,
         80.0,
         175.0,
-        188.0,
-        187.0
+        187.0,
+        188.0
       ]
     },
     {
@@ -19850,6 +19849,7 @@
         15.0,
         15.0,
         15.0,
+        15.0,
         14.0
       ]
     },
@@ -19908,6 +19908,34 @@
         32.0,
         29.0,
         32.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Secured Wraps",
+      "slot": "gloves",
+      "mod_template": "#% increased Attack Speed",
+      "mod_origin": "rune",
+      "usage_count": 4,
+      "usage_pct": 0.0133,
+      "value_samples": [
+        8.0,
+        8.0,
+        8.0,
+        8.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Secured Wraps",
+      "slot": "gloves",
+      "mod_template": "Bonded: #% reduced Slowing Potency of Debuffs on You",
+      "mod_origin": "rune",
+      "usage_count": 4,
+      "usage_pct": 0.0133,
+      "value_samples": [
+        20.0,
+        20.0,
+        20.0,
+        20.0
       ]
     },
     {
@@ -22700,15 +22728,15 @@
     {
       "base_name": "Refined Breach Ring",
       "slot": "ring",
-      "mod_template": "Adds # to # Cold damage to Attacks",
+      "mod_template": "+#% to all Elemental Resistances",
       "mod_origin": "explicit",
       "usage_count": 4,
       "usage_pct": 0.0133,
       "value_samples": [
-        36.0,
-        38.0,
-        39.0,
-        39.0
+        16.0,
+        16.0,
+        16.0,
+        16.0
       ]
     },
     {
@@ -22723,6 +22751,20 @@
         21.0,
         22.0,
         22.0
+      ]
+    },
+    {
+      "base_name": "Refined Breach Ring",
+      "slot": "ring",
+      "mod_template": "Leech #% of Physical Attack Damage as Mana",
+      "mod_origin": "explicit",
+      "usage_count": 4,
+      "usage_pct": 0.0133,
+      "value_samples": [
+        10.7,
+        11.28,
+        10.75,
+        10.75
       ]
     },
     {
@@ -23271,8 +23313,8 @@
       "usage_pct": 0.0133,
       "value_samples": [
         95.0,
-        91.0,
         94.0,
+        91.0,
         74.0
       ]
     },
@@ -23323,8 +23365,8 @@
       "value_samples": [
         18.0,
         18.0,
-        19.0,
-        20.0
+        20.0,
+        19.0
       ]
     },
     {
@@ -23336,8 +23378,8 @@
       "usage_pct": 0.0133,
       "value_samples": [
         94.0,
-        99.0,
         102.0,
+        99.0,
         103.0
       ]
     },
@@ -23560,27 +23602,14 @@
     {
       "base_name": "Runeforged Secured Wraps",
       "slot": "gloves",
-      "mod_template": "#% increased Attack Speed",
-      "mod_origin": "rune",
+      "mod_template": "Adds # to # Lightning damage to Attacks",
+      "mod_origin": "explicit",
       "usage_count": 3,
       "usage_pct": 0.01,
       "value_samples": [
-        8.0,
-        8.0,
-        8.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Secured Wraps",
-      "slot": "gloves",
-      "mod_template": "Bonded: #% reduced Slowing Potency of Debuffs on You",
-      "mod_origin": "rune",
-      "usage_count": 3,
-      "usage_pct": 0.01,
-      "value_samples": [
-        20.0,
-        20.0,
-        20.0
+        1.0,
+        4.0,
+        1.0
       ]
     },
     {
@@ -25377,19 +25406,6 @@
       ]
     },
     {
-      "base_name": "Ancestral Tiara",
-      "slot": "helmet",
-      "mod_template": "+#% to Fire Resistance",
-      "mod_origin": "fractured",
-      "usage_count": 3,
-      "usage_pct": 0.01,
-      "value_samples": [
-        41.0,
-        45.0,
-        45.0
-      ]
-    },
-    {
       "base_name": "Falconer's Jacket",
       "slot": "body_armour",
       "mod_template": "+#% to Cold Resistance",
@@ -26675,8 +26691,8 @@
       "usage_pct": 0.01,
       "value_samples": [
         16.0,
-        16.0,
-        15.0
+        15.0,
+        16.0
       ]
     },
     {
@@ -27943,19 +27959,6 @@
       "usage_count": 3,
       "usage_pct": 0.01,
       "value_samples": []
-    },
-    {
-      "base_name": "Refined Breach Ring",
-      "slot": "ring",
-      "mod_template": "Leech #% of Physical Attack Damage as Mana",
-      "mod_origin": "explicit",
-      "usage_count": 3,
-      "usage_pct": 0.01,
-      "value_samples": [
-        10.7,
-        10.75,
-        10.75
-      ]
     },
     {
       "base_name": "Tawhoan Tower Shield",
@@ -29708,13 +29711,26 @@
     {
       "base_name": "Refined Breach Ring",
       "slot": "ring",
+      "mod_template": "#% increased Rarity of Items found",
+      "mod_origin": "explicit",
+      "usage_count": 2,
+      "usage_pct": 0.0067,
+      "value_samples": [
+        15.0,
+        17.0,
+        16.0
+      ]
+    },
+    {
+      "base_name": "Refined Breach Ring",
+      "slot": "ring",
       "mod_template": "Adds # to # Cold damage to Attacks",
       "mod_origin": "fractured",
       "usage_count": 2,
       "usage_pct": 0.0067,
       "value_samples": [
         38.0,
-        37.0
+        39.0
       ]
     },
     {
@@ -29792,13 +29808,46 @@
     {
       "base_name": "Runeforged Secured Wraps",
       "slot": "gloves",
-      "mod_template": "Adds # to # Lightning damage to Attacks",
+      "mod_template": "+# to Level of all Projectile Skills",
       "mod_origin": "explicit",
       "usage_count": 2,
       "usage_pct": 0.0067,
       "value_samples": [
-        1.0,
-        1.0
+        2.0,
+        2.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Secured Wraps",
+      "slot": "gloves",
+      "mod_template": "#% increased Projectile Damage",
+      "mod_origin": "explicit",
+      "usage_count": 2,
+      "usage_pct": 0.0067,
+      "value_samples": [
+        40.0,
+        35.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Secured Wraps",
+      "slot": "gloves",
+      "mod_template": "Can roll Marksman modifiers",
+      "mod_origin": "rune",
+      "usage_count": 2,
+      "usage_pct": 0.0067,
+      "value_samples": []
+    },
+    {
+      "base_name": "Runeforged Secured Wraps",
+      "slot": "gloves",
+      "mod_template": "Bonded: #% increased Projectile Damage",
+      "mod_origin": "rune",
+      "usage_count": 2,
+      "usage_pct": 0.0067,
+      "value_samples": [
+        20.0,
+        20.0
       ]
     },
     {
@@ -32319,6 +32368,18 @@
       ]
     },
     {
+      "base_name": "Ancestral Tiara",
+      "slot": "helmet",
+      "mod_template": "+#% to Fire Resistance",
+      "mod_origin": "fractured",
+      "usage_count": 2,
+      "usage_pct": 0.0067,
+      "value_samples": [
+        41.0,
+        45.0
+      ]
+    },
+    {
       "base_name": "Sandsworn Sandals",
       "slot": "boots",
       "mod_template": "#% increased Rarity of Items found",
@@ -33855,30 +33916,6 @@
       ]
     },
     {
-      "base_name": "Sleek Jacket",
-      "slot": "body_armour",
-      "mod_template": "#% increased Rarity of Items found",
-      "mod_origin": "rune",
-      "usage_count": 2,
-      "usage_pct": 0.0067,
-      "value_samples": [
-        12.0,
-        12.0
-      ]
-    },
-    {
-      "base_name": "Sleek Jacket",
-      "slot": "body_armour",
-      "mod_template": "Bonded: #% increased Quantity of Gold Dropped by Slain Enemies",
-      "mod_origin": "rune",
-      "usage_count": 2,
-      "usage_pct": 0.0067,
-      "value_samples": [
-        10.0,
-        10.0
-      ]
-    },
-    {
       "base_name": "Flying Spear",
       "slot": "weapon",
       "mod_template": "Adds # to # Physical Damage",
@@ -34461,6 +34498,18 @@
       "value_samples": [
         16.0,
         17.0
+      ]
+    },
+    {
+      "base_name": "Ancestral Tiara",
+      "slot": "helmet",
+      "mod_template": "#% increased Critical Hit Chance",
+      "mod_origin": "desecrated",
+      "usage_count": 2,
+      "usage_pct": 0.0067,
+      "value_samples": [
+        26.0,
+        34.0
       ]
     },
     {
@@ -35730,6 +35779,18 @@
       ]
     },
     {
+      "base_name": "Runeforged Secured Wraps",
+      "slot": "gloves",
+      "mod_template": "#% increased Attack Speed",
+      "mod_origin": "desecrated",
+      "usage_count": 2,
+      "usage_pct": 0.0067,
+      "value_samples": [
+        8.0,
+        16.0
+      ]
+    },
+    {
       "base_name": "Daggerfoot Shoes",
       "slot": "boots",
       "mod_template": "+# to Intelligence",
@@ -36538,7 +36599,8 @@
       "usage_count": 2,
       "usage_pct": 0.0067,
       "value_samples": [
-        29.0,
+        26.0,
+        27.0,
         33.0
       ]
     },
@@ -36574,7 +36636,7 @@
       "usage_count": 2,
       "usage_pct": 0.0067,
       "value_samples": [
-        60.0,
+        59.0,
         43.0
       ]
     },
@@ -37471,7 +37533,7 @@
       "usage_count": 2,
       "usage_pct": 0.0067,
       "value_samples": [
-        64.0,
+        32.0,
         20.0
       ]
     },
@@ -37483,7 +37545,7 @@
       "usage_count": 2,
       "usage_pct": 0.0067,
       "value_samples": [
-        64.0,
+        32.0,
         20.0
       ]
     },
@@ -41708,17 +41770,6 @@
       ]
     },
     {
-      "base_name": "Refined Breach Ring",
-      "slot": "ring",
-      "mod_template": "#% increased Rarity of Items found",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        15.0
-      ]
-    },
-    {
       "base_name": "Daggerfoot Shoes",
       "slot": "boots",
       "mod_template": "#% increased Rarity of Items found",
@@ -41945,48 +41996,6 @@
       "usage_pct": 0.0033,
       "value_samples": [
         27.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Secured Wraps",
-      "slot": "gloves",
-      "mod_template": "+# to Level of all Projectile Skills",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        2.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Secured Wraps",
-      "slot": "gloves",
-      "mod_template": "#% increased Projectile Damage",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        40.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Secured Wraps",
-      "slot": "gloves",
-      "mod_template": "Can roll Marksman modifiers",
-      "mod_origin": "rune",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": []
-    },
-    {
-      "base_name": "Runeforged Secured Wraps",
-      "slot": "gloves",
-      "mod_template": "Bonded: #% increased Projectile Damage",
-      "mod_origin": "rune",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        20.0
       ]
     },
     {
@@ -48823,6 +48832,28 @@
       ]
     },
     {
+      "base_name": "Sleek Jacket",
+      "slot": "body_armour",
+      "mod_template": "#% increased Rarity of Items found",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        12.0
+      ]
+    },
+    {
+      "base_name": "Sleek Jacket",
+      "slot": "body_armour",
+      "mod_template": "Bonded: #% increased Quantity of Gold Dropped by Slain Enemies",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        10.0
+      ]
+    },
+    {
       "base_name": "Gold Amulet",
       "slot": "amulet",
       "mod_template": "+#% to Fire Resistance",
@@ -50587,17 +50618,6 @@
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": []
-    },
-    {
-      "base_name": "Ancestral Tiara",
-      "slot": "helmet",
-      "mod_template": "#% increased Critical Hit Chance",
-      "mod_origin": "desecrated",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        26.0
-      ]
     },
     {
       "base_name": "Sleek Jacket",
@@ -53685,17 +53705,6 @@
     {
       "base_name": "Runeforged Secured Wraps",
       "slot": "gloves",
-      "mod_template": "#% increased Attack Speed",
-      "mod_origin": "desecrated",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        8.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Secured Wraps",
-      "slot": "gloves",
       "mod_template": "+#% to Lightning Resistance",
       "mod_origin": "desecrated",
       "usage_count": 1,
@@ -55579,12 +55588,12 @@
     {
       "base_name": "Refined Breach Ring",
       "slot": "ring",
-      "mod_template": "+# to Dexterity",
-      "mod_origin": "explicit",
+      "mod_template": "+#% to all Elemental Resistances",
+      "mod_origin": "fractured",
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": [
-        32.0
+        16.0
       ]
     },
     {
@@ -55595,7 +55604,19 @@
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": [
+        3.0,
         6.0
+      ]
+    },
+    {
+      "base_name": "Ancestral Tiara",
+      "slot": "helmet",
+      "mod_template": "#% increased Mana Cost Efficiency",
+      "mod_origin": "crafted",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        29.0
       ]
     },
     {
@@ -59488,7 +59509,29 @@
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": [
-        160.0
+        80.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Bound Sandals",
+      "slot": "boots",
+      "mod_template": "#% increased Movement Speed while Sprinting",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        12.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Bound Sandals",
+      "slot": "boots",
+      "mod_template": "Bonded: #% increased Stun Recovery",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        80.0
       ]
     },
     {
@@ -59536,6 +59579,28 @@
       ]
     },
     {
+      "base_name": "Runeforged Secured Wraps",
+      "slot": "gloves",
+      "mod_template": "#% increased Projectile Speed",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        40.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Secured Wraps",
+      "slot": "gloves",
+      "mod_template": "#% increased Critical Damage Bonus",
+      "mod_origin": "fractured",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        34.0
+      ]
+    },
+    {
       "base_name": "Drakeskin Boots",
       "slot": "boots",
       "mod_template": "#% increased Movement Speed when on Low Life",
@@ -59555,114 +59620,6 @@
       "usage_pct": 0.0033,
       "value_samples": [
         168.0
-      ]
-    },
-    {
-      "base_name": "Pauascale Gloves",
-      "slot": "gloves",
-      "mod_template": "Adds # to # Lightning damage to Attacks",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        4.0
-      ]
-    },
-    {
-      "base_name": "Pauascale Gloves",
-      "slot": "gloves",
-      "mod_template": "#% increased Projectile Speed",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        37.0
-      ]
-    },
-    {
-      "base_name": "Pauascale Gloves",
-      "slot": "gloves",
-      "mod_template": "+# to Level of all Projectile Skills",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        2.0
-      ]
-    },
-    {
-      "base_name": "Pauascale Gloves",
-      "slot": "gloves",
-      "mod_template": "#% increased Attack Speed",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        16.0
-      ]
-    },
-    {
-      "base_name": "Pauascale Gloves",
-      "slot": "gloves",
-      "mod_template": "#% increased Attack Speed",
-      "mod_origin": "rune",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        8.0
-      ]
-    },
-    {
-      "base_name": "Pauascale Gloves",
-      "slot": "gloves",
-      "mod_template": "Can roll Marksman modifiers",
-      "mod_origin": "rune",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": []
-    },
-    {
-      "base_name": "Pauascale Gloves",
-      "slot": "gloves",
-      "mod_template": "Bonded: #% increased Projectile Damage",
-      "mod_origin": "rune",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        20.0
-      ]
-    },
-    {
-      "base_name": "Pauascale Gloves",
-      "slot": "gloves",
-      "mod_template": "Bonded: #% reduced Slowing Potency of Debuffs on You",
-      "mod_origin": "rune",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        20.0
-      ]
-    },
-    {
-      "base_name": "Pauascale Gloves",
-      "slot": "gloves",
-      "mod_template": "#% increased Projectile Damage",
-      "mod_origin": "fractured",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        39.0
-      ]
-    },
-    {
-      "base_name": "Pauascale Gloves",
-      "slot": "gloves",
-      "mod_template": "#% increased Critical Damage Bonus",
-      "mod_origin": "desecrated",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        29.0
       ]
     },
     {
@@ -61417,6 +61374,17 @@
       "usage_pct": 0.0033,
       "value_samples": [
         11.0
+      ]
+    },
+    {
+      "base_name": "Gold Ring",
+      "slot": "ring",
+      "mod_template": "+#% to all Elemental Resistances",
+      "mod_origin": "enchant",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        10.0
       ]
     },
     {
@@ -63762,6 +63730,114 @@
       ]
     },
     {
+      "base_name": "Runeforged Opulent Gloves",
+      "slot": "gloves",
+      "mod_template": "+# to maximum Mana",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        102.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Opulent Gloves",
+      "slot": "gloves",
+      "mod_template": "+# to Level of all Projectile Skills",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        2.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Opulent Gloves",
+      "slot": "gloves",
+      "mod_template": "#% increased Projectile Damage",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        38.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Opulent Gloves",
+      "slot": "gloves",
+      "mod_template": "#% increased effect of Arcane Surge on you",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        40.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Opulent Gloves",
+      "slot": "gloves",
+      "mod_template": "Can roll Marksman modifiers",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": []
+    },
+    {
+      "base_name": "Runeforged Opulent Gloves",
+      "slot": "gloves",
+      "mod_template": "Bonded: #% increased Projectile Damage",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        20.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Opulent Gloves",
+      "slot": "gloves",
+      "mod_template": "+# to maximum Energy Shield",
+      "mod_origin": "fractured",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        59.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Opulent Gloves",
+      "slot": "gloves",
+      "mod_template": "#% chance to Pierce an Enemy",
+      "mod_origin": "desecrated",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        99.0
+      ]
+    },
+    {
+      "base_name": "Feathered Raiment",
+      "slot": "body_armour",
+      "mod_template": "+#% to Chaos Resistance",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        45.0
+      ]
+    },
+    {
+      "base_name": "Feathered Raiment",
+      "slot": "body_armour",
+      "mod_template": "#% increased maximum Mana",
+      "mod_origin": "fractured",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        20.0
+      ]
+    },
+    {
       "base_name": "Kamasan Tiara",
       "slot": "helmet",
       "mod_template": "Pain Attunement",
@@ -64394,114 +64470,6 @@
       "usage_pct": 0.0033,
       "value_samples": [
         9.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Opulent Gloves",
-      "slot": "gloves",
-      "mod_template": "+# to maximum Mana",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        102.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Opulent Gloves",
-      "slot": "gloves",
-      "mod_template": "+# to Level of all Projectile Skills",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        2.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Opulent Gloves",
-      "slot": "gloves",
-      "mod_template": "#% increased Projectile Damage",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        38.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Opulent Gloves",
-      "slot": "gloves",
-      "mod_template": "#% increased effect of Arcane Surge on you",
-      "mod_origin": "rune",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        40.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Opulent Gloves",
-      "slot": "gloves",
-      "mod_template": "Can roll Marksman modifiers",
-      "mod_origin": "rune",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": []
-    },
-    {
-      "base_name": "Runeforged Opulent Gloves",
-      "slot": "gloves",
-      "mod_template": "Bonded: #% increased Projectile Damage",
-      "mod_origin": "rune",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        20.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Opulent Gloves",
-      "slot": "gloves",
-      "mod_template": "+# to maximum Energy Shield",
-      "mod_origin": "fractured",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        59.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Opulent Gloves",
-      "slot": "gloves",
-      "mod_template": "#% chance to Pierce an Enemy",
-      "mod_origin": "desecrated",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        99.0
-      ]
-    },
-    {
-      "base_name": "Feathered Raiment",
-      "slot": "body_armour",
-      "mod_template": "+#% to Chaos Resistance",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        45.0
-      ]
-    },
-    {
-      "base_name": "Feathered Raiment",
-      "slot": "body_armour",
-      "mod_template": "#% increased maximum Mana",
-      "mod_origin": "fractured",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        20.0
       ]
     },
     {
