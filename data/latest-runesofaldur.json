@@ -1,9 +1,9 @@
 {
   "league": "Runes of Aldur",
   "league_slug": "runesofaldur",
-  "snapshot_version": "0726-20260723-13308",
+  "snapshot_version": "0622-20260724-45624",
   "snapshot_name": "runes-of-aldur",
-  "scraped_at": "2026-07-23T08:12:58+00:00",
+  "scraped_at": "2026-07-24T08:13:21+00:00",
   "sample_size": 300,
   "roster_size": 300,
   "base_usage": [
@@ -42,10 +42,10 @@
     {
       "base_name": "Gold Ring",
       "slot": "ring",
-      "usage_count": 110,
-      "usage_pct": 0.3667,
+      "usage_count": 111,
+      "usage_pct": 0.37,
       "rarity_mix": {
-        "rare": 94,
+        "rare": 95,
         "unique": 16
       },
       "common_skills": []
@@ -1475,6 +1475,16 @@
       "common_skills": []
     },
     {
+      "base_name": "Caster Arm",
+      "slot": "incursionarmright",
+      "usage_count": 4,
+      "usage_pct": 0.0133,
+      "rarity_mix": {
+        "normal": 4
+      },
+      "common_skills": []
+    },
+    {
       "base_name": "Runeforged Daggerfoot Shoes",
       "slot": "boots",
       "usage_count": 4,
@@ -1740,8 +1750,8 @@
       "common_skills": []
     },
     {
-      "base_name": "Caster Arm",
-      "slot": "incursionarmright",
+      "base_name": "Decrepifying Arm",
+      "slot": "incursionarmleft",
       "usage_count": 3,
       "usage_pct": 0.01,
       "rarity_mix": {
@@ -2082,6 +2092,16 @@
       "common_skills": []
     },
     {
+      "base_name": "Fortified Hammer",
+      "slot": "weapon",
+      "usage_count": 2,
+      "usage_pct": 0.0067,
+      "rarity_mix": {
+        "rare": 2
+      },
+      "common_skills": []
+    },
+    {
       "base_name": "Treerunner Shoes",
       "slot": "boots",
       "usage_count": 2,
@@ -2098,16 +2118,6 @@
       "usage_pct": 0.0067,
       "rarity_mix": {
         "rare": 2
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Decrepifying Arm",
-      "slot": "incursionarmleft",
-      "usage_count": 2,
-      "usage_pct": 0.0067,
-      "rarity_mix": {
-        "normal": 2
       },
       "common_skills": []
     },
@@ -2627,16 +2637,6 @@
     },
     {
       "base_name": "Sanctified Staff",
-      "slot": "weapon",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "rarity_mix": {
-        "rare": 1
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Fortified Hammer",
       "slot": "weapon",
       "usage_count": 1,
       "usage_pct": 0.0033,
@@ -4032,8 +4032,8 @@
       "slot": "ring",
       "mod_template": "#% increased Rarity of Items found",
       "mod_origin": "implicit",
-      "usage_count": 95,
-      "usage_pct": 0.3167,
+      "usage_count": 96,
+      "usage_pct": 0.32,
       "value_samples": [
         14.0,
         15.0,
@@ -4080,11 +4080,11 @@
         15.0,
         15.0,
         15.0,
+        15.0,
         14.0,
         15.0,
         8.0,
-        12.0,
-        15.0
+        12.0
       ]
     },
     {
@@ -4564,7 +4564,7 @@
         20.0,
         20.0,
         20.0,
-        18.0
+        20.0
       ]
     },
     {
@@ -4572,8 +4572,8 @@
       "slot": "ring",
       "mod_template": "#% increased Rarity of Items found",
       "mod_origin": "explicit",
-      "usage_count": 61,
-      "usage_pct": 0.2033,
+      "usage_count": 62,
+      "usage_pct": 0.2067,
       "value_samples": [
         19.0,
         17.0,
@@ -4604,6 +4604,7 @@
         19.0,
         18.0,
         35.0,
+        37.0,
         17.0,
         18.0,
         16.0,
@@ -4623,8 +4624,7 @@
         18.0,
         37.0,
         18.0,
-        18.0,
-        17.0
+        18.0
       ]
     },
     {
@@ -5384,11 +5384,11 @@
         5.0,
         15.0,
         15.0,
+        15.0,
         10.0,
         5.0,
         10.0,
         10.0,
-        15.0,
         5.0,
         5.0,
         15.0,
@@ -5438,11 +5438,11 @@
         18.0,
         18.0,
         17.0,
+        17.0,
         18.0,
         16.0,
         19.0,
         15.0,
-        17.0,
         35.0,
         18.0,
         15.0,
@@ -5490,12 +5490,12 @@
         391.0,
         395.0,
         391.0,
+        403.0,
         366.0,
         385.0,
         377.0,
         402.0,
         401.0,
-        403.0,
         394.0,
         392.0,
         342.0,
@@ -5543,8 +5543,8 @@
         7.0,
         8.0,
         8.0,
-        7.0,
         8.0,
+        7.0,
         8.0,
         8.0,
         8.0,
@@ -5600,10 +5600,10 @@
         73.0,
         64.0,
         72.0,
+        71.0,
         70.0,
         73.0,
         61.0,
-        71.0,
         72.0,
         73.0,
         53.0,
@@ -5702,11 +5702,11 @@
         29.0,
         28.0,
         27.0,
-        28.0,
-        28.0,
-        28.0,
-        28.0,
         27.0,
+        28.0,
+        28.0,
+        28.0,
+        28.0,
         36.0,
         25.0,
         28.0,
@@ -5768,6 +5768,60 @@
       ]
     },
     {
+      "base_name": "Gold Ring",
+      "slot": "ring",
+      "mod_template": "+#% to all Elemental Resistances",
+      "mod_origin": "explicit",
+      "usage_count": 42,
+      "usage_pct": 0.14,
+      "value_samples": [
+        16.0,
+        15.0,
+        14.0,
+        15.0,
+        10.0,
+        15.0,
+        16.0,
+        15.0,
+        18.0,
+        3.0,
+        18.0,
+        19.0,
+        12.0,
+        13.0,
+        19.0,
+        19.0,
+        18.0,
+        15.0,
+        13.0,
+        10.0,
+        16.0,
+        16.0,
+        16.0,
+        19.0,
+        16.0,
+        15.0,
+        16.0,
+        16.0,
+        16.0,
+        13.0,
+        15.0,
+        15.0,
+        14.0,
+        16.0,
+        14.0,
+        12.0,
+        12.0,
+        16.0,
+        19.0,
+        15.0,
+        15.0,
+        13.0,
+        19.0,
+        14.0
+      ]
+    },
+    {
       "base_name": "Ancestral Tiara",
       "slot": "helmet",
       "mod_template": "+# to maximum Mana",
@@ -5816,59 +5870,6 @@
         34.0,
         33.0,
         140.0
-      ]
-    },
-    {
-      "base_name": "Gold Ring",
-      "slot": "ring",
-      "mod_template": "+#% to all Elemental Resistances",
-      "mod_origin": "explicit",
-      "usage_count": 41,
-      "usage_pct": 0.1367,
-      "value_samples": [
-        16.0,
-        15.0,
-        14.0,
-        15.0,
-        10.0,
-        15.0,
-        16.0,
-        15.0,
-        18.0,
-        3.0,
-        18.0,
-        19.0,
-        12.0,
-        13.0,
-        19.0,
-        19.0,
-        18.0,
-        15.0,
-        13.0,
-        10.0,
-        16.0,
-        16.0,
-        19.0,
-        16.0,
-        15.0,
-        16.0,
-        16.0,
-        16.0,
-        13.0,
-        15.0,
-        15.0,
-        14.0,
-        16.0,
-        14.0,
-        12.0,
-        12.0,
-        16.0,
-        19.0,
-        15.0,
-        15.0,
-        13.0,
-        19.0,
-        14.0
       ]
     },
     {
@@ -6153,9 +6154,9 @@
         60.0,
         40.0,
         60.0,
+        60.0,
         36.0,
         40.0,
-        60.0,
         40.0,
         40.0,
         36.0,
@@ -6201,9 +6202,9 @@
         60.0,
         40.0,
         60.0,
-        40.0,
-        40.0,
         60.0,
+        40.0,
+        40.0,
         40.0,
         40.0,
         40.0,
@@ -6249,9 +6250,9 @@
         60.0,
         40.0,
         60.0,
-        40.0,
-        40.0,
         60.0,
+        40.0,
+        40.0,
         40.0,
         40.0,
         40.0,
@@ -6346,9 +6347,9 @@
         43.0,
         42.0,
         47.0,
+        41.0,
         46.0,
         145.0,
-        41.0,
         31.0,
         42.0,
         91.0,
@@ -6378,7 +6379,7 @@
         136.0,
         129.0,
         98.0,
-        109.0,
+        108.0,
         139.0,
         104.0,
         138.0,
@@ -6390,10 +6391,10 @@
         151.0,
         109.0,
         34.0,
+        107.0,
         146.0,
         106.0,
         150.0,
-        107.0,
         102.0,
         141.0,
         110.0,
@@ -6577,9 +6578,9 @@
         28.0,
         33.0,
         27.0,
+        27.0,
         29.0,
         31.0,
-        27.0,
         32.0,
         32.0
       ]
@@ -6705,10 +6706,10 @@
         202.0,
         130.0,
         189.0,
+        159.0,
         45.0,
         115.0,
         136.0,
-        159.0,
         135.0,
         139.0,
         204.0,
@@ -6737,7 +6738,7 @@
         13.0,
         14.0,
         47.0,
-        45.0,
+        46.0,
         47.0,
         15.0,
         52.0,
@@ -6748,10 +6749,10 @@
         61.0,
         39.0,
         59.0,
+        44.0,
         15.0,
         35.0,
         41.0,
-        44.0,
         38.0,
         40.0,
         58.0,
@@ -6961,10 +6962,10 @@
         30.0,
         21.0,
         21.0,
+        26.0,
         20.0,
         26.0,
         30.0,
-        26.0,
         29.0,
         23.0,
         25.0,
@@ -8109,8 +8110,8 @@
         35.0,
         39.0,
         88.0,
-        89.0,
         69.0,
+        89.0,
         94.0,
         88.0
       ]
@@ -8307,8 +8308,8 @@
         138.0,
         159.0,
         42.0,
-        130.0,
         50.0,
+        130.0,
         47.0,
         149.0,
         153.0,
@@ -8339,8 +8340,8 @@
         39.0,
         48.0,
         14.0,
-        39.0,
         15.0,
+        39.0,
         13.0,
         43.0,
         43.0,
@@ -9201,8 +9202,8 @@
         66.0,
         73.0,
         70.0,
-        71.0,
         68.0,
+        71.0,
         67.0
       ]
     },
@@ -9229,8 +9230,8 @@
         22.0,
         25.0,
         24.0,
-        25.0,
         22.0,
+        25.0,
         23.0
       ]
     },
@@ -10206,9 +10207,9 @@
         77.0,
         76.0,
         78.0,
+        70.0,
         68.0,
         71.0,
-        70.0,
         78.0,
         79.0,
         79.0,
@@ -10697,9 +10698,9 @@
         21.0,
         5.0,
         7.0,
+        44.0,
         19.0,
         20.0,
-        44.0,
         24.0,
         9.0
       ]
@@ -11137,9 +11138,9 @@
         18.0,
         35.0,
         17.0,
+        19.0,
         17.0,
         28.0,
-        19.0,
         18.0,
         33.0,
         15.0,
@@ -11921,9 +11922,9 @@
         27.0,
         21.0,
         30.0,
+        30.0,
         22.0,
-        18.0,
-        30.0
+        18.0
       ]
     },
     {
@@ -12159,8 +12160,8 @@
         26.0,
         61.0,
         35.0,
-        26.0,
         35.0,
+        26.0,
         43.0,
         43.0,
         38.0
@@ -12241,8 +12242,8 @@
         13.0,
         12.0,
         9.0,
-        10.0,
         16.0,
+        10.0,
         15.0,
         15.0
       ]
@@ -12439,8 +12440,8 @@
         39.0,
         75.0,
         64.0,
-        37.0,
         78.0,
+        37.0,
         55.0
       ]
     },
@@ -13435,9 +13436,9 @@
         35.0,
         41.0,
         46.0,
+        26.0,
         18.0,
-        42.0,
-        26.0
+        42.0
       ]
     },
     {
@@ -13453,9 +13454,9 @@
         52.0,
         87.0,
         117.0,
+        70.0,
         18.0,
-        95.0,
-        70.0
+        95.0
       ]
     },
     {
@@ -14665,7 +14666,6 @@
         25.0,
         25.0,
         25.0,
-        25.0,
         25.0
       ]
     },
@@ -15142,8 +15142,8 @@
         3.0,
         29.0,
         22.0,
-        21.0,
         30.0,
+        21.0,
         23.0,
         29.0
       ]
@@ -17751,6 +17751,22 @@
       ]
     },
     {
+      "base_name": "Gold Ring",
+      "slot": "ring",
+      "mod_template": "Adds # to # Cold damage to Attacks",
+      "mod_origin": "fractured",
+      "usage_count": 5,
+      "usage_pct": 0.0167,
+      "value_samples": [
+        36.0,
+        33.0,
+        30.0,
+        32.0,
+        29.0,
+        32.0
+      ]
+    },
+    {
       "base_name": "Amethyst Ring",
       "slot": "ring",
       "mod_template": "+# to Strength",
@@ -19432,8 +19448,8 @@
         23.0,
         18.0,
         19.0,
-        22.0,
-        21.0
+        21.0,
+        22.0
       ]
     },
     {
@@ -19529,21 +19545,6 @@
     {
       "base_name": "Refined Breach Ring",
       "slot": "ring",
-      "mod_template": "Adds # to # Cold damage to Attacks",
-      "mod_origin": "explicit",
-      "usage_count": 5,
-      "usage_pct": 0.0167,
-      "value_samples": [
-        36.0,
-        40.0,
-        38.0,
-        39.0,
-        39.0
-      ]
-    },
-    {
-      "base_name": "Refined Breach Ring",
-      "slot": "ring",
       "mod_template": "Adds # to # Lightning damage to Attacks",
       "mod_origin": "fractured",
       "usage_count": 5,
@@ -19584,6 +19585,21 @@
         195.0,
         159.0,
         179.0
+      ]
+    },
+    {
+      "base_name": "Gold Ring",
+      "slot": "ring",
+      "mod_template": "Adds # to # Physical Damage to Attacks",
+      "mod_origin": "desecrated",
+      "usage_count": 5,
+      "usage_pct": 0.0167,
+      "value_samples": [
+        23.0,
+        15.0,
+        14.0,
+        7.0,
+        23.0
       ]
     },
     {
@@ -19849,7 +19865,6 @@
         15.0,
         15.0,
         15.0,
-        15.0,
         14.0
       ]
     },
@@ -19893,21 +19908,6 @@
         25.0,
         25.0,
         29.0
-      ]
-    },
-    {
-      "base_name": "Gold Ring",
-      "slot": "ring",
-      "mod_template": "Adds # to # Cold damage to Attacks",
-      "mod_origin": "fractured",
-      "usage_count": 4,
-      "usage_pct": 0.0133,
-      "value_samples": [
-        36.0,
-        33.0,
-        32.0,
-        29.0,
-        32.0
       ]
     },
     {
@@ -22728,6 +22728,20 @@
     {
       "base_name": "Refined Breach Ring",
       "slot": "ring",
+      "mod_template": "Adds # to # Cold damage to Attacks",
+      "mod_origin": "explicit",
+      "usage_count": 4,
+      "usage_pct": 0.0133,
+      "value_samples": [
+        36.0,
+        38.0,
+        39.0,
+        39.0
+      ]
+    },
+    {
+      "base_name": "Refined Breach Ring",
+      "slot": "ring",
       "mod_template": "+#% to all Elemental Resistances",
       "mod_origin": "explicit",
       "usage_count": 4,
@@ -23398,20 +23412,6 @@
       ]
     },
     {
-      "base_name": "Gold Ring",
-      "slot": "ring",
-      "mod_template": "Adds # to # Physical Damage to Attacks",
-      "mod_origin": "desecrated",
-      "usage_count": 4,
-      "usage_pct": 0.0133,
-      "value_samples": [
-        15.0,
-        14.0,
-        7.0,
-        23.0
-      ]
-    },
-    {
       "base_name": "Shrine Sceptre",
       "slot": "offhand",
       "mod_template": "Allies in your Presence deal #% increased Damage",
@@ -23597,6 +23597,19 @@
         16.0,
         16.0,
         16.0
+      ]
+    },
+    {
+      "base_name": "Gold Ring",
+      "slot": "ring",
+      "mod_template": "#% increased Attack Speed",
+      "mod_origin": "crafted",
+      "usage_count": 3,
+      "usage_pct": 0.01,
+      "value_samples": [
+        13.0,
+        12.0,
+        12.0
       ]
     },
     {
@@ -29717,7 +29730,6 @@
       "usage_pct": 0.0067,
       "value_samples": [
         15.0,
-        17.0,
         16.0
       ]
     },
@@ -29791,18 +29803,6 @@
       "value_samples": [
         17.0,
         16.0
-      ]
-    },
-    {
-      "base_name": "Gold Ring",
-      "slot": "ring",
-      "mod_template": "#% increased Attack Speed",
-      "mod_origin": "crafted",
-      "usage_count": 2,
-      "usage_pct": 0.0067,
-      "value_samples": [
-        13.0,
-        12.0
       ]
     },
     {
@@ -32797,6 +32797,30 @@
       "value_samples": [
         17.0,
         16.0
+      ]
+    },
+    {
+      "base_name": "Fortified Hammer",
+      "slot": "weapon",
+      "mod_template": "Gain # Life per enemy killed",
+      "mod_origin": "explicit",
+      "usage_count": 2,
+      "usage_pct": 0.0067,
+      "value_samples": [
+        31.0,
+        77.0
+      ]
+    },
+    {
+      "base_name": "Fortified Hammer",
+      "slot": "weapon",
+      "mod_template": "#% chance to Daze on Hit",
+      "mod_origin": "implicit",
+      "usage_count": 2,
+      "usage_pct": 0.0067,
+      "value_samples": [
+        40.0,
+        40.0
       ]
     },
     {
@@ -36599,7 +36623,6 @@
       "usage_count": 2,
       "usage_pct": 0.0067,
       "value_samples": [
-        26.0,
         27.0,
         33.0
       ]
@@ -36636,7 +36659,7 @@
       "usage_count": 2,
       "usage_pct": 0.0067,
       "value_samples": [
-        59.0,
+        61.0,
         43.0
       ]
     },
@@ -40543,6 +40566,18 @@
       ]
     },
     {
+      "base_name": "Pearlescent Amulet",
+      "slot": "amulet",
+      "mod_template": "+#% to all Elemental Resistances",
+      "mod_origin": "explicit",
+      "usage_count": 2,
+      "usage_pct": 0.0067,
+      "value_samples": [
+        16.0,
+        12.0
+      ]
+    },
+    {
       "base_name": "Akoyan Spear",
       "slot": "weapon",
       "mod_template": "Adds # to # Lightning Damage",
@@ -40981,18 +41016,6 @@
       "value_samples": [
         26.0,
         20.0
-      ]
-    },
-    {
-      "base_name": "Pearlescent Amulet",
-      "slot": "amulet",
-      "mod_template": "+#% to all Elemental Resistances",
-      "mod_origin": "explicit",
-      "usage_count": 2,
-      "usage_pct": 0.0067,
-      "value_samples": [
-        16.0,
-        12.0
       ]
     },
     {
@@ -46934,34 +46957,12 @@
     {
       "base_name": "Fortified Hammer",
       "slot": "weapon",
-      "mod_template": "Gain # Life per enemy killed",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        31.0
-      ]
-    },
-    {
-      "base_name": "Fortified Hammer",
-      "slot": "weapon",
       "mod_template": "#% increased Stun Duration",
       "mod_origin": "explicit",
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": [
         25.0
-      ]
-    },
-    {
-      "base_name": "Fortified Hammer",
-      "slot": "weapon",
-      "mod_template": "#% chance to Daze on Hit",
-      "mod_origin": "implicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        40.0
       ]
     },
     {
@@ -55586,14 +55587,14 @@
       ]
     },
     {
-      "base_name": "Refined Breach Ring",
-      "slot": "ring",
-      "mod_template": "+#% to all Elemental Resistances",
-      "mod_origin": "fractured",
+      "base_name": "Ancestral Tiara",
+      "slot": "helmet",
+      "mod_template": "#% increased Mana Cost Efficiency",
+      "mod_origin": "crafted",
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": [
-        16.0
+        29.0
       ]
     },
     {
@@ -55604,19 +55605,7 @@
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": [
-        3.0,
         6.0
-      ]
-    },
-    {
-      "base_name": "Ancestral Tiara",
-      "slot": "helmet",
-      "mod_template": "#% increased Mana Cost Efficiency",
-      "mod_origin": "crafted",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        29.0
       ]
     },
     {
@@ -61742,6 +61731,72 @@
       "usage_pct": 0.0033,
       "value_samples": [
         8.42
+      ]
+    },
+    {
+      "base_name": "Fortified Hammer",
+      "slot": "weapon",
+      "mod_template": "#% increased Physical Damage",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        164.0
+      ]
+    },
+    {
+      "base_name": "Fortified Hammer",
+      "slot": "weapon",
+      "mod_template": "Adds # to # Fire Damage",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        90.0
+      ]
+    },
+    {
+      "base_name": "Fortified Hammer",
+      "slot": "weapon",
+      "mod_template": "#% increased Attack Speed",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        27.0
+      ]
+    },
+    {
+      "base_name": "Fortified Hammer",
+      "slot": "weapon",
+      "mod_template": "#% increased Attack Speed",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        5.0
+      ]
+    },
+    {
+      "base_name": "Fortified Hammer",
+      "slot": "weapon",
+      "mod_template": "Adds # to # Physical Damage",
+      "mod_origin": "crafted",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        20.0
+      ]
+    },
+    {
+      "base_name": "Fortified Hammer",
+      "slot": "weapon",
+      "mod_template": "Skills which create Fissures have a #% chance to create an additional Fissure",
+      "mod_origin": "desecrated",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        24.0
       ]
     },
     {
@@ -70232,6 +70287,48 @@
       "value_samples": []
     },
     {
+      "base_name": "Polished Bracers",
+      "slot": "gloves",
+      "mod_template": "+#% to Lightning Resistance",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        30.0
+      ]
+    },
+    {
+      "base_name": "Sleek Jacket",
+      "slot": "body_armour",
+      "mod_template": "+#% to Cold Resistance",
+      "mod_origin": "fractured",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        35.0
+      ]
+    },
+    {
+      "base_name": "Pearlescent Amulet",
+      "slot": "amulet",
+      "mod_template": "+# to maximum Energy Shield",
+      "mod_origin": "desecrated",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        92.0
+      ]
+    },
+    {
+      "base_name": "Pearlescent Amulet",
+      "slot": "amulet",
+      "mod_template": "Allocates Grace of the Ancestors",
+      "mod_origin": "enchant",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": []
+    },
+    {
       "base_name": "Akoyan Spear",
       "slot": "weapon",
       "mod_template": "+#% to Critical Hit Chance",
@@ -73590,48 +73687,6 @@
       "value_samples": [
         152.0
       ]
-    },
-    {
-      "base_name": "Polished Bracers",
-      "slot": "gloves",
-      "mod_template": "+#% to Lightning Resistance",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        30.0
-      ]
-    },
-    {
-      "base_name": "Sleek Jacket",
-      "slot": "body_armour",
-      "mod_template": "+#% to Cold Resistance",
-      "mod_origin": "fractured",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        35.0
-      ]
-    },
-    {
-      "base_name": "Pearlescent Amulet",
-      "slot": "amulet",
-      "mod_template": "+# to maximum Energy Shield",
-      "mod_origin": "desecrated",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        92.0
-      ]
-    },
-    {
-      "base_name": "Pearlescent Amulet",
-      "slot": "amulet",
-      "mod_template": "Allocates Grace of the Ancestors",
-      "mod_origin": "enchant",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": []
     },
     {
       "base_name": "Adherent Cuffs",
