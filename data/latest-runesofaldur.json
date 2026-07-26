@@ -1,9 +1,9 @@
 {
   "league": "Runes of Aldur",
   "league_slug": "runesofaldur",
-  "snapshot_version": "0731-20260725-01184",
+  "snapshot_version": "0633-20260726-47151",
   "snapshot_name": "runes-of-aldur",
-  "scraped_at": "2026-07-25T08:06:45+00:00",
+  "scraped_at": "2026-07-26T08:14:11+00:00",
   "sample_size": 303,
   "roster_size": 303,
   "base_usage": [
@@ -42,10 +42,10 @@
     {
       "base_name": "Gold Ring",
       "slot": "ring",
-      "usage_count": 113,
-      "usage_pct": 0.3729,
+      "usage_count": 112,
+      "usage_pct": 0.3696,
       "rarity_mix": {
-        "rare": 97,
+        "rare": 96,
         "unique": 16
       },
       "common_skills": []
@@ -758,6 +758,16 @@
       "common_skills": []
     },
     {
+      "base_name": "Evasive Leg",
+      "slot": "incursionlegleft",
+      "usage_count": 9,
+      "usage_pct": 0.0297,
+      "rarity_mix": {
+        "normal": 9
+      },
+      "common_skills": []
+    },
+    {
       "base_name": "Runemastered Runic Fork",
       "slot": "weapon",
       "usage_count": 9,
@@ -784,26 +794,6 @@
       "usage_pct": 0.0264,
       "rarity_mix": {
         "rare": 8
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Surefooted Leg",
-      "slot": "incursionlegleft",
-      "usage_count": 8,
-      "usage_pct": 0.0264,
-      "rarity_mix": {
-        "normal": 8
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Evasive Leg",
-      "slot": "incursionlegleft",
-      "usage_count": 8,
-      "usage_pct": 0.0264,
-      "rarity_mix": {
-        "normal": 8
       },
       "common_skills": []
     },
@@ -864,6 +854,16 @@
       "usage_pct": 0.0264,
       "rarity_mix": {
         "unique": 8
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Surefooted Leg",
+      "slot": "incursionlegleft",
+      "usage_count": 7,
+      "usage_pct": 0.0231,
+      "rarity_mix": {
+        "normal": 7
       },
       "common_skills": []
     },
@@ -949,16 +949,6 @@
       "common_skills": []
     },
     {
-      "base_name": "Evasive Leg",
-      "slot": "incursionlegright",
-      "usage_count": 6,
-      "usage_pct": 0.0198,
-      "rarity_mix": {
-        "normal": 6
-      },
-      "common_skills": []
-    },
-    {
       "base_name": "Runeforged Drakeskin Boots",
       "slot": "boots",
       "usage_count": 6,
@@ -1025,6 +1015,16 @@
       "usage_pct": 0.0198,
       "rarity_mix": {
         "unique": 6
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Calm Leg",
+      "slot": "incursionlegright",
+      "usage_count": 6,
+      "usage_pct": 0.0198,
+      "rarity_mix": {
+        "normal": 6
       },
       "common_skills": []
     },
@@ -1129,6 +1129,16 @@
       "common_skills": []
     },
     {
+      "base_name": "Evasive Leg",
+      "slot": "incursionlegright",
+      "usage_count": 5,
+      "usage_pct": 0.0165,
+      "rarity_mix": {
+        "normal": 5
+      },
+      "common_skills": []
+    },
+    {
       "base_name": "Visceral Quiver",
       "slot": "offhand",
       "usage_count": 5,
@@ -1208,16 +1218,6 @@
       "rarity_mix": {
         "rare": 4,
         "unique": 1
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Calm Leg",
-      "slot": "incursionlegright",
-      "usage_count": 5,
-      "usage_pct": 0.0165,
-      "rarity_mix": {
-        "normal": 5
       },
       "common_skills": []
     },
@@ -4043,8 +4043,8 @@
       "slot": "ring",
       "mod_template": "#% increased Rarity of Items found",
       "mod_origin": "implicit",
-      "usage_count": 98,
-      "usage_pct": 0.3234,
+      "usage_count": 97,
+      "usage_pct": 0.3201,
       "value_samples": [
         14.0,
         15.0,
@@ -4091,11 +4091,11 @@
         15.0,
         15.0,
         15.0,
-        15.0,
         14.0,
         15.0,
         8.0,
-        12.0
+        12.0,
+        15.0
       ]
     },
     {
@@ -4615,7 +4615,6 @@
         19.0,
         18.0,
         35.0,
-        37.0,
         17.0,
         18.0,
         16.0,
@@ -4625,6 +4624,7 @@
         17.0,
         18.0,
         37.0,
+        36.0,
         17.0,
         17.0,
         17.0,
@@ -5784,60 +5784,6 @@
       ]
     },
     {
-      "base_name": "Gold Ring",
-      "slot": "ring",
-      "mod_template": "+#% to all Elemental Resistances",
-      "mod_origin": "explicit",
-      "usage_count": 42,
-      "usage_pct": 0.1386,
-      "value_samples": [
-        16.0,
-        15.0,
-        14.0,
-        15.0,
-        10.0,
-        15.0,
-        16.0,
-        15.0,
-        18.0,
-        3.0,
-        18.0,
-        19.0,
-        12.0,
-        13.0,
-        19.0,
-        19.0,
-        18.0,
-        15.0,
-        13.0,
-        10.0,
-        16.0,
-        16.0,
-        16.0,
-        19.0,
-        16.0,
-        15.0,
-        16.0,
-        16.0,
-        16.0,
-        13.0,
-        15.0,
-        15.0,
-        14.0,
-        16.0,
-        14.0,
-        12.0,
-        12.0,
-        16.0,
-        19.0,
-        15.0,
-        15.0,
-        13.0,
-        19.0,
-        14.0
-      ]
-    },
-    {
       "base_name": "Ancestral Tiara",
       "slot": "helmet",
       "mod_template": "+# to maximum Mana",
@@ -5886,6 +5832,59 @@
         34.0,
         33.0,
         140.0
+      ]
+    },
+    {
+      "base_name": "Gold Ring",
+      "slot": "ring",
+      "mod_template": "+#% to all Elemental Resistances",
+      "mod_origin": "explicit",
+      "usage_count": 41,
+      "usage_pct": 0.1353,
+      "value_samples": [
+        16.0,
+        15.0,
+        14.0,
+        15.0,
+        10.0,
+        15.0,
+        16.0,
+        15.0,
+        18.0,
+        3.0,
+        18.0,
+        19.0,
+        12.0,
+        13.0,
+        19.0,
+        19.0,
+        18.0,
+        15.0,
+        13.0,
+        10.0,
+        16.0,
+        16.0,
+        19.0,
+        16.0,
+        15.0,
+        16.0,
+        16.0,
+        16.0,
+        13.0,
+        15.0,
+        15.0,
+        14.0,
+        16.0,
+        14.0,
+        12.0,
+        12.0,
+        16.0,
+        19.0,
+        15.0,
+        15.0,
+        13.0,
+        19.0,
+        14.0
       ]
     },
     {
@@ -6210,7 +6209,7 @@
         40.0,
         40.0,
         60.0,
-        40.0,
+        60.0,
         40.0,
         60.0,
         60.0,
@@ -6258,7 +6257,7 @@
         40.0,
         40.0,
         60.0,
-        40.0,
+        60.0,
         40.0,
         60.0,
         60.0,
@@ -6306,7 +6305,7 @@
         40.0,
         40.0,
         60.0,
-        40.0,
+        60.0,
         40.0,
         60.0,
         60.0,
@@ -7091,47 +7090,6 @@
     {
       "base_name": "Gold Ring",
       "slot": "ring",
-      "mod_template": "Adds # to # Lightning damage to Attacks",
-      "mod_origin": "explicit",
-      "usage_count": 31,
-      "usage_pct": 0.1023,
-      "value_samples": [
-        2.0,
-        6.0,
-        2.0,
-        1.0,
-        4.0,
-        3.0,
-        1.0,
-        4.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        3.0,
-        3.0,
-        1.0,
-        2.0,
-        1.0,
-        2.0,
-        1.0,
-        2.0,
-        4.0,
-        3.0,
-        1.0,
-        3.0,
-        2.0,
-        2.0,
-        2.0,
-        1.0,
-        3.0,
-        2.0,
-        1.0
-      ]
-    },
-    {
-      "base_name": "Gold Ring",
-      "slot": "ring",
       "mod_template": "+#% to Fire Resistance",
       "mod_origin": "explicit",
       "usage_count": 31,
@@ -7251,6 +7209,46 @@
         10.0,
         10.0,
         10.0
+      ]
+    },
+    {
+      "base_name": "Gold Ring",
+      "slot": "ring",
+      "mod_template": "Adds # to # Lightning damage to Attacks",
+      "mod_origin": "explicit",
+      "usage_count": 30,
+      "usage_pct": 0.099,
+      "value_samples": [
+        2.0,
+        6.0,
+        2.0,
+        1.0,
+        4.0,
+        3.0,
+        1.0,
+        4.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        3.0,
+        3.0,
+        1.0,
+        2.0,
+        2.0,
+        1.0,
+        2.0,
+        4.0,
+        3.0,
+        1.0,
+        3.0,
+        2.0,
+        2.0,
+        2.0,
+        1.0,
+        3.0,
+        2.0,
+        1.0
       ]
     },
     {
@@ -7448,45 +7446,6 @@
       ]
     },
     {
-      "base_name": "Gold Ring",
-      "slot": "ring",
-      "mod_template": "Adds # to # Cold damage to Attacks",
-      "mod_origin": "explicit",
-      "usage_count": 28,
-      "usage_pct": 0.0924,
-      "value_samples": [
-        14.0,
-        18.0,
-        22.0,
-        20.0,
-        24.0,
-        15.0,
-        12.0,
-        30.0,
-        35.0,
-        33.0,
-        15.0,
-        18.0,
-        11.0,
-        16.0,
-        10.0,
-        25.0,
-        18.0,
-        30.0,
-        26.0,
-        27.0,
-        23.0,
-        18.0,
-        12.0,
-        22.0,
-        16.0,
-        5.0,
-        28.0,
-        13.0,
-        26.0
-      ]
-    },
-    {
       "base_name": "Tasalian Focus",
       "slot": "offhand",
       "mod_template": "#% increased Energy Shield",
@@ -7596,6 +7555,44 @@
         41.0,
         38.0,
         100.0
+      ]
+    },
+    {
+      "base_name": "Gold Ring",
+      "slot": "ring",
+      "mod_template": "Adds # to # Cold damage to Attacks",
+      "mod_origin": "explicit",
+      "usage_count": 27,
+      "usage_pct": 0.0891,
+      "value_samples": [
+        14.0,
+        18.0,
+        22.0,
+        20.0,
+        24.0,
+        15.0,
+        12.0,
+        30.0,
+        35.0,
+        15.0,
+        18.0,
+        11.0,
+        16.0,
+        10.0,
+        25.0,
+        18.0,
+        30.0,
+        26.0,
+        27.0,
+        23.0,
+        18.0,
+        12.0,
+        22.0,
+        16.0,
+        5.0,
+        28.0,
+        13.0,
+        26.0
       ]
     },
     {
@@ -8333,39 +8330,6 @@
       ]
     },
     {
-      "base_name": "Gold Ring",
-      "slot": "ring",
-      "mod_template": "#% increased Rarity of Items found",
-      "mod_origin": "desecrated",
-      "usage_count": 22,
-      "usage_pct": 0.0726,
-      "value_samples": [
-        18.0,
-        18.0,
-        19.0,
-        18.0,
-        19.0,
-        14.0,
-        16.0,
-        19.0,
-        18.0,
-        18.0,
-        19.0,
-        19.0,
-        18.0,
-        17.0,
-        17.0,
-        17.0,
-        15.0,
-        15.0,
-        18.0,
-        13.0,
-        19.0,
-        17.0,
-        16.0
-      ]
-    },
-    {
       "base_name": "Obliterator Bow",
       "slot": "weapon",
       "mod_template": "#% reduced Projectile Range",
@@ -8681,6 +8645,38 @@
         45.0,
         25.0,
         38.0
+      ]
+    },
+    {
+      "base_name": "Gold Ring",
+      "slot": "ring",
+      "mod_template": "#% increased Rarity of Items found",
+      "mod_origin": "desecrated",
+      "usage_count": 21,
+      "usage_pct": 0.0693,
+      "value_samples": [
+        18.0,
+        18.0,
+        19.0,
+        18.0,
+        19.0,
+        14.0,
+        16.0,
+        19.0,
+        18.0,
+        18.0,
+        19.0,
+        18.0,
+        17.0,
+        17.0,
+        17.0,
+        15.0,
+        15.0,
+        18.0,
+        13.0,
+        19.0,
+        17.0,
+        16.0
       ]
     },
     {
@@ -11024,7 +11020,7 @@
         31.0,
         27.0,
         22.0,
-        26.0,
+        24.0,
         24.0,
         23.0,
         20.0,
@@ -12753,6 +12749,26 @@
       ]
     },
     {
+      "base_name": "Gold Ring",
+      "slot": "ring",
+      "mod_template": "Adds # to # Lightning damage to Attacks",
+      "mod_origin": "fractured",
+      "usage_count": 9,
+      "usage_pct": 0.0297,
+      "value_samples": [
+        2.0,
+        1.0,
+        2.0,
+        2.0,
+        5.0,
+        5.0,
+        4.0,
+        4.0,
+        5.0,
+        4.0
+      ]
+    },
+    {
       "base_name": "Akoyan Spear",
       "slot": "weapon",
       "mod_template": "Gain #% of Damage as Extra Damage of all Elements",
@@ -13756,25 +13772,6 @@
         72.0,
         73.0,
         71.0
-      ]
-    },
-    {
-      "base_name": "Gold Ring",
-      "slot": "ring",
-      "mod_template": "Adds # to # Lightning damage to Attacks",
-      "mod_origin": "fractured",
-      "usage_count": 8,
-      "usage_pct": 0.0264,
-      "value_samples": [
-        2.0,
-        1.0,
-        2.0,
-        2.0,
-        5.0,
-        4.0,
-        4.0,
-        5.0,
-        4.0
       ]
     },
     {
@@ -14801,6 +14798,24 @@
       ]
     },
     {
+      "base_name": "Vile Robe",
+      "slot": "body_armour",
+      "mod_template": "+#% to Lightning Resistance",
+      "mod_origin": "crafted",
+      "usage_count": 8,
+      "usage_pct": 0.0264,
+      "value_samples": [
+        31.0,
+        35.0,
+        31.0,
+        32.0,
+        31.0,
+        31.0,
+        34.0,
+        35.0
+      ]
+    },
+    {
       "base_name": "Akoyan Spear",
       "slot": "weapon",
       "mod_template": "#% increased Physical Damage",
@@ -14860,6 +14875,7 @@
       "usage_count": 7,
       "usage_pct": 0.0231,
       "value_samples": [
+        25.0,
         25.0,
         25.0,
         25.0,
@@ -15486,6 +15502,23 @@
       ]
     },
     {
+      "base_name": "Gold Ring",
+      "slot": "ring",
+      "mod_template": "Adds # to # Cold damage to Attacks",
+      "mod_origin": "desecrated",
+      "usage_count": 7,
+      "usage_pct": 0.0231,
+      "value_samples": [
+        28.0,
+        8.0,
+        33.0,
+        26.0,
+        27.0,
+        19.0,
+        16.0
+      ]
+    },
+    {
       "base_name": "Amethyst Ring",
       "slot": "ring",
       "mod_template": "+#% to all Elemental Resistances",
@@ -16070,23 +16103,6 @@
         107.0,
         115.0,
         98.0
-      ]
-    },
-    {
-      "base_name": "Vile Robe",
-      "slot": "body_armour",
-      "mod_template": "+#% to Lightning Resistance",
-      "mod_origin": "crafted",
-      "usage_count": 7,
-      "usage_pct": 0.0231,
-      "value_samples": [
-        31.0,
-        35.0,
-        31.0,
-        31.0,
-        31.0,
-        34.0,
-        35.0
       ]
     },
     {
@@ -16946,22 +16962,6 @@
         10.0,
         10.0,
         10.0
-      ]
-    },
-    {
-      "base_name": "Gold Ring",
-      "slot": "ring",
-      "mod_template": "Adds # to # Cold damage to Attacks",
-      "mod_origin": "desecrated",
-      "usage_count": 6,
-      "usage_pct": 0.0198,
-      "value_samples": [
-        28.0,
-        8.0,
-        26.0,
-        27.0,
-        19.0,
-        16.0
       ]
     },
     {
@@ -17881,22 +17881,6 @@
         60.0,
         60.0,
         60.0
-      ]
-    },
-    {
-      "base_name": "Gold Ring",
-      "slot": "ring",
-      "mod_template": "Adds # to # Cold damage to Attacks",
-      "mod_origin": "fractured",
-      "usage_count": 5,
-      "usage_pct": 0.0165,
-      "value_samples": [
-        36.0,
-        33.0,
-        30.0,
-        32.0,
-        29.0,
-        32.0
       ]
     },
     {
@@ -19732,6 +19716,21 @@
     {
       "base_name": "Refined Breach Ring",
       "slot": "ring",
+      "mod_template": "Adds # to # Cold damage to Attacks",
+      "mod_origin": "explicit",
+      "usage_count": 5,
+      "usage_pct": 0.0165,
+      "value_samples": [
+        36.0,
+        40.0,
+        38.0,
+        39.0,
+        39.0
+      ]
+    },
+    {
+      "base_name": "Refined Breach Ring",
+      "slot": "ring",
       "mod_template": "Adds # to # Lightning damage to Attacks",
       "mod_origin": "fractured",
       "usage_count": 5,
@@ -19772,21 +19771,6 @@
         195.0,
         159.0,
         179.0
-      ]
-    },
-    {
-      "base_name": "Gold Ring",
-      "slot": "ring",
-      "mod_template": "Adds # to # Physical Damage to Attacks",
-      "mod_origin": "desecrated",
-      "usage_count": 5,
-      "usage_pct": 0.0165,
-      "value_samples": [
-        23.0,
-        15.0,
-        14.0,
-        7.0,
-        23.0
       ]
     },
     {
@@ -20067,6 +20051,7 @@
         15.0,
         15.0,
         15.0,
+        15.0,
         14.0
       ]
     },
@@ -20110,6 +20095,21 @@
         25.0,
         25.0,
         29.0
+      ]
+    },
+    {
+      "base_name": "Gold Ring",
+      "slot": "ring",
+      "mod_template": "Adds # to # Cold damage to Attacks",
+      "mod_origin": "fractured",
+      "usage_count": 4,
+      "usage_pct": 0.0132,
+      "value_samples": [
+        36.0,
+        33.0,
+        32.0,
+        29.0,
+        32.0
       ]
     },
     {
@@ -23014,20 +23014,6 @@
     {
       "base_name": "Refined Breach Ring",
       "slot": "ring",
-      "mod_template": "Adds # to # Cold damage to Attacks",
-      "mod_origin": "explicit",
-      "usage_count": 4,
-      "usage_pct": 0.0132,
-      "value_samples": [
-        36.0,
-        38.0,
-        39.0,
-        39.0
-      ]
-    },
-    {
-      "base_name": "Refined Breach Ring",
-      "slot": "ring",
       "mod_template": "+#% to all Elemental Resistances",
       "mod_origin": "explicit",
       "usage_count": 4,
@@ -23684,6 +23670,20 @@
       ]
     },
     {
+      "base_name": "Gold Ring",
+      "slot": "ring",
+      "mod_template": "Adds # to # Physical Damage to Attacks",
+      "mod_origin": "desecrated",
+      "usage_count": 4,
+      "usage_pct": 0.0132,
+      "value_samples": [
+        15.0,
+        14.0,
+        7.0,
+        23.0
+      ]
+    },
+    {
       "base_name": "Shrine Sceptre",
       "slot": "offhand",
       "mod_template": "Allies in your Presence deal #% increased Damage",
@@ -23869,19 +23869,6 @@
         16.0,
         16.0,
         16.0
-      ]
-    },
-    {
-      "base_name": "Gold Ring",
-      "slot": "ring",
-      "mod_template": "#% increased Attack Speed",
-      "mod_origin": "crafted",
-      "usage_count": 3,
-      "usage_pct": 0.0099,
-      "value_samples": [
-        13.0,
-        12.0,
-        12.0
       ]
     },
     {
@@ -25539,19 +25526,6 @@
       ]
     },
     {
-      "base_name": "Gold Ring",
-      "slot": "ring",
-      "mod_template": "#% increased Rarity of Items found",
-      "mod_origin": "fractured",
-      "usage_count": 3,
-      "usage_pct": 0.0099,
-      "value_samples": [
-        16.0,
-        18.0,
-        18.0
-      ]
-    },
-    {
       "base_name": "Chiming Staff",
       "slot": "weapon",
       "mod_template": "#% increased Fire Damage",
@@ -26542,19 +26516,6 @@
       ]
     },
     {
-      "base_name": "Akoyan Spear",
-      "slot": "weapon",
-      "mod_template": "#% increased Attack Speed",
-      "mod_origin": "fractured",
-      "usage_count": 3,
-      "usage_pct": 0.0099,
-      "value_samples": [
-        24.0,
-        25.0,
-        25.0
-      ]
-    },
-    {
       "base_name": "Breach Ring",
       "slot": "ring",
       "mod_template": "#% increased Attack Speed",
@@ -26739,19 +26700,6 @@
         28.0,
         214.0,
         292.0
-      ]
-    },
-    {
-      "base_name": "Vile Robe",
-      "slot": "body_armour",
-      "mod_template": "+#% to Lightning Resistance",
-      "mod_origin": "fractured",
-      "usage_count": 3,
-      "usage_pct": 0.0099,
-      "value_samples": [
-        39.0,
-        33.0,
-        32.0
       ]
     },
     {
@@ -29957,6 +29905,7 @@
       "usage_pct": 0.0066,
       "value_samples": [
         15.0,
+        17.0,
         16.0
       ]
     },
@@ -30030,6 +29979,18 @@
       "value_samples": [
         17.0,
         16.0
+      ]
+    },
+    {
+      "base_name": "Gold Ring",
+      "slot": "ring",
+      "mod_template": "#% increased Attack Speed",
+      "mod_origin": "crafted",
+      "usage_count": 2,
+      "usage_pct": 0.0066,
+      "value_samples": [
+        13.0,
+        12.0
       ]
     },
     {
@@ -32175,6 +32136,18 @@
       ]
     },
     {
+      "base_name": "Gold Ring",
+      "slot": "ring",
+      "mod_template": "#% increased Rarity of Items found",
+      "mod_origin": "fractured",
+      "usage_count": 2,
+      "usage_pct": 0.0066,
+      "value_samples": [
+        16.0,
+        18.0
+      ]
+    },
+    {
       "base_name": "Roaring Staff",
       "slot": "weapon",
       "mod_template": "#% increased Spell Damage",
@@ -33545,6 +33518,18 @@
     {
       "base_name": "Akoyan Spear",
       "slot": "weapon",
+      "mod_template": "#% increased Attack Speed",
+      "mod_origin": "fractured",
+      "usage_count": 2,
+      "usage_pct": 0.0066,
+      "value_samples": [
+        24.0,
+        25.0
+      ]
+    },
+    {
+      "base_name": "Akoyan Spear",
+      "slot": "weapon",
       "mod_template": "+#% to Critical Damage Bonus",
       "mod_origin": "desecrated",
       "usage_count": 2,
@@ -34142,6 +34127,18 @@
     {
       "base_name": "Vile Robe",
       "slot": "body_armour",
+      "mod_template": "+#% to Lightning Resistance",
+      "mod_origin": "fractured",
+      "usage_count": 2,
+      "usage_pct": 0.0066,
+      "value_samples": [
+        39.0,
+        33.0
+      ]
+    },
+    {
+      "base_name": "Vile Robe",
+      "slot": "body_armour",
       "mod_template": "+# to Intelligence",
       "mod_origin": "desecrated",
       "usage_count": 2,
@@ -34185,30 +34182,6 @@
       "value_samples": [
         49.0,
         52.0
-      ]
-    },
-    {
-      "base_name": "Sleek Jacket",
-      "slot": "body_armour",
-      "mod_template": "#% increased Rarity of Items found",
-      "mod_origin": "rune",
-      "usage_count": 2,
-      "usage_pct": 0.0066,
-      "value_samples": [
-        12.0,
-        12.0
-      ]
-    },
-    {
-      "base_name": "Sleek Jacket",
-      "slot": "body_armour",
-      "mod_template": "Bonded: #% increased Quantity of Gold Dropped by Slain Enemies",
-      "mod_origin": "rune",
-      "usage_count": 2,
-      "usage_pct": 0.0066,
-      "value_samples": [
-        10.0,
-        10.0
       ]
     },
     {
@@ -36919,6 +36892,7 @@
       "usage_count": 2,
       "usage_pct": 0.0066,
       "value_samples": [
+        26.0,
         27.0,
         33.0
       ]
@@ -38723,6 +38697,18 @@
       "value_samples": [
         31.0,
         31.0
+      ]
+    },
+    {
+      "base_name": "Akoyan Spear",
+      "slot": "weapon",
+      "mod_template": "#% increased Attack Speed",
+      "mod_origin": "crafted",
+      "usage_count": 2,
+      "usage_pct": 0.0066,
+      "value_samples": [
+        25.0,
+        24.0
       ]
     },
     {
@@ -49118,6 +49104,28 @@
       ]
     },
     {
+      "base_name": "Sleek Jacket",
+      "slot": "body_armour",
+      "mod_template": "#% increased Rarity of Items found",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        12.0
+      ]
+    },
+    {
+      "base_name": "Sleek Jacket",
+      "slot": "body_armour",
+      "mod_template": "Bonded: #% increased Quantity of Gold Dropped by Slain Enemies",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        10.0
+      ]
+    },
+    {
       "base_name": "Gold Amulet",
       "slot": "amulet",
       "mod_template": "+#% to Fire Resistance",
@@ -55795,14 +55803,14 @@
       ]
     },
     {
-      "base_name": "Ancestral Tiara",
-      "slot": "helmet",
-      "mod_template": "#% increased Mana Cost Efficiency",
-      "mod_origin": "crafted",
+      "base_name": "Refined Breach Ring",
+      "slot": "ring",
+      "mod_template": "+#% to all Elemental Resistances",
+      "mod_origin": "fractured",
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": [
-        29.0
+        16.0
       ]
     },
     {
@@ -55813,7 +55821,19 @@
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": [
+        3.0,
         6.0
+      ]
+    },
+    {
+      "base_name": "Ancestral Tiara",
+      "slot": "helmet",
+      "mod_template": "#% increased Mana Cost Efficiency",
+      "mod_origin": "crafted",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        29.0
       ]
     },
     {
@@ -63351,17 +63371,6 @@
       "usage_pct": 0.0033,
       "value_samples": [
         16.0
-      ]
-    },
-    {
-      "base_name": "Akoyan Spear",
-      "slot": "weapon",
-      "mod_template": "#% increased Attack Speed",
-      "mod_origin": "crafted",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        24.0
       ]
     },
     {
