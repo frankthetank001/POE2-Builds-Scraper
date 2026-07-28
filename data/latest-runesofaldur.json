@@ -1,9 +1,9 @@
 {
   "league": "Runes of Aldur",
   "league_slug": "runesofaldur",
-  "snapshot_version": "0745-20260727-51762",
+  "snapshot_version": "0647-20260728-57455",
   "snapshot_name": "runes-of-aldur",
-  "scraped_at": "2026-07-27T08:30:44+00:00",
+  "scraped_at": "2026-07-28T08:16:03+00:00",
   "sample_size": 303,
   "roster_size": 303,
   "base_usage": [
@@ -42,10 +42,10 @@
     {
       "base_name": "Gold Ring",
       "slot": "ring",
-      "usage_count": 113,
-      "usage_pct": 0.3729,
+      "usage_count": 114,
+      "usage_pct": 0.3762,
       "rarity_mix": {
-        "rare": 96,
+        "rare": 97,
         "unique": 17
       },
       "common_skills": []
@@ -858,16 +858,6 @@
       "common_skills": []
     },
     {
-      "base_name": "Surefooted Leg",
-      "slot": "incursionlegleft",
-      "usage_count": 7,
-      "usage_pct": 0.0231,
-      "rarity_mix": {
-        "normal": 7
-      },
-      "common_skills": []
-    },
-    {
       "base_name": "Refined Breach Ring",
       "slot": "ring",
       "usage_count": 7,
@@ -949,6 +939,16 @@
       "common_skills": []
     },
     {
+      "base_name": "Surefooted Leg",
+      "slot": "incursionlegleft",
+      "usage_count": 6,
+      "usage_pct": 0.0198,
+      "rarity_mix": {
+        "normal": 6
+      },
+      "common_skills": []
+    },
+    {
       "base_name": "Runeforged Drakeskin Boots",
       "slot": "boots",
       "usage_count": 6,
@@ -1001,6 +1001,16 @@
     {
       "base_name": "Deflective Arm",
       "slot": "incursionarmright",
+      "usage_count": 6,
+      "usage_pct": 0.0198,
+      "rarity_mix": {
+        "normal": 6
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Surefooted Leg",
+      "slot": "incursionlegright",
       "usage_count": 6,
       "usage_pct": 0.0198,
       "rarity_mix": {
@@ -1187,16 +1197,6 @@
       "usage_pct": 0.0165,
       "rarity_mix": {
         "unique": 5
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Surefooted Leg",
-      "slot": "incursionlegright",
-      "usage_count": 5,
-      "usage_pct": 0.0165,
-      "rarity_mix": {
-        "normal": 5
       },
       "common_skills": []
     },
@@ -1465,26 +1465,6 @@
       "common_skills": []
     },
     {
-      "base_name": "Caster Arm",
-      "slot": "incursionarmright",
-      "usage_count": 4,
-      "usage_pct": 0.0132,
-      "rarity_mix": {
-        "normal": 4
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Decrepifying Arm",
-      "slot": "incursionarmleft",
-      "usage_count": 4,
-      "usage_pct": 0.0132,
-      "rarity_mix": {
-        "normal": 4
-      },
-      "common_skills": []
-    },
-    {
       "base_name": "Runeforged Daggerfoot Shoes",
       "slot": "boots",
       "usage_count": 4,
@@ -1536,6 +1516,16 @@
       "common_skills": []
     },
     {
+      "base_name": "Calm Leg",
+      "slot": "incursionlegleft",
+      "usage_count": 4,
+      "usage_pct": 0.0132,
+      "rarity_mix": {
+        "normal": 4
+      },
+      "common_skills": []
+    },
+    {
       "base_name": "Twisted Amulet",
       "slot": "amulet",
       "usage_count": 4,
@@ -1575,16 +1565,6 @@
         "unique": 1,
         "rare": 2,
         "magic": 1
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Sprinters Leg",
-      "slot": "incursionlegright",
-      "usage_count": 4,
-      "usage_pct": 0.0132,
-      "rarity_mix": {
-        "normal": 4
       },
       "common_skills": []
     },
@@ -1760,6 +1740,26 @@
       "common_skills": []
     },
     {
+      "base_name": "Caster Arm",
+      "slot": "incursionarmright",
+      "usage_count": 3,
+      "usage_pct": 0.0099,
+      "rarity_mix": {
+        "normal": 3
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Decrepifying Arm",
+      "slot": "incursionarmleft",
+      "usage_count": 3,
+      "usage_pct": 0.0099,
+      "rarity_mix": {
+        "normal": 3
+      },
+      "common_skills": []
+    },
+    {
       "base_name": "Ancient Cuffs",
       "slot": "gloves",
       "usage_count": 3,
@@ -1870,16 +1870,6 @@
       "common_skills": []
     },
     {
-      "base_name": "Calm Leg",
-      "slot": "incursionlegleft",
-      "usage_count": 3,
-      "usage_pct": 0.0099,
-      "rarity_mix": {
-        "normal": 3
-      },
-      "common_skills": []
-    },
-    {
       "base_name": "Commanding Arm",
       "slot": "incursionarmleft",
       "usage_count": 3,
@@ -1939,6 +1929,16 @@
       "usage_pct": 0.0099,
       "rarity_mix": {
         "rare": 3
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Sprinters Leg",
+      "slot": "incursionlegright",
+      "usage_count": 3,
+      "usage_pct": 0.0099,
+      "rarity_mix": {
+        "normal": 3
       },
       "common_skills": []
     },
@@ -2353,6 +2353,26 @@
       "usage_pct": 0.0066,
       "rarity_mix": {
         "rare": 2
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Caster Arm",
+      "slot": "incursionarmleft",
+      "usage_count": 2,
+      "usage_pct": 0.0066,
+      "rarity_mix": {
+        "normal": 2
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Decrepifying Arm",
+      "slot": "incursionarmright",
+      "usage_count": 2,
+      "usage_pct": 0.0066,
+      "rarity_mix": {
+        "normal": 2
       },
       "common_skills": []
     },
@@ -3238,16 +3258,6 @@
       "common_skills": []
     },
     {
-      "base_name": "Caster Arm",
-      "slot": "incursionarmleft",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "rarity_mix": {
-        "normal": 1
-      },
-      "common_skills": []
-    },
-    {
       "base_name": "Runemastered Veridical Chain",
       "slot": "amulet",
       "usage_count": 1,
@@ -3986,16 +3996,6 @@
         "rare": 1
       },
       "common_skills": []
-    },
-    {
-      "base_name": "Decrepifying Arm",
-      "slot": "incursionarmright",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "rarity_mix": {
-        "normal": 1
-      },
-      "common_skills": []
     }
   ],
   "mod_usage": [
@@ -4064,8 +4064,8 @@
       "slot": "ring",
       "mod_template": "#% increased Rarity of Items found",
       "mod_origin": "implicit",
-      "usage_count": 97,
-      "usage_pct": 0.3201,
+      "usage_count": 98,
+      "usage_pct": 0.3234,
       "value_samples": [
         14.0,
         15.0,
@@ -4112,11 +4112,11 @@
         15.0,
         15.0,
         15.0,
+        15.0,
         14.0,
         15.0,
         8.0,
-        12.0,
-        15.0
+        12.0
       ]
     },
     {
@@ -4604,8 +4604,8 @@
       "slot": "ring",
       "mod_template": "#% increased Rarity of Items found",
       "mod_origin": "explicit",
-      "usage_count": 64,
-      "usage_pct": 0.2112,
+      "usage_count": 65,
+      "usage_pct": 0.2145,
       "value_samples": [
         19.0,
         17.0,
@@ -4636,6 +4636,7 @@
         19.0,
         18.0,
         35.0,
+        37.0,
         17.0,
         18.0,
         16.0,
@@ -4655,7 +4656,6 @@
         19.0,
         18.0,
         19.0,
-        18.0,
         18.0
       ]
     },
@@ -5805,6 +5805,60 @@
       ]
     },
     {
+      "base_name": "Gold Ring",
+      "slot": "ring",
+      "mod_template": "+#% to all Elemental Resistances",
+      "mod_origin": "explicit",
+      "usage_count": 42,
+      "usage_pct": 0.1386,
+      "value_samples": [
+        16.0,
+        15.0,
+        14.0,
+        15.0,
+        10.0,
+        15.0,
+        16.0,
+        15.0,
+        18.0,
+        3.0,
+        18.0,
+        19.0,
+        12.0,
+        13.0,
+        19.0,
+        19.0,
+        18.0,
+        15.0,
+        13.0,
+        10.0,
+        16.0,
+        16.0,
+        16.0,
+        19.0,
+        16.0,
+        15.0,
+        16.0,
+        16.0,
+        16.0,
+        13.0,
+        15.0,
+        15.0,
+        14.0,
+        16.0,
+        14.0,
+        12.0,
+        12.0,
+        16.0,
+        19.0,
+        15.0,
+        15.0,
+        13.0,
+        19.0,
+        14.0
+      ]
+    },
+    {
       "base_name": "Ancestral Tiara",
       "slot": "helmet",
       "mod_template": "+# to maximum Mana",
@@ -5904,59 +5958,6 @@
         26.0,
         22.0,
         20.0
-      ]
-    },
-    {
-      "base_name": "Gold Ring",
-      "slot": "ring",
-      "mod_template": "+#% to all Elemental Resistances",
-      "mod_origin": "explicit",
-      "usage_count": 41,
-      "usage_pct": 0.1353,
-      "value_samples": [
-        16.0,
-        15.0,
-        14.0,
-        15.0,
-        10.0,
-        15.0,
-        16.0,
-        15.0,
-        18.0,
-        3.0,
-        18.0,
-        19.0,
-        12.0,
-        13.0,
-        19.0,
-        19.0,
-        18.0,
-        15.0,
-        13.0,
-        10.0,
-        16.0,
-        16.0,
-        19.0,
-        16.0,
-        15.0,
-        16.0,
-        16.0,
-        16.0,
-        13.0,
-        15.0,
-        15.0,
-        14.0,
-        16.0,
-        14.0,
-        12.0,
-        12.0,
-        16.0,
-        19.0,
-        15.0,
-        15.0,
-        13.0,
-        19.0,
-        14.0
       ]
     },
     {
@@ -12145,7 +12146,7 @@
         100.0,
         34.0,
         33.0,
-        99.0,
+        97.0,
         121.0,
         81.0,
         37.0,
@@ -13038,7 +13039,7 @@
         69.0,
         70.0,
         66.0,
-        73.0,
+        71.0,
         72.0,
         55.0,
         69.0,
@@ -14859,7 +14860,6 @@
       "usage_count": 7,
       "usage_pct": 0.0231,
       "value_samples": [
-        25.0,
         25.0,
         25.0,
         25.0,
@@ -17854,6 +17854,22 @@
       ]
     },
     {
+      "base_name": "Gold Ring",
+      "slot": "ring",
+      "mod_template": "Adds # to # Cold damage to Attacks",
+      "mod_origin": "fractured",
+      "usage_count": 5,
+      "usage_pct": 0.0165,
+      "value_samples": [
+        36.0,
+        33.0,
+        30.0,
+        32.0,
+        29.0,
+        32.0
+      ]
+    },
+    {
       "base_name": "Amethyst Ring",
       "slot": "ring",
       "mod_template": "+# to Strength",
@@ -19641,21 +19657,6 @@
     {
       "base_name": "Refined Breach Ring",
       "slot": "ring",
-      "mod_template": "Adds # to # Cold damage to Attacks",
-      "mod_origin": "explicit",
-      "usage_count": 5,
-      "usage_pct": 0.0165,
-      "value_samples": [
-        36.0,
-        40.0,
-        38.0,
-        39.0,
-        39.0
-      ]
-    },
-    {
-      "base_name": "Refined Breach Ring",
-      "slot": "ring",
       "mod_template": "Adds # to # Lightning damage to Attacks",
       "mod_origin": "fractured",
       "usage_count": 5,
@@ -19696,6 +19697,21 @@
         195.0,
         159.0,
         179.0
+      ]
+    },
+    {
+      "base_name": "Gold Ring",
+      "slot": "ring",
+      "mod_template": "Adds # to # Physical Damage to Attacks",
+      "mod_origin": "desecrated",
+      "usage_count": 5,
+      "usage_pct": 0.0165,
+      "value_samples": [
+        23.0,
+        15.0,
+        14.0,
+        7.0,
+        23.0
       ]
     },
     {
@@ -19976,7 +19992,6 @@
         15.0,
         15.0,
         15.0,
-        15.0,
         14.0
       ]
     },
@@ -20020,21 +20035,6 @@
         25.0,
         25.0,
         29.0
-      ]
-    },
-    {
-      "base_name": "Gold Ring",
-      "slot": "ring",
-      "mod_template": "Adds # to # Cold damage to Attacks",
-      "mod_origin": "fractured",
-      "usage_count": 4,
-      "usage_pct": 0.0132,
-      "value_samples": [
-        36.0,
-        33.0,
-        32.0,
-        29.0,
-        32.0
       ]
     },
     {
@@ -22972,6 +22972,20 @@
     {
       "base_name": "Refined Breach Ring",
       "slot": "ring",
+      "mod_template": "Adds # to # Cold damage to Attacks",
+      "mod_origin": "explicit",
+      "usage_count": 4,
+      "usage_pct": 0.0132,
+      "value_samples": [
+        36.0,
+        38.0,
+        39.0,
+        39.0
+      ]
+    },
+    {
+      "base_name": "Refined Breach Ring",
+      "slot": "ring",
       "mod_template": "+#% to all Elemental Resistances",
       "mod_origin": "explicit",
       "usage_count": 4,
@@ -23586,20 +23600,6 @@
       ]
     },
     {
-      "base_name": "Gold Ring",
-      "slot": "ring",
-      "mod_template": "Adds # to # Physical Damage to Attacks",
-      "mod_origin": "desecrated",
-      "usage_count": 4,
-      "usage_pct": 0.0132,
-      "value_samples": [
-        15.0,
-        14.0,
-        7.0,
-        23.0
-      ]
-    },
-    {
       "base_name": "Shrine Sceptre",
       "slot": "offhand",
       "mod_template": "Allies in your Presence deal #% increased Damage",
@@ -23785,6 +23785,19 @@
         16.0,
         16.0,
         16.0
+      ]
+    },
+    {
+      "base_name": "Gold Ring",
+      "slot": "ring",
+      "mod_template": "#% increased Attack Speed",
+      "mod_origin": "crafted",
+      "usage_count": 3,
+      "usage_pct": 0.0099,
+      "value_samples": [
+        13.0,
+        12.0,
+        12.0
       ]
     },
     {
@@ -29843,7 +29856,6 @@
       "usage_pct": 0.0066,
       "value_samples": [
         15.0,
-        17.0,
         16.0
       ]
     },
@@ -29917,18 +29929,6 @@
       "value_samples": [
         17.0,
         16.0
-      ]
-    },
-    {
-      "base_name": "Gold Ring",
-      "slot": "ring",
-      "mod_template": "#% increased Attack Speed",
-      "mod_origin": "crafted",
-      "usage_count": 2,
-      "usage_pct": 0.0066,
-      "value_samples": [
-        13.0,
-        12.0
       ]
     },
     {
@@ -36415,6 +36415,18 @@
       ]
     },
     {
+      "base_name": "Imperial Greathelm",
+      "slot": "helmet",
+      "mod_template": "+#% to Chaos Resistance",
+      "mod_origin": "crafted",
+      "usage_count": 2,
+      "usage_pct": 0.0066,
+      "value_samples": [
+        19.0,
+        16.0
+      ]
+    },
+    {
       "base_name": "Blacksteel Sabatons",
       "slot": "boots",
       "mod_template": "+# to maximum Life",
@@ -36811,19 +36823,6 @@
       ]
     },
     {
-      "base_name": "Refined Breach Ring",
-      "slot": "ring",
-      "mod_template": "Adds # to # Physical Damage to Attacks",
-      "mod_origin": "explicit",
-      "usage_count": 2,
-      "usage_pct": 0.0066,
-      "value_samples": [
-        26.0,
-        27.0,
-        33.0
-      ]
-    },
-    {
       "base_name": "Portent Amulet",
       "slot": "amulet",
       "mod_template": "#% increased Evasion Rating",
@@ -36857,6 +36856,18 @@
       "value_samples": [
         42.0,
         25.0
+      ]
+    },
+    {
+      "base_name": "Refined Breach Ring",
+      "slot": "ring",
+      "mod_template": "Adds # to # Physical Damage to Attacks",
+      "mod_origin": "explicit",
+      "usage_count": 2,
+      "usage_pct": 0.0066,
+      "value_samples": [
+        27.0,
+        33.0
       ]
     },
     {
@@ -38492,7 +38503,7 @@
       "usage_count": 2,
       "usage_pct": 0.0066,
       "value_samples": [
-        27.0,
+        29.0,
         29.0
       ]
     },
@@ -38504,7 +38515,7 @@
       "usage_count": 2,
       "usage_pct": 0.0066,
       "value_samples": [
-        45.0,
+        41.0,
         27.0
       ]
     },
@@ -54701,17 +54712,6 @@
     {
       "base_name": "Imperial Greathelm",
       "slot": "helmet",
-      "mod_template": "+#% to Chaos Resistance",
-      "mod_origin": "fractured",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        19.0
-      ]
-    },
-    {
-      "base_name": "Imperial Greathelm",
-      "slot": "helmet",
       "mod_template": "#% increased Armour",
       "mod_origin": "desecrated",
       "usage_count": 1,
@@ -55763,29 +55763,6 @@
       ]
     },
     {
-      "base_name": "Refined Breach Ring",
-      "slot": "ring",
-      "mod_template": "+#% to all Elemental Resistances",
-      "mod_origin": "fractured",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        16.0
-      ]
-    },
-    {
-      "base_name": "Refined Breach Ring",
-      "slot": "ring",
-      "mod_template": "Adds # to # Lightning damage to Attacks",
-      "mod_origin": "desecrated",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        3.0,
-        6.0
-      ]
-    },
-    {
       "base_name": "Ancestral Tiara",
       "slot": "helmet",
       "mod_template": "#% increased Mana Cost Efficiency",
@@ -55837,6 +55814,17 @@
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": []
+    },
+    {
+      "base_name": "Refined Breach Ring",
+      "slot": "ring",
+      "mod_template": "Adds # to # Lightning damage to Attacks",
+      "mod_origin": "desecrated",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        6.0
+      ]
     },
     {
       "base_name": "Volant Quiver",
@@ -61988,17 +61976,6 @@
       ]
     },
     {
-      "base_name": "Imperial Greathelm",
-      "slot": "helmet",
-      "mod_template": "+#% to Chaos Resistance",
-      "mod_origin": "crafted",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        16.0
-      ]
-    },
-    {
       "base_name": "Ornate Plate",
       "slot": "body_armour",
       "mod_template": "+# to Armour",
@@ -63081,6 +63058,17 @@
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": []
+    },
+    {
+      "base_name": "Omen Sceptre",
+      "slot": "weapon",
+      "mod_template": "Bonded: #% increased Cold Damage",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        25.0
+      ]
     },
     {
       "base_name": "Bound Cuffs",
