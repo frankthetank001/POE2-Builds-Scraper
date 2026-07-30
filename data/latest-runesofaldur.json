@@ -1,9 +1,9 @@
 {
   "league": "Runes of Aldur",
   "league_slug": "runesofaldur",
-  "snapshot_version": "0553-20260729-03471",
+  "snapshot_version": "0700-20260730-47954",
   "snapshot_name": "runes-of-aldur",
-  "scraped_at": "2026-07-29T07:20:00+00:00",
+  "scraped_at": "2026-07-30T08:15:16+00:00",
   "sample_size": 304,
   "roster_size": 304,
   "base_usage": [
@@ -31,11 +31,11 @@
     {
       "base_name": "Prismatic Ring",
       "slot": "ring",
-      "usage_count": 117,
-      "usage_pct": 0.3849,
+      "usage_count": 118,
+      "usage_pct": 0.3882,
       "rarity_mix": {
         "unique": 66,
-        "rare": 51
+        "rare": 52
       },
       "common_skills": []
     },
@@ -56,8 +56,8 @@
       "usage_count": 111,
       "usage_pct": 0.3651,
       "rarity_mix": {
-        "unique": 108,
-        "rare": 3
+        "unique": 107,
+        "rare": 4
       },
       "common_skills": []
     },
@@ -87,10 +87,10 @@
     {
       "base_name": "Ring",
       "slot": "ring",
-      "usage_count": 76,
-      "usage_pct": 0.25,
+      "usage_count": 75,
+      "usage_pct": 0.2467,
       "rarity_mix": {
-        "unique": 76
+        "unique": 75
       },
       "common_skills": []
     },
@@ -125,23 +125,23 @@
       "common_skills": []
     },
     {
+      "base_name": "Solar Amulet",
+      "slot": "amulet",
+      "usage_count": 47,
+      "usage_pct": 0.1546,
+      "rarity_mix": {
+        "rare": 45,
+        "unique": 2
+      },
+      "common_skills": []
+    },
+    {
       "base_name": "Grand Spear",
       "slot": "weapon",
       "usage_count": 46,
       "usage_pct": 0.1513,
       "rarity_mix": {
         "unique": 46
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Solar Amulet",
-      "slot": "amulet",
-      "usage_count": 46,
-      "usage_pct": 0.1513,
-      "rarity_mix": {
-        "rare": 45,
-        "unique": 1
       },
       "common_skills": []
     },
@@ -189,10 +189,10 @@
     {
       "base_name": "Absent Amulet",
       "slot": "amulet",
-      "usage_count": 40,
-      "usage_pct": 0.1316,
+      "usage_count": 39,
+      "usage_pct": 0.1283,
       "rarity_mix": {
-        "rare": 40
+        "rare": 39
       },
       "common_skills": []
     },
@@ -314,10 +314,10 @@
     {
       "base_name": "Kamasan Tiara",
       "slot": "helmet",
-      "usage_count": 30,
-      "usage_pct": 0.0987,
+      "usage_count": 29,
+      "usage_pct": 0.0954,
       "rarity_mix": {
-        "rare": 30
+        "rare": 29
       },
       "common_skills": []
     },
@@ -344,6 +344,17 @@
       "common_skills": []
     },
     {
+      "base_name": "Amethyst Ring",
+      "slot": "ring",
+      "usage_count": 26,
+      "usage_pct": 0.0855,
+      "rarity_mix": {
+        "rare": 25,
+        "unique": 1
+      },
+      "common_skills": []
+    },
+    {
       "base_name": "Changeling Talisman",
       "slot": "weapon",
       "usage_count": 26,
@@ -365,17 +376,6 @@
       "common_skills": []
     },
     {
-      "base_name": "Amethyst Ring",
-      "slot": "ring",
-      "usage_count": 25,
-      "usage_pct": 0.0822,
-      "rarity_mix": {
-        "rare": 24,
-        "unique": 1
-      },
-      "common_skills": []
-    },
-    {
       "base_name": "Sandsworn Sandals",
       "slot": "boots",
       "usage_count": 25,
@@ -386,24 +386,24 @@
       "common_skills": []
     },
     {
-      "base_name": "Chiming Staff",
-      "slot": "weapon",
-      "usage_count": 23,
-      "usage_pct": 0.0757,
-      "rarity_mix": {
-        "rare": 20,
-        "unique": 1,
-        "magic": 2
-      },
-      "common_skills": []
-    },
-    {
       "base_name": "Obliterator Bow",
       "slot": "weapon",
       "usage_count": 22,
       "usage_pct": 0.0724,
       "rarity_mix": {
         "rare": 22
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Chiming Staff",
+      "slot": "weapon",
+      "usage_count": 22,
+      "usage_pct": 0.0724,
+      "rarity_mix": {
+        "rare": 19,
+        "unique": 1,
+        "magic": 2
       },
       "common_skills": []
     },
@@ -469,17 +469,6 @@
       "common_skills": []
     },
     {
-      "base_name": "Sacred Focus",
-      "slot": "offhand",
-      "usage_count": 14,
-      "usage_pct": 0.0461,
-      "rarity_mix": {
-        "rare": 6,
-        "unique": 8
-      },
-      "common_skills": []
-    },
-    {
       "base_name": "Rattling Sceptre",
       "slot": "weapon",
       "usage_count": 14,
@@ -507,6 +496,17 @@
       "usage_pct": 0.0461,
       "rarity_mix": {
         "rare": 7,
+        "unique": 7
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Sacred Focus",
+      "slot": "offhand",
+      "usage_count": 13,
+      "usage_pct": 0.0428,
+      "rarity_mix": {
+        "rare": 6,
         "unique": 7
       },
       "common_skills": []
@@ -616,16 +616,6 @@
       "common_skills": []
     },
     {
-      "base_name": "Mnemonic Ring",
-      "slot": "ring",
-      "usage_count": 11,
-      "usage_pct": 0.0362,
-      "rarity_mix": {
-        "rare": 11
-      },
-      "common_skills": []
-    },
-    {
       "base_name": "Polished Bracers",
       "slot": "gloves",
       "usage_count": 11,
@@ -707,6 +697,16 @@
       "common_skills": []
     },
     {
+      "base_name": "Mnemonic Ring",
+      "slot": "ring",
+      "usage_count": 10,
+      "usage_pct": 0.0329,
+      "rarity_mix": {
+        "rare": 10
+      },
+      "common_skills": []
+    },
+    {
       "base_name": "Sacrificial Regalia",
       "slot": "body_armour",
       "usage_count": 10,
@@ -764,16 +764,6 @@
       "usage_pct": 0.0296,
       "rarity_mix": {
         "normal": 9
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Runemastered Runic Fork",
-      "slot": "weapon",
-      "usage_count": 9,
-      "usage_pct": 0.0296,
-      "rarity_mix": {
-        "unique": 9
       },
       "common_skills": []
     },
@@ -844,6 +834,16 @@
       "usage_pct": 0.0263,
       "rarity_mix": {
         "rare": 8
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Runemastered Runic Fork",
+      "slot": "weapon",
+      "usage_count": 8,
+      "usage_pct": 0.0263,
+      "rarity_mix": {
+        "unique": 8
       },
       "common_skills": []
     },
@@ -925,6 +925,16 @@
       "usage_pct": 0.023,
       "rarity_mix": {
         "rare": 7
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Sprinters Leg",
+      "slot": "incursionlegleft",
+      "usage_count": 7,
+      "usage_pct": 0.023,
+      "rarity_mix": {
+        "normal": 7
       },
       "common_skills": []
     },
@@ -1069,32 +1079,12 @@
       "common_skills": []
     },
     {
-      "base_name": "Runeforged Sirenscale Gloves",
-      "slot": "gloves",
-      "usage_count": 6,
-      "usage_pct": 0.0197,
-      "rarity_mix": {
-        "rare": 6
-      },
-      "common_skills": []
-    },
-    {
       "base_name": "Execratus Hammer",
       "slot": "weapon",
       "usage_count": 6,
       "usage_pct": 0.0197,
       "rarity_mix": {
         "unique": 6
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Sprinters Leg",
-      "slot": "incursionlegleft",
-      "usage_count": 6,
-      "usage_pct": 0.0197,
-      "rarity_mix": {
-        "normal": 6
       },
       "common_skills": []
     },
@@ -1242,6 +1232,16 @@
       "common_skills": []
     },
     {
+      "base_name": "Imperial Greathelm",
+      "slot": "helmet",
+      "usage_count": 5,
+      "usage_pct": 0.0164,
+      "rarity_mix": {
+        "rare": 5
+      },
+      "common_skills": []
+    },
+    {
       "base_name": "Runeforged Quickslip Shoes",
       "slot": "boots",
       "usage_count": 5,
@@ -1265,6 +1265,16 @@
     {
       "base_name": "Vaal Greaves",
       "slot": "boots",
+      "usage_count": 5,
+      "usage_pct": 0.0164,
+      "rarity_mix": {
+        "rare": 5
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Runeforged Sirenscale Gloves",
+      "slot": "gloves",
       "usage_count": 5,
       "usage_pct": 0.0164,
       "rarity_mix": {
@@ -1323,6 +1333,16 @@
       "common_skills": []
     },
     {
+      "base_name": "Torn Gloves",
+      "slot": "gloves",
+      "usage_count": 4,
+      "usage_pct": 0.0132,
+      "rarity_mix": {
+        "unique": 4
+      },
+      "common_skills": []
+    },
+    {
       "base_name": "Gemini Crossbow",
       "slot": "weapon",
       "usage_count": 4,
@@ -1335,16 +1355,6 @@
     {
       "base_name": "Dragonscale Boots",
       "slot": "boots",
-      "usage_count": 4,
-      "usage_pct": 0.0132,
-      "rarity_mix": {
-        "rare": 4
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Imperial Greathelm",
-      "slot": "helmet",
       "usage_count": 4,
       "usage_pct": 0.0132,
       "rarity_mix": {
@@ -1506,16 +1516,6 @@
       "common_skills": []
     },
     {
-      "base_name": "Calm Leg",
-      "slot": "incursionlegleft",
-      "usage_count": 4,
-      "usage_pct": 0.0132,
-      "rarity_mix": {
-        "normal": 4
-      },
-      "common_skills": []
-    },
-    {
       "base_name": "Twisted Amulet",
       "slot": "amulet",
       "usage_count": 4,
@@ -1625,16 +1625,6 @@
       "usage_pct": 0.0099,
       "rarity_mix": {
         "rare": 3
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Torn Gloves",
-      "slot": "gloves",
-      "usage_count": 3,
-      "usage_pct": 0.0099,
-      "rarity_mix": {
-        "unique": 3
       },
       "common_skills": []
     },
@@ -1866,6 +1856,16 @@
       "usage_pct": 0.0099,
       "rarity_mix": {
         "unique": 3
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Calm Leg",
+      "slot": "incursionlegleft",
+      "usage_count": 3,
+      "usage_pct": 0.0099,
+      "rarity_mix": {
+        "normal": 3
       },
       "common_skills": []
     },
@@ -2262,6 +2262,16 @@
       "usage_pct": 0.0066,
       "rarity_mix": {
         "normal": 2
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Flexed Crossbow",
+      "slot": "weapon",
+      "usage_count": 2,
+      "usage_pct": 0.0066,
+      "rarity_mix": {
+        "rare": 2
       },
       "common_skills": []
     },
@@ -3078,22 +3088,22 @@
       "common_skills": []
     },
     {
-      "base_name": "Runemastered Silk Slippers",
+      "base_name": "Runeforged Bastion Sabatons",
       "slot": "boots",
       "usage_count": 1,
       "usage_pct": 0.0033,
       "rarity_mix": {
-        "unique": 1
+        "rare": 1
       },
       "common_skills": []
     },
     {
-      "base_name": "Runefather's Grasping Mail",
+      "base_name": "Shaman Mantle",
       "slot": "body_armour",
       "usage_count": 1,
       "usage_pct": 0.0033,
       "rarity_mix": {
-        "rare": 1
+        "unique": 1
       },
       "common_skills": []
     },
@@ -3380,16 +3390,6 @@
     {
       "base_name": "Faithful Leggings",
       "slot": "boots",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "rarity_mix": {
-        "rare": 1
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Flexed Crossbow",
-      "slot": "weapon",
       "usage_count": 1,
       "usage_pct": 0.0033,
       "rarity_mix": {
@@ -4960,6 +4960,66 @@
       ]
     },
     {
+      "base_name": "Prismatic Ring",
+      "slot": "ring",
+      "mod_template": "+#% to all Elemental Resistances",
+      "mod_origin": "implicit",
+      "usage_count": 55,
+      "usage_pct": 0.1809,
+      "value_samples": [
+        8.0,
+        10.0,
+        9.0,
+        7.0,
+        10.0,
+        10.0,
+        8.0,
+        9.0,
+        12.0,
+        9.0,
+        8.0,
+        14.0,
+        14.0,
+        8.0,
+        8.0,
+        9.0,
+        8.0,
+        9.0,
+        14.0,
+        9.0,
+        7.0,
+        7.0,
+        9.0,
+        10.0,
+        10.0,
+        10.0,
+        9.0,
+        9.0,
+        9.0,
+        10.0,
+        9.0,
+        10.0,
+        7.0,
+        10.0,
+        10.0,
+        7.0,
+        9.0,
+        9.0,
+        9.0,
+        9.0,
+        9.0,
+        8.0,
+        7.0,
+        10.0,
+        9.0,
+        9.0,
+        10.0,
+        9.0,
+        8.0,
+        9.0
+      ]
+    },
+    {
       "base_name": "Slipstrike Vest",
       "slot": "body_armour",
       "mod_template": "+# to Evasion Rating",
@@ -5017,66 +5077,6 @@
         73.0,
         294.0,
         89.0
-      ]
-    },
-    {
-      "base_name": "Prismatic Ring",
-      "slot": "ring",
-      "mod_template": "+#% to all Elemental Resistances",
-      "mod_origin": "implicit",
-      "usage_count": 54,
-      "usage_pct": 0.1776,
-      "value_samples": [
-        8.0,
-        10.0,
-        9.0,
-        7.0,
-        10.0,
-        10.0,
-        8.0,
-        9.0,
-        12.0,
-        9.0,
-        8.0,
-        14.0,
-        14.0,
-        8.0,
-        8.0,
-        9.0,
-        8.0,
-        9.0,
-        14.0,
-        9.0,
-        7.0,
-        9.0,
-        10.0,
-        10.0,
-        10.0,
-        9.0,
-        9.0,
-        9.0,
-        10.0,
-        9.0,
-        10.0,
-        7.0,
-        10.0,
-        10.0,
-        7.0,
-        9.0,
-        9.0,
-        9.0,
-        9.0,
-        9.0,
-        8.0,
-        7.0,
-        10.0,
-        9.0,
-        9.0,
-        10.0,
-        9.0,
-        8.0,
-        9.0,
-        9.0
       ]
     },
     {
@@ -5962,106 +5962,6 @@
       ]
     },
     {
-      "base_name": "Absent Amulet",
-      "slot": "amulet",
-      "mod_template": "-# Prefix Modifier allowed",
-      "mod_origin": "implicit",
-      "usage_count": 40,
-      "usage_pct": 0.1316,
-      "value_samples": [
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0
-      ]
-    },
-    {
-      "base_name": "Absent Amulet",
-      "slot": "amulet",
-      "mod_template": "-# Suffix Modifier allowed",
-      "mod_origin": "implicit",
-      "usage_count": 40,
-      "usage_pct": 0.1316,
-      "value_samples": [
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
-        1.0
-      ]
-    },
-    {
       "base_name": "Gold Ring",
       "slot": "ring",
       "mod_template": "#% increased Rarity of Items found",
@@ -6160,6 +6060,104 @@
         31.0,
         31.0,
         39.0
+      ]
+    },
+    {
+      "base_name": "Absent Amulet",
+      "slot": "amulet",
+      "mod_template": "-# Prefix Modifier allowed",
+      "mod_origin": "implicit",
+      "usage_count": 39,
+      "usage_pct": 0.1283,
+      "value_samples": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "base_name": "Absent Amulet",
+      "slot": "amulet",
+      "mod_template": "-# Suffix Modifier allowed",
+      "mod_origin": "implicit",
+      "usage_count": 39,
+      "usage_pct": 0.1283,
+      "value_samples": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
       ]
     },
     {
@@ -6581,6 +6579,94 @@
       ]
     },
     {
+      "base_name": "Sekhema Sandals",
+      "slot": "boots",
+      "mod_template": "Bonded: +# to maximum Life",
+      "mod_origin": "rune",
+      "usage_count": 34,
+      "usage_pct": 0.1118,
+      "value_samples": [
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        32.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        32.0,
+        20.0,
+        32.0,
+        40.0,
+        20.0,
+        32.0,
+        32.0,
+        20.0,
+        20.0,
+        40.0,
+        20.0,
+        20.0,
+        64.0,
+        64.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0
+      ]
+    },
+    {
+      "base_name": "Sekhema Sandals",
+      "slot": "boots",
+      "mod_template": "Bonded: +# to maximum Mana",
+      "mod_origin": "rune",
+      "usage_count": 34,
+      "usage_pct": 0.1118,
+      "value_samples": [
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        32.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        32.0,
+        20.0,
+        32.0,
+        40.0,
+        20.0,
+        32.0,
+        32.0,
+        20.0,
+        20.0,
+        40.0,
+        20.0,
+        20.0,
+        64.0,
+        64.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0
+      ]
+    },
+    {
       "base_name": "Ancestral Tiara",
       "slot": "helmet",
       "mod_template": "#% increased Critical Hit Chance",
@@ -6799,92 +6885,6 @@
         37.0,
         42.0,
         45.0
-      ]
-    },
-    {
-      "base_name": "Sekhema Sandals",
-      "slot": "boots",
-      "mod_template": "Bonded: +# to maximum Life",
-      "mod_origin": "rune",
-      "usage_count": 33,
-      "usage_pct": 0.1086,
-      "value_samples": [
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        32.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        32.0,
-        20.0,
-        32.0,
-        40.0,
-        20.0,
-        32.0,
-        20.0,
-        20.0,
-        40.0,
-        20.0,
-        20.0,
-        64.0,
-        64.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0
-      ]
-    },
-    {
-      "base_name": "Sekhema Sandals",
-      "slot": "boots",
-      "mod_template": "Bonded: +# to maximum Mana",
-      "mod_origin": "rune",
-      "usage_count": 33,
-      "usage_pct": 0.1086,
-      "value_samples": [
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        32.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        32.0,
-        20.0,
-        32.0,
-        40.0,
-        20.0,
-        32.0,
-        20.0,
-        20.0,
-        40.0,
-        20.0,
-        20.0,
-        64.0,
-        64.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0
       ]
     },
     {
@@ -7905,6 +7905,43 @@
       ]
     },
     {
+      "base_name": "Amethyst Ring",
+      "slot": "ring",
+      "mod_template": "+#% to Chaos Resistance",
+      "mod_origin": "implicit",
+      "usage_count": 25,
+      "usage_pct": 0.0822,
+      "value_samples": [
+        13.0,
+        13.0,
+        9.0,
+        8.0,
+        10.0,
+        10.0,
+        9.0,
+        9.0,
+        10.0,
+        12.0,
+        11.0,
+        8.0,
+        12.0,
+        10.0,
+        12.0,
+        8.0,
+        7.0,
+        12.0,
+        11.0,
+        12.0,
+        9.0,
+        13.0,
+        10.0,
+        9.0,
+        9.0,
+        11.0,
+        10.0
+      ]
+    },
+    {
       "base_name": "Vile Robe",
       "slot": "body_armour",
       "mod_template": "+#% to Cold Resistance",
@@ -7971,42 +8008,6 @@
         60.0,
         74.0,
         84.0
-      ]
-    },
-    {
-      "base_name": "Amethyst Ring",
-      "slot": "ring",
-      "mod_template": "+#% to Chaos Resistance",
-      "mod_origin": "implicit",
-      "usage_count": 24,
-      "usage_pct": 0.0789,
-      "value_samples": [
-        13.0,
-        13.0,
-        9.0,
-        8.0,
-        10.0,
-        10.0,
-        9.0,
-        9.0,
-        10.0,
-        12.0,
-        8.0,
-        12.0,
-        10.0,
-        12.0,
-        8.0,
-        7.0,
-        12.0,
-        11.0,
-        12.0,
-        9.0,
-        13.0,
-        10.0,
-        9.0,
-        9.0,
-        11.0,
-        10.0
       ]
     },
     {
@@ -8244,6 +8245,39 @@
       ]
     },
     {
+      "base_name": "Prismatic Ring",
+      "slot": "ring",
+      "mod_template": "Adds # to # Lightning damage to Attacks",
+      "mod_origin": "explicit",
+      "usage_count": 23,
+      "usage_pct": 0.0757,
+      "value_samples": [
+        3.0,
+        1.0,
+        1.0,
+        1.0,
+        3.0,
+        2.0,
+        2.0,
+        3.0,
+        1.0,
+        3.0,
+        1.0,
+        3.0,
+        3.0,
+        1.0,
+        1.0,
+        1.0,
+        2.0,
+        4.0,
+        1.0,
+        1.0,
+        3.0,
+        1.0,
+        4.0
+      ]
+    },
+    {
       "base_name": "Sekhema Sandals",
       "slot": "boots",
       "mod_template": "#% increased Energy Shield",
@@ -8380,38 +8414,6 @@
         50.0,
         50.0,
         50.0
-      ]
-    },
-    {
-      "base_name": "Prismatic Ring",
-      "slot": "ring",
-      "mod_template": "Adds # to # Lightning damage to Attacks",
-      "mod_origin": "explicit",
-      "usage_count": 22,
-      "usage_pct": 0.0724,
-      "value_samples": [
-        3.0,
-        1.0,
-        1.0,
-        1.0,
-        3.0,
-        2.0,
-        3.0,
-        1.0,
-        3.0,
-        1.0,
-        3.0,
-        3.0,
-        1.0,
-        1.0,
-        1.0,
-        2.0,
-        4.0,
-        1.0,
-        1.0,
-        3.0,
-        1.0,
-        4.0
       ]
     },
     {
@@ -8830,6 +8832,36 @@
       ]
     },
     {
+      "base_name": "Prismatic Ring",
+      "slot": "ring",
+      "mod_template": "Adds # to # Cold damage to Attacks",
+      "mod_origin": "explicit",
+      "usage_count": 20,
+      "usage_pct": 0.0658,
+      "value_samples": [
+        20.0,
+        28.0,
+        26.0,
+        29.0,
+        27.0,
+        12.0,
+        27.0,
+        6.0,
+        26.0,
+        28.0,
+        25.0,
+        10.0,
+        13.0,
+        21.0,
+        13.0,
+        22.0,
+        16.0,
+        19.0,
+        28.0,
+        14.0
+      ]
+    },
+    {
       "base_name": "Ancestral Tiara",
       "slot": "helmet",
       "mod_template": "#% increased Rarity of Items found",
@@ -8980,93 +9012,6 @@
       ]
     },
     {
-      "base_name": "Prismatic Ring",
-      "slot": "ring",
-      "mod_template": "Adds # to # Cold damage to Attacks",
-      "mod_origin": "explicit",
-      "usage_count": 19,
-      "usage_pct": 0.0625,
-      "value_samples": [
-        20.0,
-        28.0,
-        26.0,
-        29.0,
-        27.0,
-        27.0,
-        6.0,
-        26.0,
-        28.0,
-        25.0,
-        10.0,
-        13.0,
-        21.0,
-        13.0,
-        22.0,
-        16.0,
-        19.0,
-        28.0,
-        14.0
-      ]
-    },
-    {
-      "base_name": "Kamasan Tiara",
-      "slot": "helmet",
-      "mod_template": "Bonded: +# to maximum Life",
-      "mod_origin": "rune",
-      "usage_count": 19,
-      "usage_pct": 0.0625,
-      "value_samples": [
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        40.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0
-      ]
-    },
-    {
-      "base_name": "Kamasan Tiara",
-      "slot": "helmet",
-      "mod_template": "Bonded: +# to maximum Mana",
-      "mod_origin": "rune",
-      "usage_count": 19,
-      "usage_pct": 0.0625,
-      "value_samples": [
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        40.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0
-      ]
-    },
-    {
       "base_name": "Daggerfoot Shoes",
       "slot": "boots",
       "mod_template": "+# to Evasion Rating",
@@ -9151,35 +9096,6 @@
         18.0,
         18.0,
         16.0
-      ]
-    },
-    {
-      "base_name": "Kamasan Tiara",
-      "slot": "helmet",
-      "mod_template": "+# to maximum Energy Shield",
-      "mod_origin": "explicit",
-      "usage_count": 19,
-      "usage_pct": 0.0625,
-      "value_samples": [
-        72.0,
-        67.0,
-        59.0,
-        60.0,
-        62.0,
-        73.0,
-        73.0,
-        69.0,
-        71.0,
-        63.0,
-        67.0,
-        59.0,
-        70.0,
-        42.0,
-        56.0,
-        52.0,
-        71.0,
-        65.0,
-        70.0
       ]
     },
     {
@@ -9270,6 +9186,62 @@
       ]
     },
     {
+      "base_name": "Kamasan Tiara",
+      "slot": "helmet",
+      "mod_template": "Bonded: +# to maximum Life",
+      "mod_origin": "rune",
+      "usage_count": 18,
+      "usage_pct": 0.0592,
+      "value_samples": [
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        40.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0
+      ]
+    },
+    {
+      "base_name": "Kamasan Tiara",
+      "slot": "helmet",
+      "mod_template": "Bonded: +# to maximum Mana",
+      "mod_origin": "rune",
+      "usage_count": 18,
+      "usage_pct": 0.0592,
+      "value_samples": [
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        40.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0
+      ]
+    },
+    {
       "base_name": "Obliterator Bow",
       "slot": "weapon",
       "mod_template": "Bow Attacks fire an additional Arrow",
@@ -9335,6 +9307,34 @@
       ]
     },
     {
+      "base_name": "Kamasan Tiara",
+      "slot": "helmet",
+      "mod_template": "+# to maximum Energy Shield",
+      "mod_origin": "explicit",
+      "usage_count": 18,
+      "usage_pct": 0.0592,
+      "value_samples": [
+        72.0,
+        67.0,
+        59.0,
+        60.0,
+        62.0,
+        73.0,
+        69.0,
+        71.0,
+        63.0,
+        67.0,
+        59.0,
+        70.0,
+        42.0,
+        56.0,
+        52.0,
+        71.0,
+        65.0,
+        70.0
+      ]
+    },
+    {
       "base_name": "Gold Amulet",
       "slot": "amulet",
       "mod_template": "Allocates Zarokh's Gift",
@@ -9342,33 +9342,6 @@
       "usage_count": 17,
       "usage_pct": 0.0559,
       "value_samples": []
-    },
-    {
-      "base_name": "Absent Amulet",
-      "slot": "amulet",
-      "mod_template": "+# to Spirit",
-      "mod_origin": "fractured",
-      "usage_count": 17,
-      "usage_pct": 0.0559,
-      "value_samples": [
-        50.0,
-        50.0,
-        45.0,
-        50.0,
-        50.0,
-        50.0,
-        35.0,
-        50.0,
-        50.0,
-        50.0,
-        50.0,
-        50.0,
-        50.0,
-        50.0,
-        50.0,
-        50.0,
-        50.0
-      ]
     },
     {
       "base_name": "Prismatic Ring",
@@ -9396,6 +9369,33 @@
         13.0,
         21.0,
         21.0
+      ]
+    },
+    {
+      "base_name": "Prismatic Ring",
+      "slot": "ring",
+      "mod_template": "+#% to Fire Resistance",
+      "mod_origin": "explicit",
+      "usage_count": 17,
+      "usage_pct": 0.0559,
+      "value_samples": [
+        37.0,
+        34.0,
+        30.0,
+        38.0,
+        49.0,
+        41.0,
+        22.0,
+        39.0,
+        39.0,
+        45.0,
+        23.0,
+        39.0,
+        27.0,
+        44.0,
+        22.0,
+        44.0,
+        30.0
       ]
     },
     {
@@ -9572,7 +9572,7 @@
         3.0,
         3.0,
         1.0,
-        3.0,
+        2.0,
         2.0,
         3.0,
         3.0,
@@ -9615,29 +9615,29 @@
       ]
     },
     {
-      "base_name": "Prismatic Ring",
-      "slot": "ring",
-      "mod_template": "+#% to Fire Resistance",
-      "mod_origin": "explicit",
+      "base_name": "Absent Amulet",
+      "slot": "amulet",
+      "mod_template": "+# to Spirit",
+      "mod_origin": "fractured",
       "usage_count": 16,
       "usage_pct": 0.0526,
       "value_samples": [
-        37.0,
-        34.0,
-        30.0,
-        38.0,
-        49.0,
-        41.0,
-        39.0,
-        39.0,
+        50.0,
+        50.0,
         45.0,
-        23.0,
-        39.0,
-        27.0,
-        44.0,
-        22.0,
-        44.0,
-        30.0
+        50.0,
+        50.0,
+        50.0,
+        35.0,
+        50.0,
+        50.0,
+        50.0,
+        50.0,
+        50.0,
+        50.0,
+        50.0,
+        50.0,
+        50.0
       ]
     },
     {
@@ -10299,30 +10299,6 @@
       ]
     },
     {
-      "base_name": "Kamasan Tiara",
-      "slot": "helmet",
-      "mod_template": "+#% to Lightning Resistance",
-      "mod_origin": "explicit",
-      "usage_count": 14,
-      "usage_pct": 0.0461,
-      "value_samples": [
-        37.0,
-        30.0,
-        40.0,
-        33.0,
-        43.0,
-        24.0,
-        31.0,
-        41.0,
-        35.0,
-        38.0,
-        78.0,
-        23.0,
-        29.0,
-        34.0
-      ]
-    },
-    {
       "base_name": "Ancestral Tiara",
       "slot": "helmet",
       "mod_template": "#% increased Energy Shield",
@@ -10368,30 +10344,6 @@
         13.0,
         8.0,
         10.0
-      ]
-    },
-    {
-      "base_name": "Dueling Wand",
-      "slot": "weapon",
-      "mod_template": "Bonded: Archon recovery period expires #% faster",
-      "mod_origin": "rune",
-      "usage_count": 14,
-      "usage_pct": 0.0461,
-      "value_samples": [
-        30.0,
-        30.0,
-        30.0,
-        30.0,
-        30.0,
-        30.0,
-        30.0,
-        30.0,
-        30.0,
-        30.0,
-        30.0,
-        30.0,
-        30.0,
-        30.0
       ]
     },
     {
@@ -10720,49 +10672,26 @@
       ]
     },
     {
-      "base_name": "Chiming Staff",
-      "slot": "weapon",
-      "mod_template": "+# to maximum Mana",
+      "base_name": "Kamasan Tiara",
+      "slot": "helmet",
+      "mod_template": "+#% to Lightning Resistance",
       "mod_origin": "explicit",
       "usage_count": 13,
       "usage_pct": 0.0428,
       "value_samples": [
-        28.0,
-        227.0,
-        22.0,
-        206.0,
-        249.0,
-        168.0,
-        117.0,
-        244.0,
-        227.0,
-        22.0,
-        315.0,
-        304.0,
-        74.0
-      ]
-    },
-    {
-      "base_name": "Chiming Staff",
-      "slot": "weapon",
-      "mod_template": "+# to Level of all Spell Skills",
-      "mod_origin": "crafted",
-      "usage_count": 13,
-      "usage_pct": 0.0428,
-      "value_samples": [
-        5.0,
-        5.0,
-        5.0,
-        5.0,
-        5.0,
-        1.0,
-        5.0,
-        5.0,
-        5.0,
-        5.0,
-        5.0,
-        5.0,
-        5.0
+        37.0,
+        30.0,
+        40.0,
+        33.0,
+        43.0,
+        24.0,
+        41.0,
+        35.0,
+        38.0,
+        78.0,
+        23.0,
+        29.0,
+        34.0
       ]
     },
     {
@@ -10809,6 +10738,29 @@
         15.0,
         15.0,
         15.0
+      ]
+    },
+    {
+      "base_name": "Dueling Wand",
+      "slot": "weapon",
+      "mod_template": "Bonded: Archon recovery period expires #% faster",
+      "mod_origin": "rune",
+      "usage_count": 13,
+      "usage_pct": 0.0428,
+      "value_samples": [
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0,
+        30.0
       ]
     },
     {
@@ -11169,6 +11121,50 @@
       ]
     },
     {
+      "base_name": "Chiming Staff",
+      "slot": "weapon",
+      "mod_template": "+# to maximum Mana",
+      "mod_origin": "explicit",
+      "usage_count": 12,
+      "usage_pct": 0.0395,
+      "value_samples": [
+        28.0,
+        227.0,
+        22.0,
+        206.0,
+        249.0,
+        168.0,
+        117.0,
+        227.0,
+        22.0,
+        315.0,
+        304.0,
+        74.0
+      ]
+    },
+    {
+      "base_name": "Chiming Staff",
+      "slot": "weapon",
+      "mod_template": "+# to Level of all Spell Skills",
+      "mod_origin": "crafted",
+      "usage_count": 12,
+      "usage_pct": 0.0395,
+      "value_samples": [
+        5.0,
+        5.0,
+        5.0,
+        5.0,
+        5.0,
+        1.0,
+        5.0,
+        5.0,
+        5.0,
+        5.0,
+        5.0,
+        5.0
+      ]
+    },
+    {
       "base_name": "Ancestral Tiara",
       "slot": "helmet",
       "mod_template": "+# to maximum Mana per # Item Energy Shield on Equipped Helmet",
@@ -11188,28 +11184,6 @@
         1.0,
         1.0,
         1.0
-      ]
-    },
-    {
-      "base_name": "Absent Amulet",
-      "slot": "amulet",
-      "mod_template": "+# to Level of all Spell Skills",
-      "mod_origin": "explicit",
-      "usage_count": 12,
-      "usage_pct": 0.0395,
-      "value_samples": [
-        4.0,
-        4.0,
-        4.0,
-        4.0,
-        4.0,
-        6.0,
-        4.0,
-        4.0,
-        4.0,
-        4.0,
-        4.0,
-        4.0
       ]
     },
     {
@@ -11814,27 +11788,6 @@
       ]
     },
     {
-      "base_name": "Kamasan Tiara",
-      "slot": "helmet",
-      "mod_template": "#% increased Energy Shield",
-      "mod_origin": "desecrated",
-      "usage_count": 11,
-      "usage_pct": 0.0362,
-      "value_samples": [
-        22.0,
-        29.0,
-        98.0,
-        83.0,
-        94.0,
-        99.0,
-        41.0,
-        40.0,
-        95.0,
-        95.0,
-        41.0
-      ]
-    },
-    {
       "base_name": "Obliterator Bow",
       "slot": "weapon",
       "mod_template": "Adds # to # Physical Damage",
@@ -11894,6 +11847,27 @@
         4.0,
         1.0,
         1.0,
+        4.0
+      ]
+    },
+    {
+      "base_name": "Absent Amulet",
+      "slot": "amulet",
+      "mod_template": "+# to Level of all Spell Skills",
+      "mod_origin": "explicit",
+      "usage_count": 11,
+      "usage_pct": 0.0362,
+      "value_samples": [
+        4.0,
+        4.0,
+        4.0,
+        4.0,
+        6.0,
+        4.0,
+        4.0,
+        4.0,
+        4.0,
+        4.0,
         4.0
       ]
     },
@@ -11958,48 +11932,6 @@
         48.0,
         27.0,
         49.0
-      ]
-    },
-    {
-      "base_name": "Mnemonic Ring",
-      "slot": "ring",
-      "mod_template": "#% increased maximum Mana",
-      "mod_origin": "implicit",
-      "usage_count": 11,
-      "usage_pct": 0.0362,
-      "value_samples": [
-        8.0,
-        8.0,
-        8.0,
-        9.0,
-        8.0,
-        8.0,
-        8.0,
-        8.0,
-        9.0,
-        8.0,
-        9.0
-      ]
-    },
-    {
-      "base_name": "Mnemonic Ring",
-      "slot": "ring",
-      "mod_template": "#% increased maximum Mana",
-      "mod_origin": "crafted",
-      "usage_count": 11,
-      "usage_pct": 0.0362,
-      "value_samples": [
-        8.0,
-        8.0,
-        8.0,
-        9.0,
-        8.0,
-        8.0,
-        8.0,
-        8.0,
-        9.0,
-        8.0,
-        9.0
       ]
     },
     {
@@ -12345,6 +12277,26 @@
       ]
     },
     {
+      "base_name": "Amethyst Ring",
+      "slot": "ring",
+      "mod_template": "Adds # to # Physical Damage to Attacks",
+      "mod_origin": "explicit",
+      "usage_count": 10,
+      "usage_pct": 0.0329,
+      "value_samples": [
+        17.0,
+        5.0,
+        14.0,
+        5.0,
+        11.0,
+        7.0,
+        18.0,
+        13.0,
+        12.0,
+        12.0
+      ]
+    },
+    {
       "base_name": "Topaz Ring",
       "slot": "ring",
       "mod_template": "Adds # to # Fire damage to Attacks",
@@ -12406,6 +12358,26 @@
       ]
     },
     {
+      "base_name": "Kamasan Tiara",
+      "slot": "helmet",
+      "mod_template": "#% increased Energy Shield",
+      "mod_origin": "desecrated",
+      "usage_count": 10,
+      "usage_pct": 0.0329,
+      "value_samples": [
+        22.0,
+        29.0,
+        83.0,
+        94.0,
+        99.0,
+        41.0,
+        40.0,
+        95.0,
+        95.0,
+        41.0
+      ]
+    },
+    {
       "base_name": "Vile Robe",
       "slot": "body_armour",
       "mod_template": "#% increased Energy Shield Recharge Rate",
@@ -12444,15 +12416,6 @@
         28.0,
         29.0
       ]
-    },
-    {
-      "base_name": "Kamasan Tiara",
-      "slot": "helmet",
-      "mod_template": "Raven-Touched",
-      "mod_origin": "rune",
-      "usage_count": 10,
-      "usage_pct": 0.0329,
-      "value_samples": []
     },
     {
       "base_name": "Obliterator Bow",
@@ -12581,6 +12544,46 @@
         36.0,
         29.0,
         20.0
+      ]
+    },
+    {
+      "base_name": "Mnemonic Ring",
+      "slot": "ring",
+      "mod_template": "#% increased maximum Mana",
+      "mod_origin": "implicit",
+      "usage_count": 10,
+      "usage_pct": 0.0329,
+      "value_samples": [
+        8.0,
+        8.0,
+        9.0,
+        8.0,
+        8.0,
+        8.0,
+        8.0,
+        9.0,
+        8.0,
+        9.0
+      ]
+    },
+    {
+      "base_name": "Mnemonic Ring",
+      "slot": "ring",
+      "mod_template": "#% increased maximum Mana",
+      "mod_origin": "crafted",
+      "usage_count": 10,
+      "usage_pct": 0.0329,
+      "value_samples": [
+        8.0,
+        8.0,
+        9.0,
+        8.0,
+        8.0,
+        8.0,
+        8.0,
+        9.0,
+        8.0,
+        9.0
       ]
     },
     {
@@ -13215,25 +13218,6 @@
     {
       "base_name": "Amethyst Ring",
       "slot": "ring",
-      "mod_template": "Adds # to # Physical Damage to Attacks",
-      "mod_origin": "explicit",
-      "usage_count": 9,
-      "usage_pct": 0.0296,
-      "value_samples": [
-        17.0,
-        5.0,
-        14.0,
-        11.0,
-        7.0,
-        18.0,
-        13.0,
-        12.0,
-        12.0
-      ]
-    },
-    {
-      "base_name": "Amethyst Ring",
-      "slot": "ring",
       "mod_template": "#% increased Rarity of Items found",
       "mod_origin": "explicit",
       "usage_count": 9,
@@ -13386,6 +13370,15 @@
       ]
     },
     {
+      "base_name": "Kamasan Tiara",
+      "slot": "helmet",
+      "mod_template": "Raven-Touched",
+      "mod_origin": "rune",
+      "usage_count": 9,
+      "usage_pct": 0.0296,
+      "value_samples": []
+    },
+    {
       "base_name": "Obliterator Bow",
       "slot": "weapon",
       "mod_template": "#% increased Physical Damage",
@@ -13478,25 +13471,6 @@
         40.0,
         39.0,
         25.0
-      ]
-    },
-    {
-      "base_name": "Mnemonic Ring",
-      "slot": "ring",
-      "mod_template": "+# to maximum Mana",
-      "mod_origin": "explicit",
-      "usage_count": 9,
-      "usage_pct": 0.0296,
-      "value_samples": [
-        242.0,
-        242.0,
-        264.0,
-        235.0,
-        247.0,
-        245.0,
-        268.0,
-        246.0,
-        237.0
       ]
     },
     {
@@ -14178,6 +14152,25 @@
     {
       "base_name": "Prismatic Ring",
       "slot": "ring",
+      "mod_template": "+# to Strength",
+      "mod_origin": "explicit",
+      "usage_count": 8,
+      "usage_pct": 0.0263,
+      "value_samples": [
+        29.0,
+        23.0,
+        30.0,
+        31.0,
+        30.0,
+        33.0,
+        25.0,
+        27.0,
+        23.0
+      ]
+    },
+    {
+      "base_name": "Prismatic Ring",
+      "slot": "ring",
       "mod_template": "+# to Dexterity",
       "mod_origin": "explicit",
       "usage_count": 8,
@@ -14492,6 +14485,24 @@
       ]
     },
     {
+      "base_name": "Amethyst Ring",
+      "slot": "ring",
+      "mod_template": "+#% to all Elemental Resistances",
+      "mod_origin": "explicit",
+      "usage_count": 8,
+      "usage_pct": 0.0263,
+      "value_samples": [
+        13.0,
+        13.0,
+        16.0,
+        15.0,
+        13.0,
+        13.0,
+        11.0,
+        15.0
+      ]
+    },
+    {
       "base_name": "Kamasan Tiara",
       "slot": "helmet",
       "mod_template": "+# to maximum Mana",
@@ -14747,19 +14758,19 @@
     {
       "base_name": "Mnemonic Ring",
       "slot": "ring",
-      "mod_template": "#% increased Cast Speed",
+      "mod_template": "+# to maximum Mana",
       "mod_origin": "explicit",
       "usage_count": 8,
       "usage_pct": 0.0263,
       "value_samples": [
-        23.0,
-        24.0,
-        24.0,
-        22.0,
-        23.0,
-        19.0,
-        24.0,
-        22.0
+        242.0,
+        264.0,
+        235.0,
+        247.0,
+        245.0,
+        268.0,
+        246.0,
+        237.0
       ]
     },
     {
@@ -15229,23 +15240,6 @@
       ]
     },
     {
-      "base_name": "Kamasan Tiara",
-      "slot": "helmet",
-      "mod_template": "#% increased Rarity of Items found",
-      "mod_origin": "explicit",
-      "usage_count": 7,
-      "usage_pct": 0.023,
-      "value_samples": [
-        15.0,
-        16.0,
-        18.0,
-        17.0,
-        17.0,
-        18.0,
-        15.0
-      ]
-    },
-    {
       "base_name": "Breach Ring",
       "slot": "ring",
       "mod_template": "Adds # to # Physical Damage to Attacks",
@@ -15328,24 +15322,6 @@
         24.0,
         17.0,
         39.0
-      ]
-    },
-    {
-      "base_name": "Prismatic Ring",
-      "slot": "ring",
-      "mod_template": "+# to Strength",
-      "mod_origin": "explicit",
-      "usage_count": 7,
-      "usage_pct": 0.023,
-      "value_samples": [
-        29.0,
-        30.0,
-        31.0,
-        30.0,
-        33.0,
-        25.0,
-        27.0,
-        23.0
       ]
     },
     {
@@ -15552,32 +15528,6 @@
         19.0,
         16.0
       ]
-    },
-    {
-      "base_name": "Amethyst Ring",
-      "slot": "ring",
-      "mod_template": "+#% to all Elemental Resistances",
-      "mod_origin": "explicit",
-      "usage_count": 7,
-      "usage_pct": 0.023,
-      "value_samples": [
-        13.0,
-        13.0,
-        16.0,
-        13.0,
-        13.0,
-        11.0,
-        15.0
-      ]
-    },
-    {
-      "base_name": "Kamasan Tiara",
-      "slot": "helmet",
-      "mod_template": "Allocates Zarokh's Gift",
-      "mod_origin": "enchant",
-      "usage_count": 7,
-      "usage_pct": 0.023,
-      "value_samples": []
     },
     {
       "base_name": "Sirenscale Gloves",
@@ -16019,6 +15969,23 @@
         47.0,
         80.0,
         81.0
+      ]
+    },
+    {
+      "base_name": "Mnemonic Ring",
+      "slot": "ring",
+      "mod_template": "#% increased Cast Speed",
+      "mod_origin": "explicit",
+      "usage_count": 7,
+      "usage_pct": 0.023,
+      "value_samples": [
+        23.0,
+        24.0,
+        22.0,
+        23.0,
+        19.0,
+        24.0,
+        22.0
       ]
     },
     {
@@ -16652,6 +16619,22 @@
       ]
     },
     {
+      "base_name": "Kamasan Tiara",
+      "slot": "helmet",
+      "mod_template": "#% increased Rarity of Items found",
+      "mod_origin": "explicit",
+      "usage_count": 6,
+      "usage_pct": 0.0197,
+      "value_samples": [
+        15.0,
+        16.0,
+        18.0,
+        17.0,
+        18.0,
+        15.0
+      ]
+    },
+    {
       "base_name": "Obliterator Bow",
       "slot": "weapon",
       "mod_template": "+#% to Critical Hit Chance",
@@ -17117,6 +17100,15 @@
       ]
     },
     {
+      "base_name": "Kamasan Tiara",
+      "slot": "helmet",
+      "mod_template": "Allocates Zarokh's Gift",
+      "mod_origin": "enchant",
+      "usage_count": 6,
+      "usage_pct": 0.0197,
+      "value_samples": []
+    },
+    {
       "base_name": "Ancestral Tiara",
       "slot": "helmet",
       "mod_template": "+#% to Fire Resistance",
@@ -17347,22 +17339,6 @@
         53.0,
         54.0,
         53.0
-      ]
-    },
-    {
-      "base_name": "Mnemonic Ring",
-      "slot": "ring",
-      "mod_template": "#% increased Mana Cost Efficiency of Spells",
-      "mod_origin": "fractured",
-      "usage_count": 6,
-      "usage_pct": 0.0197,
-      "value_samples": [
-        36.0,
-        35.0,
-        39.0,
-        30.0,
-        36.0,
-        36.0
       ]
     },
     {
@@ -17772,22 +17748,6 @@
         164.0,
         163.0,
         109.0
-      ]
-    },
-    {
-      "base_name": "Absent Amulet",
-      "slot": "amulet",
-      "mod_template": "+# to maximum Mana",
-      "mod_origin": "explicit",
-      "usage_count": 6,
-      "usage_pct": 0.0197,
-      "value_samples": [
-        160.0,
-        80.0,
-        175.0,
-        187.0,
-        189.0,
-        188.0
       ]
     },
     {
@@ -18750,6 +18710,36 @@
       ]
     },
     {
+      "base_name": "Imperial Greathelm",
+      "slot": "helmet",
+      "mod_template": "#% increased Armour",
+      "mod_origin": "explicit",
+      "usage_count": 5,
+      "usage_pct": 0.0164,
+      "value_samples": [
+        142.0,
+        40.0,
+        38.0,
+        33.0,
+        80.0
+      ]
+    },
+    {
+      "base_name": "Imperial Greathelm",
+      "slot": "helmet",
+      "mod_template": "+# to maximum Life",
+      "mod_origin": "explicit",
+      "usage_count": 5,
+      "usage_pct": 0.0164,
+      "value_samples": [
+        43.0,
+        45.0,
+        169.0,
+        37.0,
+        124.0
+      ]
+    },
+    {
       "base_name": "Shrine Sceptre",
       "slot": "offhand",
       "mod_template": "#% increased Spirit",
@@ -18816,21 +18806,6 @@
         5.0,
         5.0,
         5.0
-      ]
-    },
-    {
-      "base_name": "Chiming Staff",
-      "slot": "weapon",
-      "mod_template": "#% increased Cast Speed",
-      "mod_origin": "explicit",
-      "usage_count": 5,
-      "usage_pct": 0.0164,
-      "value_samples": [
-        40.0,
-        38.0,
-        52.0,
-        40.0,
-        37.0
       ]
     },
     {
@@ -19052,6 +19027,21 @@
         206.0,
         189.0,
         171.0
+      ]
+    },
+    {
+      "base_name": "Amethyst Ring",
+      "slot": "ring",
+      "mod_template": "Leech #% of Physical Attack Damage as Life",
+      "mod_origin": "explicit",
+      "usage_count": 5,
+      "usage_pct": 0.0164,
+      "value_samples": [
+        9.07,
+        6.38,
+        7.29,
+        8.83,
+        6.9
       ]
     },
     {
@@ -19454,6 +19444,21 @@
       ]
     },
     {
+      "base_name": "Mnemonic Ring",
+      "slot": "ring",
+      "mod_template": "#% increased Mana Cost Efficiency of Spells",
+      "mod_origin": "fractured",
+      "usage_count": 5,
+      "usage_pct": 0.0164,
+      "value_samples": [
+        36.0,
+        39.0,
+        30.0,
+        36.0,
+        36.0
+      ]
+    },
+    {
       "base_name": "Luxurious Slippers",
       "slot": "boots",
       "mod_template": "Bonded: +# to maximum Life",
@@ -19526,6 +19531,23 @@
         23.0,
         23.0,
         23.0
+      ]
+    },
+    {
+      "base_name": "Amethyst Ring",
+      "slot": "ring",
+      "mod_template": "+# to maximum Life",
+      "mod_origin": "explicit",
+      "usage_count": 5,
+      "usage_pct": 0.0164,
+      "value_samples": [
+        103.0,
+        117.0,
+        116.0,
+        98.0,
+        101.0,
+        112.0,
+        114.0
       ]
     },
     {
@@ -19856,6 +19878,21 @@
         36.0,
         21.0,
         20.0
+      ]
+    },
+    {
+      "base_name": "Absent Amulet",
+      "slot": "amulet",
+      "mod_template": "+# to maximum Mana",
+      "mod_origin": "explicit",
+      "usage_count": 5,
+      "usage_pct": 0.0164,
+      "value_samples": [
+        80.0,
+        175.0,
+        187.0,
+        189.0,
+        188.0
       ]
     },
     {
@@ -21165,34 +21202,6 @@
       ]
     },
     {
-      "base_name": "Imperial Greathelm",
-      "slot": "helmet",
-      "mod_template": "#% increased Armour",
-      "mod_origin": "explicit",
-      "usage_count": 4,
-      "usage_pct": 0.0132,
-      "value_samples": [
-        142.0,
-        40.0,
-        38.0,
-        80.0
-      ]
-    },
-    {
-      "base_name": "Imperial Greathelm",
-      "slot": "helmet",
-      "mod_template": "+# to maximum Life",
-      "mod_origin": "explicit",
-      "usage_count": 4,
-      "usage_pct": 0.0132,
-      "value_samples": [
-        43.0,
-        45.0,
-        169.0,
-        124.0
-      ]
-    },
-    {
       "base_name": "Absent Amulet",
       "slot": "amulet",
       "mod_template": "#% increased Critical Hit Chance",
@@ -21302,6 +21311,20 @@
         7.0,
         5.0,
         7.0
+      ]
+    },
+    {
+      "base_name": "Chiming Staff",
+      "slot": "weapon",
+      "mod_template": "#% increased Cast Speed",
+      "mod_origin": "explicit",
+      "usage_count": 4,
+      "usage_pct": 0.0132,
+      "value_samples": [
+        40.0,
+        38.0,
+        52.0,
+        37.0
       ]
     },
     {
@@ -21549,20 +21572,6 @@
         15.0,
         18.0,
         17.0
-      ]
-    },
-    {
-      "base_name": "Amethyst Ring",
-      "slot": "ring",
-      "mod_template": "Leech #% of Physical Attack Damage as Life",
-      "mod_origin": "explicit",
-      "usage_count": 4,
-      "usage_pct": 0.0132,
-      "value_samples": [
-        9.07,
-        6.38,
-        8.83,
-        6.9
       ]
     },
     {
@@ -21924,29 +21933,6 @@
         134.0,
         138.0,
         135.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Sirenscale Gloves",
-      "slot": "gloves",
-      "mod_template": "Can roll Marksman modifiers",
-      "mod_origin": "rune",
-      "usage_count": 4,
-      "usage_pct": 0.0132,
-      "value_samples": []
-    },
-    {
-      "base_name": "Runeforged Sirenscale Gloves",
-      "slot": "gloves",
-      "mod_template": "Bonded: #% increased Projectile Damage",
-      "mod_origin": "rune",
-      "usage_count": 4,
-      "usage_pct": 0.0132,
-      "value_samples": [
-        20.0,
-        32.0,
-        20.0,
-        20.0
       ]
     },
     {
@@ -22398,20 +22384,6 @@
       ]
     },
     {
-      "base_name": "Mnemonic Ring",
-      "slot": "ring",
-      "mod_template": "#% increased Mana Regeneration Rate",
-      "mod_origin": "desecrated",
-      "usage_count": 4,
-      "usage_pct": 0.0132,
-      "value_samples": [
-        95.0,
-        88.0,
-        93.0,
-        103.0
-      ]
-    },
-    {
       "base_name": "Luxurious Slippers",
       "slot": "boots",
       "mod_template": "+# to maximum Energy Shield",
@@ -22563,22 +22535,6 @@
         83.0,
         83.0,
         99.0
-      ]
-    },
-    {
-      "base_name": "Amethyst Ring",
-      "slot": "ring",
-      "mod_template": "+# to maximum Life",
-      "mod_origin": "explicit",
-      "usage_count": 4,
-      "usage_pct": 0.0132,
-      "value_samples": [
-        103.0,
-        116.0,
-        98.0,
-        101.0,
-        112.0,
-        114.0
       ]
     },
     {
@@ -23128,6 +23084,48 @@
       ]
     },
     {
+      "base_name": "Heavy Belt",
+      "slot": "belt",
+      "mod_template": "+# to maximum Life",
+      "mod_origin": "explicit",
+      "usage_count": 4,
+      "usage_pct": 0.0132,
+      "value_samples": [
+        65.0,
+        144.0,
+        171.0,
+        152.0
+      ]
+    },
+    {
+      "base_name": "Heavy Belt",
+      "slot": "belt",
+      "mod_template": "#% increased Stun Threshold",
+      "mod_origin": "implicit",
+      "usage_count": 4,
+      "usage_pct": 0.0132,
+      "value_samples": [
+        24.0,
+        28.0,
+        30.0,
+        27.0
+      ]
+    },
+    {
+      "base_name": "Heavy Belt",
+      "slot": "belt",
+      "mod_template": "Has # Charm Slots",
+      "mod_origin": "implicit",
+      "usage_count": 4,
+      "usage_pct": 0.0132,
+      "value_samples": [
+        3.0,
+        3.0,
+        3.0,
+        2.0
+      ]
+    },
+    {
       "base_name": "Shrine Sceptre",
       "slot": "weapon",
       "mod_template": "+# to maximum Mana",
@@ -23153,6 +23151,20 @@
         86.0,
         79.0,
         81.0
+      ]
+    },
+    {
+      "base_name": "Prismatic Ring",
+      "slot": "ring",
+      "mod_template": "#% increased Mana Regeneration Rate",
+      "mod_origin": "explicit",
+      "usage_count": 4,
+      "usage_pct": 0.0132,
+      "value_samples": [
+        21.0,
+        47.0,
+        21.0,
+        69.0
       ]
     },
     {
@@ -23390,31 +23402,31 @@
       ]
     },
     {
-      "base_name": "Runeforged Sirenscale Gloves",
-      "slot": "gloves",
-      "mod_template": "+# to maximum Mana",
+      "base_name": "Prismatic Ring",
+      "slot": "ring",
+      "mod_template": "+# to Evasion Rating",
       "mod_origin": "explicit",
       "usage_count": 4,
       "usage_pct": 0.0132,
       "value_samples": [
-        123.0,
-        111.0,
-        117.0,
-        124.0
+        218.0,
+        37.0,
+        218.0,
+        197.0
       ]
     },
     {
-      "base_name": "Absent Amulet",
-      "slot": "amulet",
-      "mod_template": "#% of Damage is taken from Mana before Life",
-      "mod_origin": "desecrated",
+      "base_name": "Amethyst Ring",
+      "slot": "ring",
+      "mod_template": "#% increased Lightning Damage",
+      "mod_origin": "explicit",
       "usage_count": 4,
       "usage_pct": 0.0132,
       "value_samples": [
-        13.0,
-        16.0,
-        16.0,
-        16.0
+        23.0,
+        24.0,
+        27.0,
+        9.0
       ]
     },
     {
@@ -23890,6 +23902,19 @@
         13.0,
         24.0,
         27.0
+      ]
+    },
+    {
+      "base_name": "Amethyst Ring",
+      "slot": "ring",
+      "mod_template": "+# to Intelligence",
+      "mod_origin": "explicit",
+      "usage_count": 3,
+      "usage_pct": 0.0099,
+      "value_samples": [
+        29.0,
+        33.0,
+        30.0
       ]
     },
     {
@@ -25088,6 +25113,19 @@
     {
       "base_name": "Imperial Greathelm",
       "slot": "helmet",
+      "mod_template": "+#% to Fire Resistance",
+      "mod_origin": "explicit",
+      "usage_count": 3,
+      "usage_pct": 0.0099,
+      "value_samples": [
+        44.0,
+        41.0,
+        39.0
+      ]
+    },
+    {
+      "base_name": "Imperial Greathelm",
+      "slot": "helmet",
       "mod_template": "+#% of Armour also applies to Elemental Damage",
       "mod_origin": "explicit",
       "usage_count": 3,
@@ -25518,19 +25556,6 @@
         20.0,
         40.0,
         40.0
-      ]
-    },
-    {
-      "base_name": "Chiming Staff",
-      "slot": "weapon",
-      "mod_template": "#% increased Fire Damage",
-      "mod_origin": "explicit",
-      "usage_count": 3,
-      "usage_pct": 0.0099,
-      "value_samples": [
-        125.0,
-        141.0,
-        125.0
       ]
     },
     {
@@ -26318,6 +26343,28 @@
     {
       "base_name": "Runeforged Sirenscale Gloves",
       "slot": "gloves",
+      "mod_template": "Can roll Marksman modifiers",
+      "mod_origin": "rune",
+      "usage_count": 3,
+      "usage_pct": 0.0099,
+      "value_samples": []
+    },
+    {
+      "base_name": "Runeforged Sirenscale Gloves",
+      "slot": "gloves",
+      "mod_template": "Bonded: #% increased Projectile Damage",
+      "mod_origin": "rune",
+      "usage_count": 3,
+      "usage_pct": 0.0099,
+      "value_samples": [
+        20.0,
+        20.0,
+        20.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Sirenscale Gloves",
+      "slot": "gloves",
       "mod_template": "#% increased Critical Damage Bonus",
       "mod_origin": "crafted",
       "usage_count": 3,
@@ -26825,6 +26872,19 @@
         95.0,
         90.0,
         100.0
+      ]
+    },
+    {
+      "base_name": "Mnemonic Ring",
+      "slot": "ring",
+      "mod_template": "#% increased Mana Regeneration Rate",
+      "mod_origin": "desecrated",
+      "usage_count": 3,
+      "usage_pct": 0.0099,
+      "value_samples": [
+        95.0,
+        93.0,
+        103.0
       ]
     },
     {
@@ -28273,40 +28333,14 @@
     {
       "base_name": "Heavy Belt",
       "slot": "belt",
-      "mod_template": "+# to maximum Life",
+      "mod_template": "+#% to Lightning Resistance",
       "mod_origin": "explicit",
       "usage_count": 3,
       "usage_pct": 0.0099,
       "value_samples": [
-        65.0,
-        171.0,
-        152.0
-      ]
-    },
-    {
-      "base_name": "Heavy Belt",
-      "slot": "belt",
-      "mod_template": "#% increased Stun Threshold",
-      "mod_origin": "implicit",
-      "usage_count": 3,
-      "usage_pct": 0.0099,
-      "value_samples": [
-        24.0,
-        30.0,
+        28.0,
+        39.0,
         27.0
-      ]
-    },
-    {
-      "base_name": "Heavy Belt",
-      "slot": "belt",
-      "mod_template": "Has # Charm Slots",
-      "mod_origin": "implicit",
-      "usage_count": 3,
-      "usage_pct": 0.0099,
-      "value_samples": [
-        3.0,
-        3.0,
-        2.0
       ]
     },
     {
@@ -28399,19 +28433,6 @@
         43.0,
         44.0,
         43.0
-      ]
-    },
-    {
-      "base_name": "Prismatic Ring",
-      "slot": "ring",
-      "mod_template": "#% increased Mana Regeneration Rate",
-      "mod_origin": "explicit",
-      "usage_count": 3,
-      "usage_pct": 0.0099,
-      "value_samples": [
-        21.0,
-        21.0,
-        69.0
       ]
     },
     {
@@ -28616,6 +28637,19 @@
         4.0,
         4.0,
         4.0
+      ]
+    },
+    {
+      "base_name": "Imperial Greathelm",
+      "slot": "helmet",
+      "mod_template": "+#% to Lightning Resistance",
+      "mod_origin": "explicit",
+      "usage_count": 3,
+      "usage_pct": 0.0099,
+      "value_samples": [
+        64.0,
+        25.0,
+        40.0
       ]
     },
     {
@@ -29057,19 +29091,6 @@
       ]
     },
     {
-      "base_name": "Amethyst Ring",
-      "slot": "ring",
-      "mod_template": "#% increased Lightning Damage",
-      "mod_origin": "explicit",
-      "usage_count": 3,
-      "usage_pct": 0.0099,
-      "value_samples": [
-        24.0,
-        27.0,
-        9.0
-      ]
-    },
-    {
       "base_name": "Runeforged Sacrificial Regalia",
       "slot": "body_armour",
       "mod_template": "+#% to all Resistances for each Corrupted Item Equipped",
@@ -29158,19 +29179,6 @@
         249.0,
         275.0,
         273.0
-      ]
-    },
-    {
-      "base_name": "Sekhema Sandals",
-      "slot": "boots",
-      "mod_template": "#% increased Movement Speed while Sprinting",
-      "mod_origin": "rune",
-      "usage_count": 3,
-      "usage_pct": 0.0099,
-      "value_samples": [
-        40.0,
-        12.0,
-        8.0
       ]
     },
     {
@@ -29304,6 +29312,19 @@
       ]
     },
     {
+      "base_name": "Absent Amulet",
+      "slot": "amulet",
+      "mod_template": "#% of Damage is taken from Mana before Life",
+      "mod_origin": "desecrated",
+      "usage_count": 3,
+      "usage_pct": 0.0099,
+      "value_samples": [
+        16.0,
+        16.0,
+        16.0
+      ]
+    },
+    {
       "base_name": "Feathered Raiment",
       "slot": "body_armour",
       "mod_template": "#% increased maximum Mana",
@@ -29314,6 +29335,19 @@
         20.0,
         19.0,
         18.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Sirenscale Gloves",
+      "slot": "gloves",
+      "mod_template": "+# to maximum Mana",
+      "mod_origin": "explicit",
+      "usage_count": 3,
+      "usage_pct": 0.0099,
+      "value_samples": [
+        111.0,
+        117.0,
+        124.0
       ]
     },
     {
@@ -29863,19 +29897,6 @@
       ]
     },
     {
-      "base_name": "Prismatic Ring",
-      "slot": "ring",
-      "mod_template": "+# to Evasion Rating",
-      "mod_origin": "explicit",
-      "usage_count": 3,
-      "usage_pct": 0.0099,
-      "value_samples": [
-        37.0,
-        218.0,
-        197.0
-      ]
-    },
-    {
       "base_name": "Runeforged Treerunner Shoes",
       "slot": "boots",
       "mod_template": "#% increased Evasion and Energy Shield",
@@ -30157,18 +30178,6 @@
       "value_samples": [
         20.0,
         20.0
-      ]
-    },
-    {
-      "base_name": "Amethyst Ring",
-      "slot": "ring",
-      "mod_template": "+# to Intelligence",
-      "mod_origin": "explicit",
-      "usage_count": 2,
-      "usage_pct": 0.0066,
-      "value_samples": [
-        29.0,
-        30.0
       ]
     },
     {
@@ -31665,18 +31674,6 @@
     {
       "base_name": "Imperial Greathelm",
       "slot": "helmet",
-      "mod_template": "+#% to Fire Resistance",
-      "mod_origin": "explicit",
-      "usage_count": 2,
-      "usage_pct": 0.0066,
-      "value_samples": [
-        44.0,
-        41.0
-      ]
-    },
-    {
-      "base_name": "Imperial Greathelm",
-      "slot": "helmet",
       "mod_template": "+# to Armour",
       "mod_origin": "desecrated",
       "usage_count": 2,
@@ -32152,18 +32149,6 @@
       ]
     },
     {
-      "base_name": "Kamasan Tiara",
-      "slot": "helmet",
-      "mod_template": "+#% to Fire Resistance",
-      "mod_origin": "rune",
-      "usage_count": 2,
-      "usage_pct": 0.0066,
-      "value_samples": [
-        18.0,
-        22.0
-      ]
-    },
-    {
       "base_name": "Vaal Gloves",
       "slot": "gloves",
       "mod_template": "Adds # to # Fire damage to Attacks",
@@ -32173,18 +32158,6 @@
       "value_samples": [
         13.0,
         22.0
-      ]
-    },
-    {
-      "base_name": "Chiming Staff",
-      "slot": "weapon",
-      "mod_template": "+# to Intelligence",
-      "mod_origin": "explicit",
-      "usage_count": 2,
-      "usage_pct": 0.0066,
-      "value_samples": [
-        24.0,
-        27.0
       ]
     },
     {
@@ -32362,6 +32335,18 @@
       "value_samples": [
         1.0,
         1.0
+      ]
+    },
+    {
+      "base_name": "Chiming Staff",
+      "slot": "weapon",
+      "mod_template": "#% increased Fire Damage",
+      "mod_origin": "explicit",
+      "usage_count": 2,
+      "usage_pct": 0.0066,
+      "value_samples": [
+        125.0,
+        125.0
       ]
     },
     {
@@ -33691,18 +33676,6 @@
       "value_samples": [
         24.0,
         18.0
-      ]
-    },
-    {
-      "base_name": "Chiming Staff",
-      "slot": "weapon",
-      "mod_template": "Gain #% of Damage as Extra Cold Damage",
-      "mod_origin": "explicit",
-      "usage_count": 2,
-      "usage_pct": 0.0066,
-      "value_samples": [
-        47.0,
-        55.0
       ]
     },
     {
@@ -36504,6 +36477,30 @@
     {
       "base_name": "Imperial Greathelm",
       "slot": "helmet",
+      "mod_template": "+# to Armour",
+      "mod_origin": "explicit",
+      "usage_count": 2,
+      "usage_pct": 0.0066,
+      "value_samples": [
+        219.0,
+        161.0
+      ]
+    },
+    {
+      "base_name": "Imperial Greathelm",
+      "slot": "helmet",
+      "mod_template": "+#% to Cold Resistance",
+      "mod_origin": "explicit",
+      "usage_count": 2,
+      "usage_pct": 0.0066,
+      "value_samples": [
+        45.0,
+        36.0
+      ]
+    },
+    {
+      "base_name": "Imperial Greathelm",
+      "slot": "helmet",
       "mod_template": "#% increased Area of Effect",
       "mod_origin": "rune",
       "usage_count": 2,
@@ -36715,18 +36712,6 @@
       "value_samples": [
         120.0,
         26.0
-      ]
-    },
-    {
-      "base_name": "Heavy Belt",
-      "slot": "belt",
-      "mod_template": "+#% to Lightning Resistance",
-      "mod_origin": "explicit",
-      "usage_count": 2,
-      "usage_pct": 0.0066,
-      "value_samples": [
-        28.0,
-        27.0
       ]
     },
     {
@@ -37108,18 +37093,6 @@
       ]
     },
     {
-      "base_name": "Imperial Greathelm",
-      "slot": "helmet",
-      "mod_template": "+#% to Lightning Resistance",
-      "mod_origin": "explicit",
-      "usage_count": 2,
-      "usage_pct": 0.0066,
-      "value_samples": [
-        64.0,
-        40.0
-      ]
-    },
-    {
       "base_name": "Tasalian Greaves",
       "slot": "boots",
       "mod_template": "+# to Stun Threshold",
@@ -37345,18 +37318,6 @@
       ]
     },
     {
-      "base_name": "Kamasan Tiara",
-      "slot": "helmet",
-      "mod_template": "#% increased Critical Hit Chance",
-      "mod_origin": "fractured",
-      "usage_count": 2,
-      "usage_pct": 0.0066,
-      "value_samples": [
-        33.0,
-        34.0
-      ]
-    },
-    {
       "base_name": "Azure Amulet",
       "slot": "amulet",
       "mod_template": "+# to Accuracy Rating",
@@ -37537,24 +37498,63 @@
       ]
     },
     {
-      "base_name": "Absent Amulet",
-      "slot": "amulet",
-      "mod_template": "Allocates Paragon",
-      "mod_origin": "enchant",
-      "usage_count": 2,
-      "usage_pct": 0.0066,
-      "value_samples": []
-    },
-    {
-      "base_name": "Mnemonic Ring",
-      "slot": "ring",
-      "mod_template": "#% increased Rarity of Items found",
+      "base_name": "Heavy Belt",
+      "slot": "belt",
+      "mod_template": "#% increased Flask Mana Recovery rate",
       "mod_origin": "explicit",
       "usage_count": 2,
       "usage_pct": 0.0066,
       "value_samples": [
-        18.0,
-        15.0
+        40.0,
+        32.0
+      ]
+    },
+    {
+      "base_name": "Heavy Belt",
+      "slot": "belt",
+      "mod_template": "# to # Physical Thorns damage",
+      "mod_origin": "explicit",
+      "usage_count": 2,
+      "usage_pct": 0.0066,
+      "value_samples": [
+        34.0,
+        117.0
+      ]
+    },
+    {
+      "base_name": "Flexed Crossbow",
+      "slot": "weapon",
+      "mod_template": "#% increased Physical Damage",
+      "mod_origin": "explicit",
+      "usage_count": 2,
+      "usage_pct": 0.0066,
+      "value_samples": [
+        89.0,
+        148.0
+      ]
+    },
+    {
+      "base_name": "Flexed Crossbow",
+      "slot": "weapon",
+      "mod_template": "+# to Dexterity",
+      "mod_origin": "explicit",
+      "usage_count": 2,
+      "usage_pct": 0.0066,
+      "value_samples": [
+        23.0,
+        25.0
+      ]
+    },
+    {
+      "base_name": "Flexed Crossbow",
+      "slot": "weapon",
+      "mod_template": "#% increased Bolt Speed",
+      "mod_origin": "implicit",
+      "usage_count": 2,
+      "usage_pct": 0.0066,
+      "value_samples": [
+        26.0,
+        21.0
       ]
     },
     {
@@ -38218,6 +38218,18 @@
       ]
     },
     {
+      "base_name": "Sekhema Sandals",
+      "slot": "boots",
+      "mod_template": "#% increased Movement Speed while Sprinting",
+      "mod_origin": "rune",
+      "usage_count": 2,
+      "usage_pct": 0.0066,
+      "value_samples": [
+        40.0,
+        8.0
+      ]
+    },
+    {
       "base_name": "Solar Amulet",
       "slot": "amulet",
       "mod_template": "+#% to Lightning and Chaos Resistances",
@@ -38577,18 +38589,6 @@
       "value_samples": [
         41.0,
         27.0
-      ]
-    },
-    {
-      "base_name": "Sekhema Sandals",
-      "slot": "boots",
-      "mod_template": "Bonded: #% increased Stun Recovery",
-      "mod_origin": "rune",
-      "usage_count": 2,
-      "usage_pct": 0.0066,
-      "value_samples": [
-        80.0,
-        50.0
       ]
     },
     {
@@ -45675,6 +45675,17 @@
       ]
     },
     {
+      "base_name": "Kamasan Tiara",
+      "slot": "helmet",
+      "mod_template": "+#% to Fire Resistance",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        18.0
+      ]
+    },
+    {
       "base_name": "Vaal Gloves",
       "slot": "gloves",
       "mod_template": "+#% to Cold Resistance",
@@ -45705,6 +45716,17 @@
       "usage_pct": 0.0033,
       "value_samples": [
         11.0
+      ]
+    },
+    {
+      "base_name": "Chiming Staff",
+      "slot": "weapon",
+      "mod_template": "+# to Intelligence",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        24.0
       ]
     },
     {
@@ -48360,6 +48382,17 @@
       "usage_pct": 0.0033,
       "value_samples": [
         11.0
+      ]
+    },
+    {
+      "base_name": "Chiming Staff",
+      "slot": "weapon",
+      "mod_template": "Gain #% of Damage as Extra Cold Damage",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        47.0
       ]
     },
     {
@@ -54784,28 +54817,6 @@
     {
       "base_name": "Imperial Greathelm",
       "slot": "helmet",
-      "mod_template": "+# to Armour",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        219.0
-      ]
-    },
-    {
-      "base_name": "Imperial Greathelm",
-      "slot": "helmet",
-      "mod_template": "+#% to Cold Resistance",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        45.0
-      ]
-    },
-    {
-      "base_name": "Imperial Greathelm",
-      "slot": "helmet",
       "mod_template": "#% increased Armour",
       "mod_origin": "desecrated",
       "usage_count": 1,
@@ -55496,6 +55507,39 @@
       ]
     },
     {
+      "base_name": "Dueling Wand",
+      "slot": "weapon",
+      "mod_template": "Gain #% of maximum Life as Extra maximum Runic Ward",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        15.0
+      ]
+    },
+    {
+      "base_name": "Dueling Wand",
+      "slot": "weapon",
+      "mod_template": "#% less maximum Life",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        15.0
+      ]
+    },
+    {
+      "base_name": "Dueling Wand",
+      "slot": "weapon",
+      "mod_template": "Bonded: +#% to all Maximum Elemental Resistances while on full Runic Ward",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        1.0
+      ]
+    },
+    {
       "base_name": "Runeforged Tasalian Greaves",
       "slot": "boots",
       "mod_template": "#% increased Armour",
@@ -55718,12 +55762,12 @@
     {
       "base_name": "Runeforged Blacksteel Gauntlets",
       "slot": "gloves",
-      "mod_template": "#% increased Cast Speed",
+      "mod_template": "+#% of Armour also applies to Fire Damage",
       "mod_origin": "rune",
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": [
-        8.0
+        40.0
       ]
     },
     {
@@ -55745,17 +55789,6 @@
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": []
-    },
-    {
-      "base_name": "Runeforged Blacksteel Gauntlets",
-      "slot": "gloves",
-      "mod_template": "Bonded: #% increased Mana Cost Efficiency while on Low Mana",
-      "mod_origin": "rune",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        20.0
-      ]
     },
     {
       "base_name": "Runeforged Blacksteel Gauntlets",
@@ -57365,6 +57398,17 @@
     {
       "base_name": "Kamasan Tiara",
       "slot": "helmet",
+      "mod_template": "#% increased Critical Hit Chance",
+      "mod_origin": "fractured",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        33.0
+      ]
+    },
+    {
+      "base_name": "Kamasan Tiara",
+      "slot": "helmet",
       "mod_template": "Allocates Throatseeker",
       "mod_origin": "enchant",
       "usage_count": 1,
@@ -57890,54 +57934,21 @@
       ]
     },
     {
-      "base_name": "Runeforged Sirenscale Gloves",
-      "slot": "gloves",
-      "mod_template": "#% increased Projectile Speed",
+      "base_name": "Imperial Greathelm",
+      "slot": "helmet",
+      "mod_template": "+# to Accuracy Rating",
       "mod_origin": "explicit",
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": [
-        39.0
+        157.0
       ]
     },
     {
-      "base_name": "Runeforged Sirenscale Gloves",
-      "slot": "gloves",
-      "mod_template": "#% increased Cast Speed",
+      "base_name": "Imperial Greathelm",
+      "slot": "helmet",
+      "mod_template": "#% increased Armour, Evasion and Energy Shield",
       "mod_origin": "rune",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        12.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Sirenscale Gloves",
-      "slot": "gloves",
-      "mod_template": "Bonded: #% increased Mana Cost Efficiency while on Low Mana",
-      "mod_origin": "rune",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        32.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Sirenscale Gloves",
-      "slot": "gloves",
-      "mod_template": "#% increased effect of Socketed Augment Items",
-      "mod_origin": "crafted",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        60.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Sirenscale Gloves",
-      "slot": "gloves",
-      "mod_template": "#% increased Rarity of Items found",
-      "mod_origin": "crafted",
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": [
@@ -57945,108 +57956,31 @@
       ]
     },
     {
-      "base_name": "Runeforged Sirenscale Gloves",
-      "slot": "gloves",
-      "mod_template": "+# to Level of all Projectile Skills",
-      "mod_origin": "fractured",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        2.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Sirenscale Gloves",
-      "slot": "gloves",
-      "mod_template": "#% increased Projectile Damage",
-      "mod_origin": "desecrated",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        38.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Sirenscale Gloves",
-      "slot": "gloves",
-      "mod_template": "#% increased Energy Shield",
-      "mod_origin": "enchant",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        15.0
-      ]
-    },
-    {
-      "base_name": "Kamasan Tiara",
+      "base_name": "Imperial Greathelm",
       "slot": "helmet",
-      "mod_template": "#% increased Mana Cost Efficiency",
-      "mod_origin": "crafted",
+      "mod_template": "Bonded: +# to maximum Life",
+      "mod_origin": "rune",
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": [
-        27.0
+        20.0
       ]
     },
     {
-      "base_name": "Kamasan Tiara",
+      "base_name": "Imperial Greathelm",
       "slot": "helmet",
-      "mod_template": "#% increased Life Regeneration rate",
-      "mod_origin": "enchant",
+      "mod_template": "Bonded: +# to maximum Mana",
+      "mod_origin": "rune",
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": [
-        19.0
+        20.0
       ]
     },
     {
-      "base_name": "Kamasan Tiara",
-      "slot": "helmet",
-      "mod_template": "#% increased Mana Regeneration Rate",
-      "mod_origin": "enchant",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        25.0
-      ]
-    },
-    {
-      "base_name": "Runefather's Grasping Mail",
-      "slot": "body_armour",
-      "mod_template": "+# to maximum Mana",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        216.0
-      ]
-    },
-    {
-      "base_name": "Runefather's Grasping Mail",
-      "slot": "body_armour",
-      "mod_template": "+#% to all Elemental Resistances",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        16.0
-      ]
-    },
-    {
-      "base_name": "Runefather's Grasping Mail",
-      "slot": "body_armour",
-      "mod_template": "#% increased Mana Cost Efficiency of Spells",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        26.0
-      ]
-    },
-    {
-      "base_name": "Runefather's Grasping Mail",
-      "slot": "body_armour",
-      "mod_template": "Minions have #% increased Critical Damage Bonus",
+      "base_name": "Runeforged Bastion Sabatons",
+      "slot": "boots",
+      "mod_template": "#% increased Movement Speed",
       "mod_origin": "explicit",
       "usage_count": 1,
       "usage_pct": 0.0033,
@@ -58055,48 +57989,142 @@
       ]
     },
     {
-      "base_name": "Runefather's Grasping Mail",
-      "slot": "body_armour",
-      "mod_template": "Can roll Ring Modifiers",
-      "mod_origin": "implicit",
+      "base_name": "Runeforged Bastion Sabatons",
+      "slot": "boots",
+      "mod_template": "#% increased Armour and Evasion",
+      "mod_origin": "explicit",
       "usage_count": 1,
       "usage_pct": 0.0033,
-      "value_samples": []
+      "value_samples": [
+        134.0
+      ]
     },
     {
-      "base_name": "Runefather's Grasping Mail",
-      "slot": "body_armour",
-      "mod_template": "Catalysts can be applied to this item",
-      "mod_origin": "implicit",
+      "base_name": "Runeforged Bastion Sabatons",
+      "slot": "boots",
+      "mod_template": "+#% to Cold Resistance",
+      "mod_origin": "explicit",
       "usage_count": 1,
       "usage_pct": 0.0033,
-      "value_samples": []
+      "value_samples": [
+        29.0
+      ]
     },
     {
-      "base_name": "Runefather's Grasping Mail",
-      "slot": "body_armour",
-      "mod_template": "#% of Damage is taken from Mana before Life",
+      "base_name": "Runeforged Bastion Sabatons",
+      "slot": "boots",
+      "mod_template": "+#% to Lightning Resistance",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        35.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Bastion Sabatons",
+      "slot": "boots",
+      "mod_template": "+# to Stun Threshold",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        106.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Bastion Sabatons",
+      "slot": "boots",
+      "mod_template": "#% increased Armour, Evasion and Energy Shield",
       "mod_origin": "rune",
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": [
-        15.0
+        18.0
       ]
     },
     {
-      "base_name": "Runefather's Grasping Mail",
-      "slot": "body_armour",
-      "mod_template": "Can roll Soul modifiers",
+      "base_name": "Runeforged Bastion Sabatons",
+      "slot": "boots",
+      "mod_template": "Bonded: +# to maximum Life",
       "mod_origin": "rune",
       "usage_count": 1,
       "usage_pct": 0.0033,
-      "value_samples": []
+      "value_samples": [
+        20.0
+      ]
     },
     {
-      "base_name": "Runefather's Grasping Mail",
-      "slot": "body_armour",
-      "mod_template": "Bonded: #% increased maximum Life",
+      "base_name": "Runeforged Bastion Sabatons",
+      "slot": "boots",
+      "mod_template": "Bonded: +# to maximum Mana",
       "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        20.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Bastion Sabatons",
+      "slot": "boots",
+      "mod_template": "Gain Deflection Rating equal to #% of Evasion Rating",
+      "mod_origin": "desecrated",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        21.0
+      ]
+    },
+    {
+      "base_name": "Heavy Belt",
+      "slot": "belt",
+      "mod_template": "+#% to Fire Resistance",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        38.0
+      ]
+    },
+    {
+      "base_name": "Heavy Belt",
+      "slot": "belt",
+      "mod_template": "# Life Regeneration per second",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        3.2
+      ]
+    },
+    {
+      "base_name": "Flexed Crossbow",
+      "slot": "weapon",
+      "mod_template": "Adds # to # Fire Damage",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        121.0
+      ]
+    },
+    {
+      "base_name": "Flexed Crossbow",
+      "slot": "weapon",
+      "mod_template": "Adds # to # Lightning Damage",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        9.0
+      ]
+    },
+    {
+      "base_name": "Flexed Crossbow",
+      "slot": "weapon",
+      "mod_template": "+# to Level of all Projectile Skills",
+      "mod_origin": "explicit",
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": [
@@ -58104,20 +58132,31 @@
       ]
     },
     {
-      "base_name": "Runefather's Grasping Mail",
-      "slot": "body_armour",
-      "mod_template": "Bonded: #% increased maximum Mana",
+      "base_name": "Flexed Crossbow",
+      "slot": "weapon",
+      "mod_template": "Grenades have #% chance to activate a second time",
       "mod_origin": "rune",
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": [
-        3.0
+        10.0
       ]
     },
     {
-      "base_name": "Runefather's Grasping Mail",
-      "slot": "body_armour",
-      "mod_template": "Bonded: #% of Maximum Life Converted to Energy Shield",
+      "base_name": "Flexed Crossbow",
+      "slot": "weapon",
+      "mod_template": "Gain #% of Damage as Extra Damage of all Elements",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        5.0
+      ]
+    },
+    {
+      "base_name": "Flexed Crossbow",
+      "slot": "weapon",
+      "mod_template": "Bonded: #% chance to gain an additional random Charge when you gain a Charge",
       "mod_origin": "rune",
       "usage_count": 1,
       "usage_pct": 0.0033,
@@ -58126,25 +58165,25 @@
       ]
     },
     {
-      "base_name": "Runefather's Grasping Mail",
-      "slot": "body_armour",
-      "mod_template": "#% increased maximum Mana",
-      "mod_origin": "fractured",
+      "base_name": "Flexed Crossbow",
+      "slot": "weapon",
+      "mod_template": "Bonded: #% increased Crossbow Reload Speed",
+      "mod_origin": "rune",
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": [
-        24.0
+        40.0
       ]
     },
     {
-      "base_name": "Runefather's Grasping Mail",
-      "slot": "body_armour",
-      "mod_template": "#% of Damage is taken from Mana before Life",
-      "mod_origin": "desecrated",
+      "base_name": "Flexed Crossbow",
+      "slot": "weapon",
+      "mod_template": "+# to maximum number of Summoned Ballista Totems",
+      "mod_origin": "crafted",
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": [
-        24.0
+        2.0
       ]
     },
     {
@@ -61614,6 +61653,17 @@
       "value_samples": []
     },
     {
+      "base_name": "Sekhema Sandals",
+      "slot": "boots",
+      "mod_template": "#% increased Life and Mana Recovery from Flasks",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        32.0
+      ]
+    },
+    {
       "base_name": "Drakeskin Boots",
       "slot": "boots",
       "mod_template": "# Life Regeneration per second",
@@ -63425,6 +63475,17 @@
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": []
+    },
+    {
+      "base_name": "Mnemonic Ring",
+      "slot": "ring",
+      "mod_template": "#% increased Rarity of Items found",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        15.0
+      ]
     },
     {
       "base_name": "Mnemonic Ring",
@@ -66432,17 +66493,6 @@
     {
       "base_name": "Flexed Crossbow",
       "slot": "weapon",
-      "mod_template": "#% increased Physical Damage",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        148.0
-      ]
-    },
-    {
-      "base_name": "Flexed Crossbow",
-      "slot": "weapon",
       "mod_template": "Adds # to # Physical Damage",
       "mod_origin": "explicit",
       "usage_count": 1,
@@ -66460,28 +66510,6 @@
       "usage_pct": 0.0033,
       "value_samples": [
         3.17
-      ]
-    },
-    {
-      "base_name": "Flexed Crossbow",
-      "slot": "weapon",
-      "mod_template": "+# to Dexterity",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        25.0
-      ]
-    },
-    {
-      "base_name": "Flexed Crossbow",
-      "slot": "weapon",
-      "mod_template": "#% increased Bolt Speed",
-      "mod_origin": "implicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        21.0
       ]
     },
     {
@@ -73648,28 +73676,6 @@
     {
       "base_name": "Heavy Belt",
       "slot": "belt",
-      "mod_template": "#% increased Flask Mana Recovery rate",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        32.0
-      ]
-    },
-    {
-      "base_name": "Heavy Belt",
-      "slot": "belt",
-      "mod_template": "# to # Physical Thorns damage",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        117.0
-      ]
-    },
-    {
-      "base_name": "Heavy Belt",
-      "slot": "belt",
       "mod_template": "+# to Strength and Intelligence",
       "mod_origin": "desecrated",
       "usage_count": 1,
@@ -76399,6 +76405,17 @@
       "usage_pct": 0.0033,
       "value_samples": [
         58.0
+      ]
+    },
+    {
+      "base_name": "Sekhema Sandals",
+      "slot": "boots",
+      "mod_template": "Bonded: #% increased Stun Recovery",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        50.0
       ]
     },
     {
@@ -82145,6 +82162,15 @@
       "base_name": "Kamasan Tiara",
       "slot": "helmet",
       "mod_template": "Allocates Gem Enthusiast",
+      "mod_origin": "enchant",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": []
+    },
+    {
+      "base_name": "Absent Amulet",
+      "slot": "amulet",
+      "mod_template": "Allocates Paragon",
       "mod_origin": "enchant",
       "usage_count": 1,
       "usage_pct": 0.0033,
