@@ -1,9 +1,9 @@
 {
   "league": "Runes of Aldur",
   "league_slug": "runesofaldur",
-  "snapshot_version": "0700-20260730-47954",
+  "snapshot_version": "0812-20260731-33058",
   "snapshot_name": "runes-of-aldur",
-  "scraped_at": "2026-07-30T08:15:16+00:00",
+  "scraped_at": "2026-07-31T08:20:26+00:00",
   "sample_size": 304,
   "roster_size": 304,
   "base_usage": [
@@ -858,6 +858,16 @@
       "common_skills": []
     },
     {
+      "base_name": "Surefooted Leg",
+      "slot": "incursionlegleft",
+      "usage_count": 7,
+      "usage_pct": 0.023,
+      "rarity_mix": {
+        "normal": 7
+      },
+      "common_skills": []
+    },
+    {
       "base_name": "Refined Breach Ring",
       "slot": "ring",
       "usage_count": 7,
@@ -929,16 +939,6 @@
       "common_skills": []
     },
     {
-      "base_name": "Sprinters Leg",
-      "slot": "incursionlegleft",
-      "usage_count": 7,
-      "usage_pct": 0.023,
-      "rarity_mix": {
-        "normal": 7
-      },
-      "common_skills": []
-    },
-    {
       "base_name": "Pearlescent Amulet",
       "slot": "amulet",
       "usage_count": 7,
@@ -955,16 +955,6 @@
       "usage_pct": 0.023,
       "rarity_mix": {
         "rare": 7
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Surefooted Leg",
-      "slot": "incursionlegleft",
-      "usage_count": 6,
-      "usage_pct": 0.0197,
-      "rarity_mix": {
-        "normal": 6
       },
       "common_skills": []
     },
@@ -1029,16 +1019,6 @@
       "common_skills": []
     },
     {
-      "base_name": "Surefooted Leg",
-      "slot": "incursionlegright",
-      "usage_count": 6,
-      "usage_pct": 0.0197,
-      "rarity_mix": {
-        "normal": 6
-      },
-      "common_skills": []
-    },
-    {
       "base_name": "Giant Maul",
       "slot": "weapon",
       "usage_count": 6,
@@ -1085,6 +1065,16 @@
       "usage_pct": 0.0197,
       "rarity_mix": {
         "unique": 6
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Sprinters Leg",
+      "slot": "incursionlegleft",
+      "usage_count": 6,
+      "usage_pct": 0.0197,
+      "rarity_mix": {
+        "normal": 6
       },
       "common_skills": []
     },
@@ -1211,6 +1201,16 @@
       "common_skills": []
     },
     {
+      "base_name": "Surefooted Leg",
+      "slot": "incursionlegright",
+      "usage_count": 5,
+      "usage_pct": 0.0164,
+      "rarity_mix": {
+        "normal": 5
+      },
+      "common_skills": []
+    },
+    {
       "base_name": "Lazuli Ring",
       "slot": "ring",
       "usage_count": 5,
@@ -1224,16 +1224,6 @@
     {
       "base_name": "Massive Mitts",
       "slot": "gloves",
-      "usage_count": 5,
-      "usage_pct": 0.0164,
-      "rarity_mix": {
-        "rare": 5
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Imperial Greathelm",
-      "slot": "helmet",
       "usage_count": 5,
       "usage_pct": 0.0164,
       "rarity_mix": {
@@ -1275,6 +1265,16 @@
     {
       "base_name": "Runeforged Sirenscale Gloves",
       "slot": "gloves",
+      "usage_count": 5,
+      "usage_pct": 0.0164,
+      "rarity_mix": {
+        "rare": 5
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Runeforged Imperial Greathelm",
+      "slot": "helmet",
       "usage_count": 5,
       "usage_pct": 0.0164,
       "rarity_mix": {
@@ -1333,16 +1333,6 @@
       "common_skills": []
     },
     {
-      "base_name": "Torn Gloves",
-      "slot": "gloves",
-      "usage_count": 4,
-      "usage_pct": 0.0132,
-      "rarity_mix": {
-        "unique": 4
-      },
-      "common_skills": []
-    },
-    {
       "base_name": "Gemini Crossbow",
       "slot": "weapon",
       "usage_count": 4,
@@ -1355,6 +1345,16 @@
     {
       "base_name": "Dragonscale Boots",
       "slot": "boots",
+      "usage_count": 4,
+      "usage_pct": 0.0132,
+      "rarity_mix": {
+        "rare": 4
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Imperial Greathelm",
+      "slot": "helmet",
       "usage_count": 4,
       "usage_pct": 0.0132,
       "rarity_mix": {
@@ -1455,6 +1455,16 @@
       "common_skills": []
     },
     {
+      "base_name": "Decrepifying Arm",
+      "slot": "incursionarmleft",
+      "usage_count": 4,
+      "usage_pct": 0.0132,
+      "rarity_mix": {
+        "normal": 4
+      },
+      "common_skills": []
+    },
+    {
       "base_name": "Runeforged Daggerfoot Shoes",
       "slot": "boots",
       "usage_count": 4,
@@ -1482,16 +1492,6 @@
       "rarity_mix": {
         "unique": 1,
         "rare": 3
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Runeforged Imperial Greathelm",
-      "slot": "helmet",
-      "usage_count": 4,
-      "usage_pct": 0.0132,
-      "rarity_mix": {
-        "rare": 4
       },
       "common_skills": []
     },
@@ -1555,6 +1555,16 @@
         "unique": 1,
         "rare": 2,
         "magic": 1
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Sprinters Leg",
+      "slot": "incursionlegright",
+      "usage_count": 4,
+      "usage_pct": 0.0132,
+      "rarity_mix": {
+        "normal": 4
       },
       "common_skills": []
     },
@@ -1625,6 +1635,16 @@
       "usage_pct": 0.0099,
       "rarity_mix": {
         "rare": 3
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Torn Gloves",
+      "slot": "gloves",
+      "usage_count": 3,
+      "usage_pct": 0.0099,
+      "rarity_mix": {
+        "unique": 3
       },
       "common_skills": []
     },
@@ -1740,8 +1760,8 @@
       "common_skills": []
     },
     {
-      "base_name": "Decrepifying Arm",
-      "slot": "incursionarmleft",
+      "base_name": "Caster Arm",
+      "slot": "incursionarmright",
       "usage_count": 3,
       "usage_pct": 0.0099,
       "rarity_mix": {
@@ -1880,16 +1900,6 @@
       "common_skills": []
     },
     {
-      "base_name": "Caster Arm",
-      "slot": "incursionarmleft",
-      "usage_count": 3,
-      "usage_pct": 0.0099,
-      "rarity_mix": {
-        "normal": 3
-      },
-      "common_skills": []
-    },
-    {
       "base_name": "Runeforged Blacksteel Gauntlets",
       "slot": "gloves",
       "usage_count": 3,
@@ -1939,16 +1949,6 @@
       "usage_pct": 0.0099,
       "rarity_mix": {
         "rare": 3
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Sprinters Leg",
-      "slot": "incursionlegright",
-      "usage_count": 3,
-      "usage_pct": 0.0099,
-      "rarity_mix": {
-        "normal": 3
       },
       "common_skills": []
     },
@@ -2155,16 +2155,6 @@
       "common_skills": []
     },
     {
-      "base_name": "Caster Arm",
-      "slot": "incursionarmright",
-      "usage_count": 2,
-      "usage_pct": 0.0066,
-      "rarity_mix": {
-        "normal": 2
-      },
-      "common_skills": []
-    },
-    {
       "base_name": "Wanderer Shoes",
       "slot": "boots",
       "usage_count": 2,
@@ -2258,6 +2248,16 @@
     {
       "base_name": "Sturdy Leg",
       "slot": "incursionlegleft",
+      "usage_count": 2,
+      "usage_pct": 0.0066,
+      "rarity_mix": {
+        "normal": 2
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Caster Arm",
+      "slot": "incursionarmleft",
       "usage_count": 2,
       "usage_pct": 0.0066,
       "rarity_mix": {
@@ -2373,16 +2373,6 @@
       "usage_pct": 0.0066,
       "rarity_mix": {
         "rare": 2
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Decrepifying Arm",
-      "slot": "incursionarmright",
-      "usage_count": 2,
-      "usage_pct": 0.0066,
-      "rarity_mix": {
-        "normal": 2
       },
       "common_skills": []
     },
@@ -3094,6 +3084,16 @@
       "usage_pct": 0.0033,
       "rarity_mix": {
         "rare": 1
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Runemastered Torn Gloves",
+      "slot": "gloves",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "rarity_mix": {
+        "unique": 1
       },
       "common_skills": []
     },
@@ -3994,6 +3994,16 @@
       "usage_pct": 0.0033,
       "rarity_mix": {
         "rare": 1
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Decrepifying Arm",
+      "slot": "incursionarmright",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "rarity_mix": {
+        "normal": 1
       },
       "common_skills": []
     }
@@ -18710,36 +18720,6 @@
       ]
     },
     {
-      "base_name": "Imperial Greathelm",
-      "slot": "helmet",
-      "mod_template": "#% increased Armour",
-      "mod_origin": "explicit",
-      "usage_count": 5,
-      "usage_pct": 0.0164,
-      "value_samples": [
-        142.0,
-        40.0,
-        38.0,
-        33.0,
-        80.0
-      ]
-    },
-    {
-      "base_name": "Imperial Greathelm",
-      "slot": "helmet",
-      "mod_template": "+# to maximum Life",
-      "mod_origin": "explicit",
-      "usage_count": 5,
-      "usage_pct": 0.0164,
-      "value_samples": [
-        43.0,
-        45.0,
-        169.0,
-        37.0,
-        124.0
-      ]
-    },
-    {
       "base_name": "Shrine Sceptre",
       "slot": "offhand",
       "mod_template": "#% increased Spirit",
@@ -21202,6 +21182,34 @@
       ]
     },
     {
+      "base_name": "Imperial Greathelm",
+      "slot": "helmet",
+      "mod_template": "#% increased Armour",
+      "mod_origin": "explicit",
+      "usage_count": 4,
+      "usage_pct": 0.0132,
+      "value_samples": [
+        142.0,
+        40.0,
+        38.0,
+        80.0
+      ]
+    },
+    {
+      "base_name": "Imperial Greathelm",
+      "slot": "helmet",
+      "mod_template": "+# to maximum Life",
+      "mod_origin": "explicit",
+      "usage_count": 4,
+      "usage_pct": 0.0132,
+      "value_samples": [
+        43.0,
+        45.0,
+        169.0,
+        124.0
+      ]
+    },
+    {
       "base_name": "Absent Amulet",
       "slot": "amulet",
       "mod_template": "#% increased Critical Hit Chance",
@@ -22773,6 +22781,20 @@
         145.0,
         286.0,
         94.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Imperial Greathelm",
+      "slot": "helmet",
+      "mod_template": "+# to maximum Life",
+      "mod_origin": "explicit",
+      "usage_count": 4,
+      "usage_pct": 0.0132,
+      "value_samples": [
+        171.0,
+        37.0,
+        174.0,
+        171.0
       ]
     },
     {
@@ -25108,19 +25130,6 @@
         189.0,
         181.0,
         181.0
-      ]
-    },
-    {
-      "base_name": "Imperial Greathelm",
-      "slot": "helmet",
-      "mod_template": "+#% to Fire Resistance",
-      "mod_origin": "explicit",
-      "usage_count": 3,
-      "usage_pct": 0.0099,
-      "value_samples": [
-        44.0,
-        41.0,
-        39.0
       ]
     },
     {
@@ -27607,19 +27616,6 @@
     {
       "base_name": "Runeforged Imperial Greathelm",
       "slot": "helmet",
-      "mod_template": "+# to maximum Life",
-      "mod_origin": "explicit",
-      "usage_count": 3,
-      "usage_pct": 0.0099,
-      "value_samples": [
-        171.0,
-        174.0,
-        171.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Imperial Greathelm",
-      "slot": "helmet",
       "mod_template": "Raven-Touched",
       "mod_origin": "rune",
       "usage_count": 3,
@@ -28484,6 +28480,19 @@
       "value_samples": []
     },
     {
+      "base_name": "Runeforged Imperial Greathelm",
+      "slot": "helmet",
+      "mod_template": "#% increased Armour",
+      "mod_origin": "explicit",
+      "usage_count": 3,
+      "usage_pct": 0.0099,
+      "value_samples": [
+        99.0,
+        33.0,
+        99.0
+      ]
+    },
+    {
       "base_name": "Dueling Wand",
       "slot": "weapon",
       "mod_template": "+# to Level of all Spell Skills",
@@ -28637,19 +28646,6 @@
         4.0,
         4.0,
         4.0
-      ]
-    },
-    {
-      "base_name": "Imperial Greathelm",
-      "slot": "helmet",
-      "mod_template": "+#% to Lightning Resistance",
-      "mod_origin": "explicit",
-      "usage_count": 3,
-      "usage_pct": 0.0099,
-      "value_samples": [
-        64.0,
-        25.0,
-        40.0
       ]
     },
     {
@@ -31669,6 +31665,18 @@
       "value_samples": [
         22.0,
         25.0
+      ]
+    },
+    {
+      "base_name": "Imperial Greathelm",
+      "slot": "helmet",
+      "mod_template": "+#% to Fire Resistance",
+      "mod_origin": "explicit",
+      "usage_count": 2,
+      "usage_pct": 0.0066,
+      "value_samples": [
+        44.0,
+        41.0
       ]
     },
     {
@@ -36477,30 +36485,6 @@
     {
       "base_name": "Imperial Greathelm",
       "slot": "helmet",
-      "mod_template": "+# to Armour",
-      "mod_origin": "explicit",
-      "usage_count": 2,
-      "usage_pct": 0.0066,
-      "value_samples": [
-        219.0,
-        161.0
-      ]
-    },
-    {
-      "base_name": "Imperial Greathelm",
-      "slot": "helmet",
-      "mod_template": "+#% to Cold Resistance",
-      "mod_origin": "explicit",
-      "usage_count": 2,
-      "usage_pct": 0.0066,
-      "value_samples": [
-        45.0,
-        36.0
-      ]
-    },
-    {
-      "base_name": "Imperial Greathelm",
-      "slot": "helmet",
       "mod_template": "#% increased Area of Effect",
       "mod_origin": "rune",
       "usage_count": 2,
@@ -36873,13 +36857,25 @@
     {
       "base_name": "Runeforged Imperial Greathelm",
       "slot": "helmet",
-      "mod_template": "#% increased Armour",
+      "mod_template": "+#% to Fire Resistance",
       "mod_origin": "explicit",
       "usage_count": 2,
       "usage_pct": 0.0066,
       "value_samples": [
-        99.0,
-        99.0
+        45.0,
+        39.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Imperial Greathelm",
+      "slot": "helmet",
+      "mod_template": "+#% to Lightning Resistance",
+      "mod_origin": "explicit",
+      "usage_count": 2,
+      "usage_pct": 0.0066,
+      "value_samples": [
+        45.0,
+        25.0
       ]
     },
     {
@@ -37090,6 +37086,18 @@
       "value_samples": [
         31.0,
         32.0
+      ]
+    },
+    {
+      "base_name": "Imperial Greathelm",
+      "slot": "helmet",
+      "mod_template": "+#% to Lightning Resistance",
+      "mod_origin": "explicit",
+      "usage_count": 2,
+      "usage_pct": 0.0066,
+      "value_samples": [
+        64.0,
+        40.0
       ]
     },
     {
@@ -37495,6 +37503,30 @@
       "value_samples": [
         18.0,
         18.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Imperial Greathelm",
+      "slot": "helmet",
+      "mod_template": "+# to Armour",
+      "mod_origin": "explicit",
+      "usage_count": 2,
+      "usage_pct": 0.0066,
+      "value_samples": [
+        161.0,
+        216.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Imperial Greathelm",
+      "slot": "helmet",
+      "mod_template": "+#% to Cold Resistance",
+      "mod_origin": "explicit",
+      "usage_count": 2,
+      "usage_pct": 0.0066,
+      "value_samples": [
+        36.0,
+        40.0
       ]
     },
     {
@@ -54817,6 +54849,28 @@
     {
       "base_name": "Imperial Greathelm",
       "slot": "helmet",
+      "mod_template": "+# to Armour",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        219.0
+      ]
+    },
+    {
+      "base_name": "Imperial Greathelm",
+      "slot": "helmet",
+      "mod_template": "+#% to Cold Resistance",
+      "mod_origin": "explicit",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        45.0
+      ]
+    },
+    {
+      "base_name": "Imperial Greathelm",
+      "slot": "helmet",
       "mod_template": "#% increased Armour",
       "mod_origin": "desecrated",
       "usage_count": 1,
@@ -55443,45 +55497,12 @@
     {
       "base_name": "Runeforged Imperial Greathelm",
       "slot": "helmet",
-      "mod_template": "+#% to Fire Resistance",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        45.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Imperial Greathelm",
-      "slot": "helmet",
-      "mod_template": "+#% to Lightning Resistance",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        45.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Imperial Greathelm",
-      "slot": "helmet",
-      "mod_template": "Every # seconds, gain Guard equal to #% of maximum Runic Ward for # seconds",
+      "mod_template": "+#% to Chaos Resistance",
       "mod_origin": "rune",
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": [
-        4.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Imperial Greathelm",
-      "slot": "helmet",
-      "mod_template": "Bonded: #% increased Guard gained",
-      "mod_origin": "rune",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        8.0
+        11.0
       ]
     },
     {
@@ -55570,6 +55591,28 @@
       "usage_pct": 0.0033,
       "value_samples": [
         34.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Tasalian Greaves",
+      "slot": "boots",
+      "mod_template": "Every # seconds, gain Guard equal to #% of maximum Runic Ward for # seconds",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        4.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Tasalian Greaves",
+      "slot": "boots",
+      "mod_template": "Bonded: #% increased Guard gained",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        12.0
       ]
     },
     {
@@ -57934,7 +57977,7 @@
       ]
     },
     {
-      "base_name": "Imperial Greathelm",
+      "base_name": "Runeforged Imperial Greathelm",
       "slot": "helmet",
       "mod_template": "+# to Accuracy Rating",
       "mod_origin": "explicit",
@@ -57945,7 +57988,7 @@
       ]
     },
     {
-      "base_name": "Imperial Greathelm",
+      "base_name": "Runeforged Imperial Greathelm",
       "slot": "helmet",
       "mod_template": "#% increased Armour, Evasion and Energy Shield",
       "mod_origin": "rune",
@@ -57956,7 +57999,7 @@
       ]
     },
     {
-      "base_name": "Imperial Greathelm",
+      "base_name": "Runeforged Imperial Greathelm",
       "slot": "helmet",
       "mod_template": "Bonded: +# to maximum Life",
       "mod_origin": "rune",
@@ -57967,7 +58010,7 @@
       ]
     },
     {
-      "base_name": "Imperial Greathelm",
+      "base_name": "Runeforged Imperial Greathelm",
       "slot": "helmet",
       "mod_template": "Bonded: +# to maximum Mana",
       "mod_origin": "rune",
@@ -60969,17 +61012,6 @@
       "usage_pct": 0.0033,
       "value_samples": [
         8.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Imperial Greathelm",
-      "slot": "helmet",
-      "mod_template": "+#% to Cold Resistance",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        40.0
       ]
     },
     {
@@ -75566,17 +75598,6 @@
       "usage_pct": 0.0033,
       "value_samples": [
         168.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Imperial Greathelm",
-      "slot": "helmet",
-      "mod_template": "+# to Armour",
-      "mod_origin": "explicit",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        216.0
       ]
     },
     {
