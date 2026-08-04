@@ -1,9 +1,9 @@
 {
   "league": "Runes of Aldur",
   "league_slug": "runesofaldur",
-  "snapshot_version": "0733-20260803-38687",
+  "snapshot_version": "0646-20260804-18501",
   "snapshot_name": "runes-of-aldur",
-  "scraped_at": "2026-08-03T08:30:44+00:00",
+  "scraped_at": "2026-08-04T08:15:55+00:00",
   "sample_size": 305,
   "roster_size": 305,
   "base_usage": [
@@ -301,6 +301,16 @@
       "common_skills": []
     },
     {
+      "base_name": "Kamasan Tiara",
+      "slot": "helmet",
+      "usage_count": 31,
+      "usage_pct": 0.1016,
+      "rarity_mix": {
+        "rare": 31
+      },
+      "common_skills": []
+    },
+    {
       "base_name": "Pearl Ring",
       "slot": "ring",
       "usage_count": 30,
@@ -308,16 +318,6 @@
       "rarity_mix": {
         "rare": 12,
         "unique": 18
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Kamasan Tiara",
-      "slot": "helmet",
-      "usage_count": 30,
-      "usage_pct": 0.0984,
-      "rarity_mix": {
-        "rare": 30
       },
       "common_skills": []
     },
@@ -512,16 +512,6 @@
       "common_skills": []
     },
     {
-      "base_name": "Sorcerous Tiara",
-      "slot": "helmet",
-      "usage_count": 13,
-      "usage_pct": 0.0426,
-      "rarity_mix": {
-        "rare": 13
-      },
-      "common_skills": []
-    },
-    {
       "base_name": "Combat Arm",
       "slot": "incursionarmleft",
       "usage_count": 13,
@@ -570,6 +560,16 @@
       "rarity_mix": {
         "rare": 10,
         "unique": 2
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Sorcerous Tiara",
+      "slot": "helmet",
+      "usage_count": 12,
+      "usage_pct": 0.0393,
+      "rarity_mix": {
+        "rare": 12
       },
       "common_skills": []
     },
@@ -1039,6 +1039,16 @@
       "common_skills": []
     },
     {
+      "base_name": "Surefooted Leg",
+      "slot": "incursionlegright",
+      "usage_count": 6,
+      "usage_pct": 0.0197,
+      "rarity_mix": {
+        "normal": 6
+      },
+      "common_skills": []
+    },
+    {
       "base_name": "Giant Maul",
       "slot": "weapon",
       "usage_count": 6,
@@ -1197,16 +1207,6 @@
       "usage_pct": 0.0164,
       "rarity_mix": {
         "unique": 5
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Surefooted Leg",
-      "slot": "incursionlegright",
-      "usage_count": 5,
-      "usage_pct": 0.0164,
-      "rarity_mix": {
-        "normal": 5
       },
       "common_skills": []
     },
@@ -1639,16 +1639,6 @@
       "common_skills": []
     },
     {
-      "base_name": "Commanding Arm",
-      "slot": "incursionarmright",
-      "usage_count": 3,
-      "usage_pct": 0.0098,
-      "rarity_mix": {
-        "normal": 3
-      },
-      "common_skills": []
-    },
-    {
       "base_name": "Soaring Mask",
       "slot": "helmet",
       "usage_count": 3,
@@ -1726,6 +1716,16 @@
       "usage_pct": 0.0098,
       "rarity_mix": {
         "rare": 3
+      },
+      "common_skills": []
+    },
+    {
+      "base_name": "Caster Arm",
+      "slot": "incursionarmright",
+      "usage_count": 3,
+      "usage_pct": 0.0098,
+      "rarity_mix": {
+        "normal": 3
       },
       "common_skills": []
     },
@@ -1860,17 +1860,7 @@
       "common_skills": []
     },
     {
-      "base_name": "Restorative Leg",
-      "slot": "incursionlegright",
-      "usage_count": 3,
-      "usage_pct": 0.0098,
-      "rarity_mix": {
-        "normal": 3
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Caster Arm",
+      "base_name": "Commanding Arm",
       "slot": "incursionarmleft",
       "usage_count": 3,
       "usage_pct": 0.0098,
@@ -2085,6 +2075,16 @@
       "common_skills": []
     },
     {
+      "base_name": "Commanding Arm",
+      "slot": "incursionarmright",
+      "usage_count": 2,
+      "usage_pct": 0.0066,
+      "rarity_mix": {
+        "normal": 2
+      },
+      "common_skills": []
+    },
+    {
       "base_name": "Vitalic Ring",
       "slot": "ring",
       "usage_count": 2,
@@ -2172,16 +2172,6 @@
       "usage_pct": 0.0066,
       "rarity_mix": {
         "rare": 2
-      },
-      "common_skills": []
-    },
-    {
-      "base_name": "Caster Arm",
-      "slot": "incursionarmright",
-      "usage_count": 2,
-      "usage_pct": 0.0066,
-      "rarity_mix": {
-        "normal": 2
       },
       "common_skills": []
     },
@@ -2398,6 +2388,16 @@
       "common_skills": []
     },
     {
+      "base_name": "Caster Arm",
+      "slot": "incursionarmleft",
+      "usage_count": 2,
+      "usage_pct": 0.0066,
+      "rarity_mix": {
+        "normal": 2
+      },
+      "common_skills": []
+    },
+    {
       "base_name": "Decrepifying Arm",
       "slot": "incursionarmright",
       "usage_count": 2,
@@ -2408,8 +2408,8 @@
       "common_skills": []
     },
     {
-      "base_name": "Commanding Arm",
-      "slot": "incursionarmleft",
+      "base_name": "Restorative Leg",
+      "slot": "incursionlegright",
       "usage_count": 2,
       "usage_pct": 0.0066,
       "rarity_mix": {
@@ -6476,96 +6476,6 @@
       ]
     },
     {
-      "base_name": "Sekhema Sandals",
-      "slot": "boots",
-      "mod_template": "Bonded: +# to maximum Life",
-      "mod_origin": "rune",
-      "usage_count": 35,
-      "usage_pct": 0.1148,
-      "value_samples": [
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        32.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        32.0,
-        20.0,
-        32.0,
-        32.0,
-        40.0,
-        20.0,
-        32.0,
-        32.0,
-        20.0,
-        20.0,
-        40.0,
-        20.0,
-        64.0,
-        64.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0
-      ]
-    },
-    {
-      "base_name": "Sekhema Sandals",
-      "slot": "boots",
-      "mod_template": "Bonded: +# to maximum Mana",
-      "mod_origin": "rune",
-      "usage_count": 35,
-      "usage_pct": 0.1148,
-      "value_samples": [
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        32.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        32.0,
-        20.0,
-        32.0,
-        32.0,
-        40.0,
-        20.0,
-        32.0,
-        32.0,
-        20.0,
-        20.0,
-        40.0,
-        20.0,
-        64.0,
-        64.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0,
-        20.0
-      ]
-    },
-    {
       "base_name": "Vile Robe",
       "slot": "body_armour",
       "mod_template": "#% increased Energy Shield",
@@ -6700,6 +6610,94 @@
         10.0,
         7.0,
         12.0
+      ]
+    },
+    {
+      "base_name": "Sekhema Sandals",
+      "slot": "boots",
+      "mod_template": "Bonded: +# to maximum Life",
+      "mod_origin": "rune",
+      "usage_count": 34,
+      "usage_pct": 0.1115,
+      "value_samples": [
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        32.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        32.0,
+        20.0,
+        32.0,
+        32.0,
+        40.0,
+        20.0,
+        32.0,
+        20.0,
+        20.0,
+        40.0,
+        20.0,
+        64.0,
+        64.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0
+      ]
+    },
+    {
+      "base_name": "Sekhema Sandals",
+      "slot": "boots",
+      "mod_template": "Bonded: +# to maximum Mana",
+      "mod_origin": "rune",
+      "usage_count": 34,
+      "usage_pct": 0.1115,
+      "value_samples": [
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        32.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        32.0,
+        20.0,
+        32.0,
+        32.0,
+        40.0,
+        20.0,
+        32.0,
+        20.0,
+        20.0,
+        40.0,
+        20.0,
+        64.0,
+        64.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0,
+        20.0
       ]
     },
     {
@@ -8983,6 +8981,36 @@
       ]
     },
     {
+      "base_name": "Kamasan Tiara",
+      "slot": "helmet",
+      "mod_template": "+# to maximum Energy Shield",
+      "mod_origin": "explicit",
+      "usage_count": 20,
+      "usage_pct": 0.0656,
+      "value_samples": [
+        72.0,
+        67.0,
+        59.0,
+        60.0,
+        73.0,
+        62.0,
+        73.0,
+        69.0,
+        71.0,
+        71.0,
+        67.0,
+        59.0,
+        63.0,
+        70.0,
+        42.0,
+        56.0,
+        52.0,
+        71.0,
+        65.0,
+        70.0
+      ]
+    },
+    {
       "base_name": "Prismatic Ring",
       "slot": "ring",
       "mod_template": "Adds # to # Cold damage to Attacks",
@@ -9096,35 +9124,6 @@
         18.0,
         18.0,
         16.0
-      ]
-    },
-    {
-      "base_name": "Kamasan Tiara",
-      "slot": "helmet",
-      "mod_template": "+# to maximum Energy Shield",
-      "mod_origin": "explicit",
-      "usage_count": 19,
-      "usage_pct": 0.0623,
-      "value_samples": [
-        72.0,
-        67.0,
-        59.0,
-        60.0,
-        73.0,
-        62.0,
-        73.0,
-        69.0,
-        71.0,
-        67.0,
-        59.0,
-        63.0,
-        70.0,
-        42.0,
-        56.0,
-        52.0,
-        71.0,
-        65.0,
-        70.0
       ]
     },
     {
@@ -10224,6 +10223,30 @@
       ]
     },
     {
+      "base_name": "Kamasan Tiara",
+      "slot": "helmet",
+      "mod_template": "+#% to Lightning Resistance",
+      "mod_origin": "explicit",
+      "usage_count": 14,
+      "usage_pct": 0.0459,
+      "value_samples": [
+        37.0,
+        30.0,
+        40.0,
+        33.0,
+        43.0,
+        24.0,
+        41.0,
+        35.0,
+        42.0,
+        38.0,
+        78.0,
+        23.0,
+        29.0,
+        34.0
+      ]
+    },
+    {
       "base_name": "Ancestral Tiara",
       "slot": "helmet",
       "mod_template": "#% increased Cost Efficiency",
@@ -10736,29 +10759,6 @@
         315.0,
         304.0,
         74.0
-      ]
-    },
-    {
-      "base_name": "Kamasan Tiara",
-      "slot": "helmet",
-      "mod_template": "+#% to Lightning Resistance",
-      "mod_origin": "explicit",
-      "usage_count": 13,
-      "usage_pct": 0.0426,
-      "value_samples": [
-        37.0,
-        30.0,
-        40.0,
-        33.0,
-        43.0,
-        24.0,
-        41.0,
-        35.0,
-        38.0,
-        78.0,
-        23.0,
-        29.0,
-        34.0
       ]
     },
     {
@@ -11830,6 +11830,27 @@
     {
       "base_name": "Kamasan Tiara",
       "slot": "helmet",
+      "mod_template": "#% increased Energy Shield",
+      "mod_origin": "desecrated",
+      "usage_count": 11,
+      "usage_pct": 0.0361,
+      "value_samples": [
+        22.0,
+        29.0,
+        83.0,
+        94.0,
+        99.0,
+        99.0,
+        41.0,
+        40.0,
+        95.0,
+        95.0,
+        41.0
+      ]
+    },
+    {
+      "base_name": "Kamasan Tiara",
+      "slot": "helmet",
       "mod_template": "#% increased Critical Hit Chance",
       "mod_origin": "explicit",
       "usage_count": 11,
@@ -11847,6 +11868,15 @@
         28.0,
         29.0
       ]
+    },
+    {
+      "base_name": "Kamasan Tiara",
+      "slot": "helmet",
+      "mod_template": "Raven-Touched",
+      "mod_origin": "rune",
+      "usage_count": 11,
+      "usage_pct": 0.0361,
+      "value_samples": []
     },
     {
       "base_name": "Obliterator Bow",
@@ -12177,26 +12207,6 @@
       ]
     },
     {
-      "base_name": "Sorcerous Tiara",
-      "slot": "helmet",
-      "mod_template": "#% increased Energy Shield",
-      "mod_origin": "explicit",
-      "usage_count": 10,
-      "usage_pct": 0.0328,
-      "value_samples": [
-        124.0,
-        100.0,
-        34.0,
-        33.0,
-        97.0,
-        121.0,
-        81.0,
-        37.0,
-        88.0,
-        124.0
-      ]
-    },
-    {
       "base_name": "Sapphire Ring",
       "slot": "ring",
       "mod_template": "+#% to Lightning Resistance",
@@ -12378,26 +12388,6 @@
       ]
     },
     {
-      "base_name": "Kamasan Tiara",
-      "slot": "helmet",
-      "mod_template": "#% increased Energy Shield",
-      "mod_origin": "desecrated",
-      "usage_count": 10,
-      "usage_pct": 0.0328,
-      "value_samples": [
-        22.0,
-        29.0,
-        83.0,
-        94.0,
-        99.0,
-        41.0,
-        40.0,
-        95.0,
-        95.0,
-        41.0
-      ]
-    },
-    {
       "base_name": "Vile Robe",
       "slot": "body_armour",
       "mod_template": "#% increased Energy Shield Recharge Rate",
@@ -12416,15 +12406,6 @@
         20.0,
         27.0
       ]
-    },
-    {
-      "base_name": "Kamasan Tiara",
-      "slot": "helmet",
-      "mod_template": "Raven-Touched",
-      "mod_origin": "rune",
-      "usage_count": 10,
-      "usage_pct": 0.0328,
-      "value_samples": []
     },
     {
       "base_name": "Obliterator Bow",
@@ -12995,6 +12976,25 @@
       ]
     },
     {
+      "base_name": "Sorcerous Tiara",
+      "slot": "helmet",
+      "mod_template": "#% increased Energy Shield",
+      "mod_origin": "explicit",
+      "usage_count": 9,
+      "usage_pct": 0.0295,
+      "value_samples": [
+        124.0,
+        100.0,
+        34.0,
+        33.0,
+        121.0,
+        81.0,
+        37.0,
+        88.0,
+        124.0
+      ]
+    },
+    {
       "base_name": "Gold Amulet",
       "slot": "amulet",
       "mod_template": "+#% to Cold Resistance",
@@ -13125,25 +13125,6 @@
         52.0,
         57.0,
         60.0
-      ]
-    },
-    {
-      "base_name": "Sorcerous Tiara",
-      "slot": "helmet",
-      "mod_template": "+# to maximum Energy Shield",
-      "mod_origin": "explicit",
-      "usage_count": 9,
-      "usage_pct": 0.0295,
-      "value_samples": [
-        69.0,
-        70.0,
-        66.0,
-        71.0,
-        72.0,
-        55.0,
-        69.0,
-        57.0,
-        49.0
       ]
     },
     {
@@ -14001,6 +13982,24 @@
         150.0,
         62.0,
         196.0
+      ]
+    },
+    {
+      "base_name": "Sorcerous Tiara",
+      "slot": "helmet",
+      "mod_template": "+# to maximum Energy Shield",
+      "mod_origin": "explicit",
+      "usage_count": 8,
+      "usage_pct": 0.0262,
+      "value_samples": [
+        69.0,
+        70.0,
+        66.0,
+        72.0,
+        55.0,
+        69.0,
+        57.0,
+        49.0
       ]
     },
     {
@@ -15220,6 +15219,23 @@
         114.0,
         75.0,
         110.0
+      ]
+    },
+    {
+      "base_name": "Kamasan Tiara",
+      "slot": "helmet",
+      "mod_template": "#% increased Rarity of Items found",
+      "mod_origin": "explicit",
+      "usage_count": 7,
+      "usage_pct": 0.023,
+      "value_samples": [
+        15.0,
+        16.0,
+        18.0,
+        17.0,
+        17.0,
+        18.0,
+        15.0
       ]
     },
     {
@@ -16671,22 +16687,6 @@
         250.0,
         100.0,
         146.0
-      ]
-    },
-    {
-      "base_name": "Kamasan Tiara",
-      "slot": "helmet",
-      "mod_template": "#% increased Rarity of Items found",
-      "mod_origin": "explicit",
-      "usage_count": 6,
-      "usage_pct": 0.0197,
-      "value_samples": [
-        15.0,
-        16.0,
-        18.0,
-        17.0,
-        18.0,
-        15.0
       ]
     },
     {
@@ -23697,20 +23697,6 @@
       ]
     },
     {
-      "base_name": "Sorcerous Tiara",
-      "slot": "helmet",
-      "mod_template": "+#% to Cold Resistance",
-      "mod_origin": "explicit",
-      "usage_count": 4,
-      "usage_pct": 0.0131,
-      "value_samples": [
-        44.0,
-        78.0,
-        29.0,
-        45.0
-      ]
-    },
-    {
       "base_name": "Polished Bracers",
       "slot": "gloves",
       "mod_template": "Adds # to # Cold damage to Attacks",
@@ -27662,15 +27648,6 @@
       ]
     },
     {
-      "base_name": "Sorcerous Tiara",
-      "slot": "helmet",
-      "mod_template": "Raven-Touched",
-      "mod_origin": "rune",
-      "usage_count": 3,
-      "usage_pct": 0.0098,
-      "value_samples": []
-    },
-    {
       "base_name": "Daggerfoot Shoes",
       "slot": "boots",
       "mod_template": "+#% to Lightning Resistance",
@@ -28514,6 +28491,19 @@
       ]
     },
     {
+      "base_name": "Kamasan Tiara",
+      "slot": "helmet",
+      "mod_template": "+#% to Cold Resistance",
+      "mod_origin": "fractured",
+      "usage_count": 3,
+      "usage_pct": 0.0098,
+      "value_samples": [
+        45.0,
+        44.0,
+        40.0
+      ]
+    },
+    {
       "base_name": "Runeforged War Wraps",
       "slot": "gloves",
       "mod_template": "Adds # to # Lightning damage to Attacks",
@@ -29300,6 +29290,19 @@
         20.0,
         19.0,
         18.0
+      ]
+    },
+    {
+      "base_name": "Sorcerous Tiara",
+      "slot": "helmet",
+      "mod_template": "+#% to Cold Resistance",
+      "mod_origin": "explicit",
+      "usage_count": 3,
+      "usage_pct": 0.0098,
+      "value_samples": [
+        78.0,
+        29.0,
+        45.0
       ]
     },
     {
@@ -35656,6 +35659,15 @@
       ]
     },
     {
+      "base_name": "Sorcerous Tiara",
+      "slot": "helmet",
+      "mod_template": "Raven-Touched",
+      "mod_origin": "rune",
+      "usage_count": 2,
+      "usage_pct": 0.0066,
+      "value_samples": []
+    },
+    {
       "base_name": "Gold Amulet",
       "slot": "amulet",
       "mod_template": "Allocates Subterfuge Mask",
@@ -36952,18 +36964,6 @@
       "value_samples": [
         23.0,
         21.0
-      ]
-    },
-    {
-      "base_name": "Kamasan Tiara",
-      "slot": "helmet",
-      "mod_template": "+#% to Cold Resistance",
-      "mod_origin": "fractured",
-      "usage_count": 2,
-      "usage_pct": 0.0066,
-      "value_samples": [
-        45.0,
-        40.0
       ]
     },
     {
@@ -38562,7 +38562,7 @@
       ]
     },
     {
-      "base_name": "Sorcerous Tiara",
+      "base_name": "Kamasan Tiara",
       "slot": "helmet",
       "mod_template": "#% increased Cost Efficiency",
       "mod_origin": "rune",
@@ -38574,7 +38574,7 @@
       ]
     },
     {
-      "base_name": "Sorcerous Tiara",
+      "base_name": "Kamasan Tiara",
       "slot": "helmet",
       "mod_template": "Bonded: Meta Skills have #% increased Reservation Efficiency",
       "mod_origin": "rune",
@@ -38586,27 +38586,15 @@
       ]
     },
     {
-      "base_name": "Sorcerous Tiara",
+      "base_name": "Kamasan Tiara",
       "slot": "helmet",
-      "mod_template": "#% increased Mana Cost Efficiency",
-      "mod_origin": "crafted",
+      "mod_template": "#% increased Energy Shield",
+      "mod_origin": "enchant",
       "usage_count": 2,
       "usage_pct": 0.0066,
       "value_samples": [
-        29.0,
-        29.0
-      ]
-    },
-    {
-      "base_name": "Sorcerous Tiara",
-      "slot": "helmet",
-      "mod_template": "+#% to Lightning Resistance",
-      "mod_origin": "desecrated",
-      "usage_count": 2,
-      "usage_pct": 0.0066,
-      "value_samples": [
-        41.0,
-        27.0
+        24.0,
+        21.0
       ]
     },
     {
@@ -61561,12 +61549,12 @@
     {
       "base_name": "Runeforged Sacrificial Regalia",
       "slot": "body_armour",
-      "mod_template": "#% Life Recovery from Flasks also applies to Runic Ward",
+      "mod_template": "#% increased Life and Mana Recovery from Flasks",
       "mod_origin": "rune",
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": [
-        15.0
+        20.0
       ]
     },
     {
@@ -61581,23 +61569,34 @@
     {
       "base_name": "Runeforged Sacrificial Regalia",
       "slot": "body_armour",
+      "mod_template": "Bonded: +# to maximum Life",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        20.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Sacrificial Regalia",
+      "slot": "body_armour",
+      "mod_template": "Bonded: +# to maximum Mana",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        20.0
+      ]
+    },
+    {
+      "base_name": "Runeforged Sacrificial Regalia",
+      "slot": "body_armour",
       "mod_template": "Bonded: +#% to Quality of all Skills",
       "mod_origin": "rune",
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": [
         5.0
-      ]
-    },
-    {
-      "base_name": "Runeforged Sacrificial Regalia",
-      "slot": "body_armour",
-      "mod_template": "Bonded: #% increased Life Recovery from Flasks",
-      "mod_origin": "rune",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        15.0
       ]
     },
     {
@@ -61632,6 +61631,37 @@
       ]
     },
     {
+      "base_name": "Kamasan Tiara",
+      "slot": "helmet",
+      "mod_template": "#% increased Mana Cost Efficiency",
+      "mod_origin": "crafted",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        29.0
+      ]
+    },
+    {
+      "base_name": "Kamasan Tiara",
+      "slot": "helmet",
+      "mod_template": "Allocates Crystallised Immunities",
+      "mod_origin": "enchant",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": []
+    },
+    {
+      "base_name": "Kamasan Tiara",
+      "slot": "helmet",
+      "mod_template": "#% increased Life Regeneration rate",
+      "mod_origin": "enchant",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        17.0
+      ]
+    },
+    {
       "base_name": "Gold Ring",
       "slot": "ring",
       "mod_template": "+#% to all Elemental Resistances",
@@ -61643,34 +61673,25 @@
       ]
     },
     {
-      "base_name": "Sorcerous Tiara",
-      "slot": "helmet",
-      "mod_template": "#% increased Rarity of Items found",
-      "mod_origin": "fractured",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        18.0
-      ]
-    },
-    {
-      "base_name": "Sorcerous Tiara",
-      "slot": "helmet",
-      "mod_template": "Allocates Crystallised Immunities",
-      "mod_origin": "enchant",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": []
-    },
-    {
       "base_name": "Sekhema Sandals",
       "slot": "boots",
-      "mod_template": "#% increased Life and Mana Recovery from Flasks",
+      "mod_template": "#% Life Recovery from Flasks also applies to Runic Ward",
       "mod_origin": "rune",
       "usage_count": 1,
       "usage_pct": 0.0033,
       "value_samples": [
-        32.0
+        24.0
+      ]
+    },
+    {
+      "base_name": "Sekhema Sandals",
+      "slot": "boots",
+      "mod_template": "Bonded: #% increased Life Recovery from Flasks",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        24.0
       ]
     },
     {
@@ -63057,6 +63078,39 @@
     {
       "base_name": "Sorcerous Tiara",
       "slot": "helmet",
+      "mod_template": "#% increased Cost Efficiency",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        15.0
+      ]
+    },
+    {
+      "base_name": "Sorcerous Tiara",
+      "slot": "helmet",
+      "mod_template": "Bonded: Meta Skills have #% increased Reservation Efficiency",
+      "mod_origin": "rune",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        15.0
+      ]
+    },
+    {
+      "base_name": "Sorcerous Tiara",
+      "slot": "helmet",
+      "mod_template": "#% increased Mana Cost Efficiency",
+      "mod_origin": "crafted",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        29.0
+      ]
+    },
+    {
+      "base_name": "Sorcerous Tiara",
+      "slot": "helmet",
       "mod_template": "#% increased Energy Shield",
       "mod_origin": "fractured",
       "usage_count": 1,
@@ -63790,28 +63844,6 @@
       "usage_pct": 0.0033,
       "value_samples": [
         222.0
-      ]
-    },
-    {
-      "base_name": "Kamasan Tiara",
-      "slot": "helmet",
-      "mod_template": "#% increased Cost Efficiency",
-      "mod_origin": "rune",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        15.0
-      ]
-    },
-    {
-      "base_name": "Kamasan Tiara",
-      "slot": "helmet",
-      "mod_template": "Bonded: Meta Skills have #% increased Reservation Efficiency",
-      "mod_origin": "rune",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        15.0
       ]
     },
     {
@@ -68847,17 +68879,6 @@
       "usage_pct": 0.0033,
       "value_samples": [
         19.0
-      ]
-    },
-    {
-      "base_name": "Kamasan Tiara",
-      "slot": "helmet",
-      "mod_template": "#% increased Energy Shield",
-      "mod_origin": "enchant",
-      "usage_count": 1,
-      "usage_pct": 0.0033,
-      "value_samples": [
-        21.0
       ]
     },
     {
@@ -75407,6 +75428,17 @@
       "usage_pct": 0.0033,
       "value_samples": [
         6.4
+      ]
+    },
+    {
+      "base_name": "Sorcerous Tiara",
+      "slot": "helmet",
+      "mod_template": "+#% to Lightning Resistance",
+      "mod_origin": "desecrated",
+      "usage_count": 1,
+      "usage_pct": 0.0033,
+      "value_samples": [
+        27.0
       ]
     },
     {
